@@ -140,7 +140,7 @@ async function main() {
 
   const topBrands = Object.entries(brandTotals).sort((a, b) => b[1] - a[1]).slice(0, 8);
   const topHardware = Object.entries(hardwareTotals).sort((a, b) => b[1] - a[1]).slice(0, 8);
-  const top10 = [...analyzed].sort((a, b) => b.score - a.score).slice(0, 10);
+  const top5 = [...analyzed].sort((a, b) => b.score - a.score).slice(0, 5);
 
   const output = {
     lastUpdated: new Date().toISOString(),
@@ -150,7 +150,7 @@ async function main() {
       totalArticles: analyzed.length,
       failedSources: failed
     },
-    top10,
+    top5,
     articles: analyzed
   };
 
