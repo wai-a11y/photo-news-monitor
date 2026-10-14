@@ -29,7 +29,8 @@ const BRANDS = [
   'Canon','Sony','Nikon','Fujifilm','Panasonic','Leica','OM System','Olympus',
   'Pentax','Ricoh','Hasselblad','DJI','GoPro','Apple','Samsung','Sigma',
   'Tamron','Zeiss','Profoto','Godox','Insta360','Kodak','Polaroid','Phase One',
-  'Mamiya','Viltrox','SmallRig','Peak Design','Blackmagic','RED','ARRI'
+  'Mamiya','Viltrox','SmallRig','Peak Design','Blackmagic','RED','ARRI','Leofoto'
+  'Leitzphone','Xiaomi','Honor'
 ];
 
 const HARDWARE = [
@@ -37,7 +38,7 @@ const HARDWARE = [
   'drone','gimbal','printer','scanner','filter','bag','strap','monitor',
   'light','microphone','stabilizer','mount','adapter','battery','memory card',
   'SSD','GPU','software','Photoshop','Lightroom','Capture One','DaVinci Resolve',
-  'editing','autofocus','IBIS','megapixel','full-frame','APS-C','medium format'
+  'editing','autofocus','IBIS','megapixel','full-frame','APS-C','medium format','monopod'
 ];
 
 // ---------------------------
