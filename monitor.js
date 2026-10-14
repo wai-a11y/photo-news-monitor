@@ -23,7 +23,6 @@ const SOURCES = [
   { name: 'Aperture', url: 'https://aperture.org/feed/', weight: 0.8 },
   { name: 'The Eye of Photography', url: 'https://loeildelaphotographie.com/en/feed/', weight: 0.8 },
   { name: 'LensCulture', url: 'https://www.lensculture.com/feeds/feed.rss', weight: 0.8 },
-  { name: 'Camerajabber', url: 'https://camerajabber.com', weight: 0.8 }
 ];
 
 const BRANDS = [
