@@ -17,15 +17,13 @@ const SOURCES = [
   { name: 'Newsshooter', url: 'https://www.newsshooter.com/feed/', weight: 1.1 },
   { name: 'Amateur Photographer', url: 'https://amateurphotographer.com/feed/', weight: 1.0 },
   { name: 'Photography Life', url: 'https://photographylife.com/feed', weight: 1.1 },
-  { name: 'Magnum Photos', url: 'https://www.magnumphotos.com/feed/', weight: 0.8 },
-  { name: 'World Press Photo', url: 'https://www.worldpressphoto.org/rss/news', weight: 0.8 },
   { name: 'The Guardian Photography', url: 'https://www.theguardian.com/artanddesign/photography/rss', weight: 0.9 },
   { name: 'NYT Lens', url: 'https://rss.nytimes.com/services/xml/rss/nyt/Lens.xml', weight: 0.9 },
   { name: 'British Journal of Photography', url: 'https://www.1854.photography/feed/', weight: 0.9 },
   { name: 'Aperture', url: 'https://aperture.org/feed/', weight: 0.8 },
   { name: 'The Eye of Photography', url: 'https://loeildelaphotographie.com/en/feed/', weight: 0.8 },
-  { name: 'LensCulture', url: 'https://www.lensculture.com/feed', weight: 0.8 },
-  { name: 'Blind Magazine', url: 'https://blindmagazine.net/feed/', weight: 0.8 }
+  { name: 'LensCulture', url: 'https://www.lensculture.com/feeds/feed.rss', weight: 0.8 },
+  { name: 'Camerajabber', url: 'https://camerajabber.com', weight: 0.8 }
 ];
 
 const BRANDS = [
