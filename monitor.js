@@ -15,7 +15,7 @@ const SOURCES = [
   { name: 'Digital Camera World', url: 'https://www.digitalcameraworld.com/feeds.xml', weight: 1.2 },
   { name: 'Photo Rumors', url: 'https://photorumors.com/feed/', weight: 1.2 },
   { name: 'Newsshooter', url: 'https://www.newsshooter.com/feed/', weight: 1.1 },
-  { name: 'Amateur Photographer', url: 'https://www.amateurphotographer.co.uk/feed', weight: 1.0 },
+  { name: 'Amateur Photographer', url: 'https://amateurphotographer.com/feed/', weight: 1.0 },
   { name: 'Photography Life', url: 'https://photographylife.com/feed', weight: 1.1 },
   { name: 'Magnum Photos', url: 'https://www.magnumphotos.com/feed/', weight: 0.8 },
   { name: 'World Press Photo', url: 'https://www.worldpressphoto.org/rss/news', weight: 0.8 },
