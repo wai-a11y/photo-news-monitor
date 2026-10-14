@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Photo News Monitor</title>
+<style>
+  :root {
+    --bg:#0f1115; --card:#171a21; --text:#e8eaf0; --muted:#9aa3b2;
+    --accent:#6ea8fe; --border:#2a2f3a;
+  }
+  * { box-sizing: border-box; }
+  body { margin:0; font-family: system-ui,-apple-system,Segoe UI,Roboto,sans-serif;
+         background:var(--bg); color:var(--text); }
+  header { padding:24px 20px; border-bottom:1px solid var(--border);
+           display:flex; flex-wrap:wrap; gap:12px; align-items:center;
+           justify-content:space-between; }
+  h1 { margin:0; font-size:1.5rem; }
+  h2 { font-size:1.2rem; margin:24px 0 12px; }
+  main { padding:20px; max-width:1200px; margin:0 auto; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
+          gap:16px; margin-bottom:24px; }
+  .card { background:var(--card); border:1px solid var(--border);
+          border-radius:12px; padding:16px; }
+  .card h3 { margin:0 0 10px; font-size:1rem; }
+  .card ul { list-style:none; padding:0; margin:0; }
+  .card li { display:flex; justify-content:space-between; padding:6px 0;
+             border-bottom:1px solid var(--border); }
+  .card li:last-child { border-bottom:0; }
+  .note { color:var(--muted); font-size:.85rem; }
+  .article { display:flex; gap:12px; background:var(--card);
+             border:1px solid var(--border); border-radius:12px;
+             padding:14px; margin-bottom:10px; }
+  .rank { font-size:1.4rem; font-weight:800; color:var(--accent); min-width:40px; }
+  .article h4 { margin:0 0 4px; font-size:1rem; }
+  .article a { color:var(--text); text-decoration:none; }
+  .article a:hover { text-decoration:underline; }
+  .meta { margin:0; color:var(--muted); font-size:.85rem; }
+  .matches { margin:4px 0 0; color:var(--accent); font-size:.8rem; }
+  table { width:100%; border-collapse:collapse; background:var(--card);
+          border-radius:12px; overflow:hidden; }
+  th,td { text-align:left; padding:10px; border-bottom:1px solid var(--border);
+          font-size:.9rem; }
+  th { color:var(--muted); font-weight:600; }
+  a { color:var(--accent); }
+  #status { color:var(--muted); font-size:.9rem; }
+  .error { color:#ff8a8a; }
+</style>
+</head>
+<body>
+<header>
+  <div>
+    <h1>📷 Photo News Monitor</h1>
+    <div id="status">Loading...</div>
+  </div>
+</header>
+
+<main>
+  <section id="summary" class="grid"></section>
+  <section>
+    <h2>Top 5 Articles</h2>
+    <div id="top5"></div>
+  </section>
+  <section>
+    <h2>All Articles</h2>
+    <div id="all"></div>
+  </section>
+</main>
+
+<script>
+function escapeHtml(str) {
+  return String(str).replace(/[&<>"']/g, s => ({
+    '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'
+  }[s]));
+}
+
+async function load() {
+  const statusEl = document.getElementById('status');
+  try {
+    // Cache-bust so we always get the latest committed data.json
+    const res = await fetch(`data.json?v=${Date.now()}`);
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+    render(data);
+  } catch (err) {
+    statusEl.innerHTML = `<span class="error">Failed to load data.json: ${escapeHtml(err.message)}</span>`;
+  }
+}
+
+function render(data) {
+  document.getElementById('status').textContent =
+    `Last updated: ${new Date(data.lastUpdated).toLocaleString()} · ${data.summary.totalArticles} articles` +
+    (data.summary.failedSources?.length
+      ? ` · Failed: ${data.summary.failedSources.join(', ')}`
+      : '');
+
+  document.getElementById('summary').innerHTML = `
+    <div class="card">
+      <h3>Trending Brands</h3>
+      <ul>${data.summary.topBrands.map(([b,c]) =>
+        `<li><strong>${escapeHtml(b)}</strong><span>${c} mentions</span></li>`
+      ).join('') || '<li>No data</li>'}</ul>
+    </div>
+    <div class="card">
+      <h3>Trending Hardware</h3>
+      <ul>${data.summary.topHardware.map(([h,c]) =>
+        `<li><strong>${escapeHtml(h)}</strong><span>${c} mentions</span></li>`
+      ).join('') || '<li>No data</li>'}</ul>
+    </div>
+    <div class="card">
+      <h3>Monitor Status</h3>
+      <p>${data.summary.totalArticles} articles analyzed.</p>
+      <p class="note">Updated automatically once a day via GitHub Actions.</p>
+    </div>
+  `;
+
+  document.getElementById('top5').innerHTML = data.top5.map((a,i) => `
+    <article class="article">
+      <div class="rank">#${i+1}</div>
+      <div>
+        <h4><a href="${escapeHtml(a.link)}" target="_blank" rel="noopener">${escapeHtml(a.title)}</a></h4>
+        <p class="meta">${escapeHtml(a.source)} · ${new Date(a.date).toLocaleDateString()} · Score ${a.score.toFixed(1)}</p>
+        <p class="matches">${escapeHtml(Object.keys(a.brandCounts).join(', '))} ${escapeHtml(Object.keys(a.hardwareCounts).join(', '))}</p>
+      </div>
+    </article>
+  `).join('') || '<p>No articles found.</p>';
+
+  const sorted = [...data.articles].sort((a,b) => b.score - a.score);
+  document.getElementById('all').innerHTML = `
+    <h3>All Articles (${data.articles.length})</h3>
+    <table>
+      <thead><tr><th>Title</th><th>Source</th><th>Date</th><th>Score</th></tr></thead>
+      <tbody>
+        ${sorted.map(a => `
+          <tr>
+            <td><a href="${escapeHtml(a.link)}" target="_blank" rel="noopener">${escapeHtml(a.title)}</a></td>
+            <td>${escapeHtml(a.source)}</td>
+            <td>${new Date(a.date).toLocaleDateString()}</td>
+            <td>${a.score.toFixed(1)}</td>
+          </tr>
+        `).join('')}
+      </tbody>
+    </table>
+  `;
+}
+
+load();
+</script>
+</body>
+</html>
