@@ -1,22 +1,22 @@
 {
-  "lastUpdated": "2026-10-14T13:58:25.367Z",
+  "lastUpdated": "2026-10-14T14:10:58.509Z",
   "summary": {
     "topBrands": [
       [
         "RED",
-        103
+        102
       ],
       [
         "Fujifilm",
+        32
+      ],
+      [
+        "Sony",
         30
       ],
       [
         "Tamron",
         25
-      ],
-      [
-        "Sony",
-        24
       ],
       [
         "Nikon",
@@ -38,11 +38,11 @@
     "topHardware": [
       [
         "lens",
-        110
+        113
       ],
       [
         "camera",
-        108
+        103
       ],
       [
         "mount",
@@ -65,8 +65,8 @@
         10
       ],
       [
-        "filter",
-        9
+        "autofocus",
+        10
       ]
     ],
     "totalArticles": 190,
@@ -97,7 +97,7 @@
       },
       "brandMatches": 8,
       "hardwareMatches": 11,
-      "score": 82.13493686728395
+      "score": 82.13203122299383
     },
     {
       "title": "New Tamron 16-50mm f/2.8 APS-C lens announced (Z/E/RF/X)",
@@ -119,7 +119,7 @@
       },
       "brandMatches": 8,
       "hardwareMatches": 10,
-      "score": 81.14004875
+      "score": 81.1371431095679
     },
     {
       "title": "The Ricoh GR IV camera is finally in stock in the US",
@@ -139,7 +139,7 @@
       },
       "brandMatches": 11,
       "hardwareMatches": 4,
-      "score": 76.48482112654321
+      "score": 76.48191548225309
     },
     {
       "title": "New Tamron 16-50mm f2.8 is compact, lightweight, affordable AND comes in all APS-C mounts!",
@@ -164,7 +164,7 @@
       },
       "brandMatches": 8,
       "hardwareMatches": 8,
-      "score": 74.94828177083333
+      "score": 74.94537613040123
     },
     {
       "title": "Ricoh registered a new R10010 camera",
@@ -183,10 +183,27 @@
       },
       "brandMatches": 10,
       "hardwareMatches": 5,
-      "score": 74.90202791666667
+      "score": 74.89912227623456
     }
   ],
   "articles": [
+    {
+      "title": "Sony’s New ECM-W5 Wireless Mic System Wants To Make Audio Easier",
+      "link": "https://petapixel.com/2026/10/14/sonys-new-ecm-w5-wireless-mic-system-wants-to-make-audio-easier/",
+      "date": "Wed, 14 Oct 2026 14:00:41 +0000",
+      "description": "Sony has announced the ECM-W5 wireless audio solution, which includes the ECM-W5T Wireless Microphone Transmitter, the ECM-W5R Wireless Audio Receiver, and a kit with the receiver, two transmitters, and a charging case. [Read More]",
+      "source": "PetaPixel",
+      "sourceWeight": 1.3,
+      "brandCounts": {
+        "Sony": 2
+      },
+      "hardwareCounts": {
+        "microphone": 1
+      },
+      "brandMatches": 2,
+      "hardwareMatches": 1,
+      "score": 24.29761765432099
+    },
     {
       "title": "Apple Stores to Push iPhone Duo Demonstrations",
       "link": "https://petapixel.com/2026/10/14/apple-stores-to-push-iphone-duo-demonstrations/",
@@ -200,7 +217,7 @@
       "hardwareCounts": {},
       "brandMatches": 2,
       "hardwareMatches": 0,
-      "score": 21.285176072530863
+      "score": 21.282270432098766
     },
     {
       "title": "Tamron 16-50mm f/2.8 A Review: Pro-Level Zoom at an Entry Level Price",
@@ -219,7 +236,7 @@
       },
       "brandMatches": 2,
       "hardwareMatches": 6,
-      "score": 39.162093510802464
+      "score": 39.15918787037037
     },
     {
       "title": "Tamron 16-50mm f/2.8 A Lens Gives APS-C Photographers Cause To Celebrate",
@@ -243,7 +260,7 @@
       },
       "brandMatches": 6,
       "hardwareMatches": 8,
-      "score": 65.16186974537037
+      "score": 65.15896410493828
     },
     {
       "title": "Fujifilm’s Instax Square Lineup Gets a Well-Rounded, Moodier New Camera",
@@ -260,7 +277,7 @@
       },
       "brandMatches": 2,
       "hardwareMatches": 2,
-      "score": 27.13387977623457
+      "score": 27.130974135802468
     },
     {
       "title": "Powerful Photo of a Mother Elephant Carrying Dead Calf Wins Wildlife Photographer of the Year",
@@ -275,7 +292,7 @@
       "hardwareCounts": {},
       "brandMatches": 1,
       "hardwareMatches": 0,
-      "score": 16.085095054012346
+      "score": 16.082189413580245
     },
     {
       "title": "There’s a ‘Bluey’ Photography Game and It Might Actually Be Good",
@@ -288,7 +305,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 11.042483171296297
+      "score": 11.039577530864198
     },
     {
       "title": "Arri Film Lab 1.5 Aims To Emulate Even More Analog Cinema Formats",
@@ -305,7 +322,7 @@
       },
       "brandMatches": 3,
       "hardwareMatches": 1,
-      "score": 29.0260981404321
+      "score": 29.0231925
     },
     {
       "title": "NASA Perseverance Mars Rover Sets New Record for Off-World Distance Driven",
@@ -318,7 +335,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 10.97840138117284
+      "score": 10.97549574074074
     },
     {
       "title": "Apple and LG Bring Connected Cameras To Your Home",
@@ -336,7 +353,7 @@
       },
       "brandMatches": 3,
       "hardwareMatches": 3,
-      "score": 34.96742144290123
+      "score": 34.96451580246914
     },
     {
       "title": "TTArtisan’s Tiny $99 Pancake Lens Weighs Less Than a Camera Battery",
@@ -357,7 +374,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 7,
-      "score": 36.96153795524691
+      "score": 36.958632314814814
     },
     {
       "title": "Member of the Public Snaps Photo of Rare Melanistic Gray Fox",
@@ -370,7 +387,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 10.958096597222223
+      "score": 10.955190956790123
     },
     {
       "title": "GoPro’s Mission 1 Series Updated to Make Them Better Photo Cameras",
@@ -388,7 +405,7 @@
       },
       "brandMatches": 2,
       "hardwareMatches": 3,
-      "score": 29.953293356481485
+      "score": 29.95038771604938
     },
     {
       "title": "Magnetic Accessories Can Affect Your iPhone Camera",
@@ -405,7 +422,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 3,
-      "score": 19.92078949845679
+      "score": 19.91788385802469
     },
     {
       "title": "Man is Reunited With Parents’ 1950s Wedding Photo Album After Search",
@@ -418,23 +435,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 10.89718224537037
-    },
-    {
-      "title": "Enhance Old, Low-Quality Footage and Photos: An All-in-One Workflow with VideoProc",
-      "link": "https://petapixel.com/2026/10/12/enhance-old-low-quality-footage-and-photos-an-all-in-one-workflow-with-videoproc/",
-      "date": "Mon, 12 Oct 2026 21:30:31 +0000",
-      "description": "As photographers and videographers, we all encounter images and footage that fall short of what we envisioned -- a noisy low-light shot, an older 1080p clip from a DSLR viewed on a 4K timeline, or a tightly cropped photo that lacks the detail needed for a large print. [Read More]",
-      "source": "PetaPixel",
-      "sourceWeight": 1.3,
-      "brandCounts": {},
-      "hardwareCounts": {
-        "DSLR": 1,
-        "light": 1
-      },
-      "brandMatches": 0,
-      "hardwareMatches": 2,
-      "score": 16.737984714506172
+      "score": 10.894276604938272
     },
     {
       "title": "Tamron’s 16-50mm F2.8 is a fast, sub-$550 kit lens replacement for every APS-C system",
@@ -453,7 +454,7 @@
       },
       "brandMatches": 3,
       "hardwareMatches": 3,
-      "score": 35.361707708333334
+      "score": 35.35880206404321
     },
     {
       "title": "The Instax Square 2 gives instant film shooters a switch to change the mood",
@@ -466,7 +467,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 11.333698449074074
+      "score": 11.33079280478395
     },
     {
       "title": "Yeti’s new roller case is designed to keep your camera safe, no matter what",
@@ -481,7 +482,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 1,
-      "score": 14.31865601080247
+      "score": 14.315750366512345
     },
     {
       "title": "This year’s Wildlife Photographer winners deliver striking images of our natural world",
@@ -496,7 +497,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 1,
-      "score": 14.285087337962963
+      "score": 14.28218169367284
     },
     {
       "title": "GoPro wants the Mission 1 to be a serious stills camera",
@@ -515,7 +516,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 4,
-      "score": 28.15314289351852
+      "score": 28.150237249228397
     },
     {
       "title": "The best cameras for travel in late 2026",
@@ -530,7 +531,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 4,
-      "score": 22.92084736882716
+      "score": 22.917941724537037
     },
     {
       "title": "The iPhone 18 Pro stops stacking frames when you set shutter speed manually, and it shows in low light",
@@ -547,7 +548,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 1,
-      "score": 18.902004776234566
+      "score": 18.899099131944446
     },
     {
       "title": "The gear I travel with as a professional camera reviewer",
@@ -562,7 +563,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 2,
-      "score": 16.486476226851853
+      "score": 16.48357058256173
     },
     {
       "title": "Canon Camera Connect app: how well does it work?",
@@ -579,7 +580,7 @@
       },
       "brandMatches": 2,
       "hardwareMatches": 4,
-      "score": 32.11147622685185
+      "score": 32.108570582561725
     },
     {
       "title": "Generative AI scandal has come to one of Nikon’s competitions",
@@ -594,7 +595,7 @@
       "hardwareCounts": {},
       "brandMatches": 1,
       "hardwareMatches": 0,
-      "score": 15.009134405864197
+      "score": 15.006228761574073
     },
     {
       "title": "Google releases a free tool to check for an increasingly common AI watermark",
@@ -607,7 +608,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 9.998702307098766
+      "score": 9.99579666280864
     },
     {
       "title": "With the right lenses, all formats can shine",
@@ -622,7 +623,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 1,
-      "score": 12.833837337962963
+      "score": 12.83093169367284
     },
     {
       "title": "The Yashica Crew is a cheap, tiny compact “inspired by friend groups”",
@@ -637,7 +638,7 @@
       "hardwareCounts": {},
       "brandMatches": 1,
       "hardwareMatches": 0,
-      "score": 14.628918356481481
+      "score": 14.626012712191358
     },
     {
       "title": "Why this macro photographer shoots carnivorous plants with a 50-year-old Pentax lens",
@@ -655,7 +656,7 @@
       },
       "brandMatches": 2,
       "hardwareMatches": 2,
-      "score": 25.521966195987652
+      "score": 25.51906055169753
     },
     {
       "title": "Throwback Thursday: Sigma APO 50-150mm F2.8 EX II",
@@ -673,7 +674,61 @@
       },
       "brandMatches": 3,
       "hardwareMatches": 2,
-      "score": 30.500365115740742
+      "score": 30.497459471450618
+    },
+    {
+      "title": "Is the Fujifilm XF 400mm f/4.5 Worth $3,199?",
+      "link": "https://fstoppers.com/gear/fujifilm-xf-400mm-f45-worth-3199-905050?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+      "date": "Wed, 14 Oct 2026 09:03:01 -0400\n",
+      "description": "Long telephoto lenses have always made you choose between reach, weight, and money, and wildlife shooting tends to punish whichever one you skimp on. Fujifilm's new XF 400mm f/4.5 R LM OIS WR gives X-mount shooters a 600mm-equivalent prime that tries to ease the first two compromises at once. [Read More]",
+      "source": "Fstoppers",
+      "sourceWeight": 1.2,
+      "brandCounts": {
+        "Fujifilm": 2
+      },
+      "hardwareCounts": {
+        "lens": 1,
+        "mount": 1
+      },
+      "brandMatches": 2,
+      "hardwareMatches": 2,
+      "score": 27.184268885030864
+    },
+    {
+      "title": "Can the Thypoch Voyager 24-50mm f/2.8 Keep Up With Sony's Own Zoom?",
+      "link": "https://fstoppers.com/gear/can-thypoch-voyager-24-50mm-f28-keep-sonys-own-zoom-905049?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+      "date": "Wed, 14 Oct 2026 07:03:01 -0400\n",
+      "description": "Sony's 24-50mm f/2.8 G is a compact fast standard zoom for full frame Sony bodies, and the Thypoch Voyager 24-50mm f/2.8 goes straight after it with autofocus, an internal zoom, and a much lower price. If you build a compact kit for stills and video, a cheaper lens that keeps pace with Sony's own glass changes how you split your budget between body and lens. [Read More]",
+      "source": "Fstoppers",
+      "sourceWeight": 1.2,
+      "brandCounts": {
+        "Sony": 4
+      },
+      "hardwareCounts": {
+        "lens": 2,
+        "autofocus": 1
+      },
+      "brandMatches": 4,
+      "hardwareMatches": 3,
+      "score": 40.15649110725309
+    },
+    {
+      "title": "Is the TTArtisan AF 24mm f/3.8 Worth $99?",
+      "link": "https://fstoppers.com/gear/ttartisan-af-24mm-f38-worth-99-905048?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+      "date": "Wed, 14 Oct 2026 05:03:01 -0400\n",
+      "description": "The TTArtisan AF 24mm f/3.8 is a $99 autofocus pancake that covers a full frame sensor and weighs under 60 g. If you've ever left your camera at home because it felt like too much to carry, a lens this thin shifts that math in a real way. [Read More]",
+      "source": "Fstoppers",
+      "sourceWeight": 1.2,
+      "brandCounts": {},
+      "hardwareCounts": {
+        "camera": 1,
+        "lens": 1,
+        "sensor": 1,
+        "autofocus": 1
+      },
+      "brandMatches": 0,
+      "hardwareMatches": 4,
+      "score": 23.128713329475307
     },
     {
       "title": "Tamron's 16-50mm f/2.8 A Brings a Fast Zoom to Four APS-C Mounts From $529",
@@ -697,7 +752,7 @@
       },
       "brandMatches": 6,
       "hardwareMatches": 5,
-      "score": 56.06217452932099
+      "score": 56.05926888503087
     },
     {
       "title": "Why Fujifilm Survived the Digital Apocalypse That Killed Kodak",
@@ -715,7 +770,7 @@
       },
       "brandMatches": 4,
       "hardwareMatches": 1,
-      "score": 33.96495230324074
+      "score": 33.962046662808646
     },
     {
       "title": "Hundreds of Photo Tips",
@@ -730,7 +785,7 @@
       "hardwareCounts": {},
       "brandMatches": 1,
       "hardwareMatches": 0,
-      "score": 15.909396747685184
+      "score": 15.906491107253085
     },
     {
       "title": "Woodland Photography Is Hard, But Does It Have to Be?",
@@ -747,7 +802,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 1,
-      "score": 18.895507858796297
+      "score": 18.8926022183642
     },
     {
       "title": "Is an Expensive Photo Printer Worth It?",
@@ -762,7 +817,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 2,
-      "score": 16.881618969907407
+      "score": 16.87871332947531
     },
     {
       "title": "Soft Light Doesn't Have to Mean Bright Shadows",
@@ -777,7 +832,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 2,
-      "score": 16.85384119212963
+      "score": 16.850935551697532
     },
     {
       "title": "Is Panasonic's Lumix S 20mm f/2.5 Sharp Enough?",
@@ -796,7 +851,7 @@
       },
       "brandMatches": 3,
       "hardwareMatches": 3,
-      "score": 34.82606341435186
+      "score": 34.82315777391975
     },
     {
       "title": "What Can You Legally Remove From a Real Estate Photo?",
@@ -811,7 +866,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 1,
-      "score": 13.798289494598764
+      "score": 13.795383854166666
     },
     {
       "title": "The Psychology of Hating Photos of Yourself, Explained by the Mirror Problem",
@@ -826,7 +881,7 @@
       "hardwareCounts": {},
       "brandMatches": 2,
       "hardwareMatches": 0,
-      "score": 20.631618969907407
+      "score": 20.628713329475307
     },
     {
       "title": "Feeling Stuck? Here's How to Jumpstart Your Creativity in Photography",
@@ -839,7 +894,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 10.562174525462963
+      "score": 10.559268885030864
     },
     {
       "title": "7 Travel Items That Make Life on the Road Easier With a Camera",
@@ -855,7 +910,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 3,
-      "score": 19.54828563657407
+      "score": 19.545379996141975
     },
     {
       "title": "Lighting Chrome Golf Clubs Is Harder Than It Looks",
@@ -870,58 +925,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 3,
-      "score": 19.520507858796297
-    },
-    {
-      "title": "Is the Lumix S 20mm f/2.5 Worth $498 if You Already Own the 20-60mm?",
-      "link": "https://fstoppers.com/gear/lumix-s-20mm-f25-worth-498-if-already-own-20-60mm-905023?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-      "date": "Mon, 12 Oct 2026 07:03:01 -0400\n",
-      "description": "Panasonic's new Lumix S 20mm f/2.5 is a tiny full frame prime for L-mount bodies, and it shares its focal length with the kit zoom that ships with a lot of Lumix cameras. That overlap, plus a $498 price, puts real pressure on what a dedicated 20mm prime has to deliver. [Read More]",
-      "source": "Fstoppers",
-      "sourceWeight": 1.2,
-      "brandCounts": {
-        "Panasonic": 1
-      },
-      "hardwareCounts": {
-        "camera": 1,
-        "mount": 1
-      },
-      "brandMatches": 1,
-      "hardwareMatches": 2,
-      "score": 21.492730081018518
-    },
-    {
-      "title": "Have Cameras Finally Peaked in 2026?",
-      "link": "https://fstoppers.com/gear/have-cameras-finally-peaked-2026-905022?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-      "date": "Mon, 12 Oct 2026 05:03:01 -0400\n",
-      "description": "Every new camera announcement still promises a reason to upgrade, yet plenty of people are shooting the same bodies they bought years ago and feel no pull to move on. If you shoot landscapes or buildings on a hobby budget, whether new gear still earns its price decides how you spend the next few thousand dollars. [Read More]",
-      "source": "Fstoppers",
-      "sourceWeight": 1.2,
-      "brandCounts": {},
-      "hardwareCounts": {
-        "camera": 2
-      },
-      "brandMatches": 0,
-      "hardwareMatches": 2,
-      "score": 16.46495230324074
-    },
-    {
-      "title": "The Strange Story of the Kodak Disc, the Worst Camera Kodak Ever Shipped",
-      "link": "https://fstoppers.com/film/strange-story-kodak-disc-worst-camera-kodak-ever-shipped-904187?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-      "date": "Sun, 11 Oct 2026 17:03:02 -0400\n",
-      "description": "In 1982, Kodak sold roughly 8 million disc cameras in a single year, and its president told shareholders the disc system would be \"the new engine that will drive this industry forward.\" Inside those flat little bodies sat a genuine engineering triumph, including the first mass-produced molded glass aspheric lens element the camera industry had ever seen. It still became one of the quietest disasters in the company's history, and the small negative everyone blames was only part of the reason. [Re",
-      "source": "Fstoppers",
-      "sourceWeight": 1.2,
-      "brandCounts": {
-        "Kodak": 3
-      },
-      "hardwareCounts": {
-        "camera": 3,
-        "lens": 1
-      },
-      "brandMatches": 3,
-      "hardwareMatches": 4,
-      "score": 37.29828949459877
+      "score": 19.5176022183642
     },
     {
       "title": "Pergear 50mm f1.4 Review: Exploring the Fish Scale Bokeh Look",
@@ -940,7 +944,7 @@
       },
       "brandMatches": 3,
       "hardwareMatches": 4,
-      "score": 38.08647622299383
+      "score": 38.08357058256173
     },
     {
       "title": "Jamel Shabazz Has a New Mission",
@@ -953,7 +957,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 11.030920667438272
+      "score": 11.028015027006173
     },
     {
       "title": "The New Fujifilm Instax Soft Haze Film Brings 90s Style",
@@ -973,7 +977,7 @@
       },
       "brandMatches": 4,
       "hardwareMatches": 4,
-      "score": 42.93392992669753
+      "score": 42.93102428626543
     },
     {
       "title": "Fujifilm Instax Square 2 Review: How I made Over 40 People Smile",
@@ -990,7 +994,7 @@
       },
       "brandMatches": 3,
       "hardwareMatches": 2,
-      "score": 31.933698445216052
+      "score": 31.93079280478395
     },
     {
       "title": "The Nikon Z8 Behind a Wildlife Photographer of the Year Winner",
@@ -1005,7 +1009,7 @@
       "hardwareCounts": {},
       "brandMatches": 1,
       "hardwareMatches": 0,
-      "score": 15.88508733410494
+      "score": 15.88218169367284
     },
     {
       "title": "Meet the Sponsors Behind the 5 Boro Foto Fest",
@@ -1021,7 +1025,7 @@
       "hardwareCounts": {},
       "brandMatches": 2,
       "hardwareMatches": 0,
-      "score": 20.808698445216052
+      "score": 20.80579280478395
     },
     {
       "title": "The Early 2010s Were the Pinnicle of Human Photography. Can We Go Back?",
@@ -1038,7 +1042,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 6,
-      "score": 28.753142889660495
+      "score": 28.750237249228398
     },
     {
       "title": "Why Every Experimental Film Photographer Should Try the Fujifilm Rensha Cardia BYU-N 16",
@@ -1056,7 +1060,7 @@
       },
       "brandMatches": 2,
       "hardwareMatches": 4,
-      "score": 32.69758733410494
+      "score": 32.69468169367284
     },
     {
       "title": "The Sony System That Helps This Nat Geo Explorer Chronicle the Wild",
@@ -1073,7 +1077,7 @@
       },
       "brandMatches": 2,
       "hardwareMatches": 1,
-      "score": 23.530920667438274
+      "score": 23.528015027006173
     },
     {
       "title": "20% Off Capture One Is Reason Enough to Join the Phoblographer",
@@ -1088,7 +1092,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 3,
-      "score": 19.475365111882716
+      "score": 19.47245947145062
     },
     {
       "title": "There are Too Many Cameras: Not in the Way You Think",
@@ -1106,7 +1110,7 @@
       },
       "brandMatches": 3,
       "hardwareMatches": 3,
-      "score": 34.41980955632716
+      "score": 34.41690391589506
     },
     {
       "title": "What Makes These 5 Old Cameras Special in 2026?",
@@ -1125,7 +1129,7 @@
       },
       "brandMatches": 3,
       "hardwareMatches": 2,
-      "score": 31.36425400077161
+      "score": 31.361348360339505
     },
     {
       "title": "The Canon EF 50mm F1.2 is 20 Years Old. Is it Still Good in 2026?",
@@ -1142,7 +1146,7 @@
       },
       "brandMatches": 3,
       "hardwareMatches": 2,
-      "score": 31.197587334104938
+      "score": 31.19468169367284
     },
     {
       "title": "Optical Zoom vs Digital Zoom: Why a Camera is Better Than Your Phone",
@@ -1158,7 +1162,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 2,
-      "score": 16.142031778549384
+      "score": 16.13912613425926
     },
     {
       "title": "Our Analog Film Presets Turn Any Portrait Into a Roll of Real Film",
@@ -1171,7 +1175,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 10.086476222993825
+      "score": 10.083570578703704
     },
     {
       "title": "Tamron’s 16-50mm f/2.8 is a Sub-$550 APS-C Zoom That Covers Four Mounts",
@@ -1195,7 +1199,7 @@
       },
       "brandMatches": 8,
       "hardwareMatches": 6,
-      "score": 69.0931351736111
+      "score": 69.09022952932098
     },
     {
       "title": "Hubble and Gemini North Telescope Shows Three Views of Jupiter",
@@ -1212,7 +1216,7 @@
       },
       "brandMatches": 4,
       "hardwareMatches": 1,
-      "score": 34.08647622299383
+      "score": 34.08357057870371
     },
     {
       "title": "Fujifilm’s New Instax Square Camera Lets You Set the Mood",
@@ -1232,7 +1236,7 @@
       },
       "brandMatches": 4,
       "hardwareMatches": 4,
-      "score": 42.98049628472222
+      "score": 42.977590640432105
     },
     {
       "title": "Heartbreaking Photo of Elephant Carrying Her Dead Calf Wins 2026 Wildlife Photographer of the Year",
@@ -1247,7 +1251,7 @@
       "hardwareCounts": {},
       "brandMatches": 1,
       "hardwareMatches": 0,
-      "score": 15.872355852623457
+      "score": 15.869450208333333
     },
     {
       "title": "Getty Images Files for Bankruptcy, Going Private Again",
@@ -1262,7 +1266,7 @@
       "hardwareCounts": {},
       "brandMatches": 1,
       "hardwareMatches": 0,
-      "score": 15.817753229166666
+      "score": 15.814847584876544
     },
     {
       "title": "OM SYSTEM Has a Solution for Photographers Who Can’t Feel Their Fingers",
@@ -1280,7 +1284,7 @@
       },
       "brandMatches": 4,
       "hardwareMatches": 1,
-      "score": 33.78786511188272
+      "score": 33.78495946759259
     },
     {
       "title": "Hera Spots Didymos for the First Time, But It Is Smaller Than a Pixel",
@@ -1295,7 +1299,7 @@
       "hardwareCounts": {},
       "brandMatches": 2,
       "hardwareMatches": 0,
-      "score": 20.753142889660495
+      "score": 20.75023724537037
     },
     {
       "title": "OM System PEN Arrives October 30, but Some Orders May Take Months",
@@ -1314,7 +1318,7 @@
       },
       "brandMatches": 6,
       "hardwareMatches": 1,
-      "score": 43.48578177854939
+      "score": 43.482876134259264
     },
     {
       "title": "Yashica’s New Pocket Camera Wants to Steal Your Phone’s Job",
@@ -1332,7 +1336,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 4,
-      "score": 27.454531778549384
+      "score": 27.45162613425926
     },
     {
       "title": "JWST Captures the Galaxy Behind the Most Distant Fast Radio Burst Yet",
@@ -1349,7 +1353,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 1,
-      "score": 18.41980955632716
+      "score": 18.416903912037036
     },
     {
       "title": " Taking photos with the GoPro Mission 1 series now feels more like a traditional camera than a video camera, thanks to firmware ",
@@ -1367,7 +1371,7 @@
       },
       "brandMatches": 2,
       "hardwareMatches": 5,
-      "score": 36.194373599537045
+      "score": 36.191467955246914
     },
     {
       "title": " Wild photos and videos of a “space jellyfish”  behind a rocket are quickly going viral. NASA explains the magic behind the jaw-dropping sight ",
@@ -1382,7 +1386,7 @@
       "hardwareCounts": {},
       "brandMatches": 2,
       "hardwareMatches": 0,
-      "score": 21.179578070987656
+      "score": 21.176672430555556
     },
     {
       "title": " Canon fixes the same problem on two of its R6-series cameras – and while there's just one fix, it is an important one ",
@@ -1401,7 +1405,7 @@
       },
       "brandMatches": 2,
       "hardwareMatches": 4,
-      "score": 33.15719766975309
+      "score": 33.15429202932099
     },
     {
       "title": " These four full-frame cameras are getting firmware improvements – including new features for the popular Panasonic Lumix S9 ",
@@ -1420,7 +1424,7 @@
       },
       "brandMatches": 2,
       "hardwareMatches": 4,
-      "score": 33.147089645061726
+      "score": 33.14418400462963
     },
     {
       "title": " OM System boosts fast-action photography with 50fps firmware update for these three telephoto lenses ",
@@ -1438,7 +1442,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 3,
-      "score": 25.114716959876542
+      "score": 25.111811319444445
     },
     {
       "title": " President Donald Trump doesn’t like the term artificial intelligence, but can ‘super intelligence’ really catch on? ",
@@ -1456,7 +1460,7 @@
       },
       "brandMatches": 2,
       "hardwareMatches": 2,
-      "score": 27.104300293209878
+      "score": 27.101394652777778
     },
     {
       "title": " Tamron 16-50mm f/2.8 A hands-on review: A compact lens that feels as light as a kit lens but packs an f/2.8 punch ",
@@ -1476,7 +1480,7 @@
       },
       "brandMatches": 2,
       "hardwareMatches": 7,
-      "score": 42.06263362654322
+      "score": 42.05972798611111
     },
     {
       "title": " Tamron’s new multi-mount lens is so small, it feels like a kit lens – but it’s an f/2.8. I took the new Tamron 16-50mm f/2.8 A on a fall color hike ",
@@ -1495,7 +1499,7 @@
       },
       "brandMatches": 3,
       "hardwareMatches": 6,
-      "score": 44.06170770061729
+      "score": 44.05880206018519
     },
     {
       "title": " Fujifilm Instax Square 2 review: This square, automatic instant film camera hides an unusual party trick ",
@@ -1512,7 +1516,7 @@
       },
       "brandMatches": 2,
       "hardwareMatches": 2,
-      "score": 27.033698441358023
+      "score": 27.030792800925926
     },
     {
       "title": " The Instax so popular that Fujifilm can't keep it in stock just got an overhaul. The Fujifilm Instax Square 2 hides an unusual trick for moody film ",
@@ -1529,7 +1533,7 @@
       },
       "brandMatches": 2,
       "hardwareMatches": 1,
-      "score": 24.033698441358023
+      "score": 24.030792800925926
     },
     {
       "title": " Deeply moving black-and-white photograph crowned as the year's best wildlife image might teach us about an elephant's journey towards understanding death ",
@@ -1544,7 +1548,7 @@
       "hardwareCounts": {},
       "brandMatches": 1,
       "hardwareMatches": 0,
-      "score": 15.985087330246913
+      "score": 15.982181689814814
     },
     {
       "title": " This is Zora, the robot keeping elderly people company, snapped by a Wellcome Prize-winning photographer ",
@@ -1559,7 +1563,7 @@
       "hardwareCounts": {},
       "brandMatches": 1,
       "hardwareMatches": 0,
-      "score": 15.908698441358023
+      "score": 15.905792800925926
     },
     {
       "title": " Led by the \"Camera of the Year\", the top three mirrorless cameras in Japan all come from one manufacturer – but the brand's dominance is easing ",
@@ -1576,7 +1580,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 6,
-      "score": 28.90319689814815
+      "score": 28.90029125771605
     },
     {
       "title": " \"It's a rare treat to see a puma hunting right in front of you\" – third major award for unusual photo of female puma attempting to catch a guanaco... but failing ",
@@ -1591,7 +1595,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 1,
-      "score": 13.895183780864196
+      "score": 13.892278140432099
     },
     {
       "title": " AI just built fully working clones of Photoshop, Lightroom and other Creative Cloud software that you can use for free… Just how worried should Adobe be? ",
@@ -1609,7 +1613,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 4,
-      "score": 22.88038825617284
+      "score": 22.877482615740742
     },
     {
       "title": "New Tamron 16-50mm f/2.8 APS-C lens announced (Z/E/RF/X)",
@@ -1631,7 +1635,7 @@
       },
       "brandMatches": 8,
       "hardwareMatches": 10,
-      "score": 81.14004875
+      "score": 81.1371431095679
     },
     {
       "title": "TTartisan AF 24mm f/3.8 mini full-frame pancake lens officially announced ($99)",
@@ -1650,7 +1654,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 9,
-      "score": 42.82415368827161
+      "score": 42.82124804783951
     },
     {
       "title": "AstrHori KF 8mm f/2.4 medium-format circular fisheye lens for GFX/XCD mount coming soon",
@@ -1668,7 +1672,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 8,
-      "score": 39.81510662037037
+      "score": 39.812200979938275
     },
     {
       "title": "Four new Sirui lenses coming soon: 15mm f/1.6, 24mm f/1.4, 20mm f/2.4, and 40mm f/2.2",
@@ -1692,7 +1696,7 @@
       },
       "brandMatches": 5,
       "hardwareMatches": 9,
-      "score": 62.474145972222225
+      "score": 62.47124033179013
     },
     {
       "title": "The latest updates on the upcoming lenses from China",
@@ -1713,7 +1717,7 @@
       },
       "brandMatches": 4,
       "hardwareMatches": 6,
-      "score": 48.45848625000001
+      "score": 48.4555806095679
     },
     {
       "title": "Pergear announced a new 10mm f/5.6 II pancake fisheye lens for $69 (X/E/Z/RF/MFT/EOS-M)",
@@ -1731,7 +1735,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 4,
-      "score": 27.28334350308642
+      "score": 27.28043786265432
     },
     {
       "title": "Sirui has two new full-frame autofocus lenses: 15mm f/1.6 and 24mm f/1.4",
@@ -1752,7 +1756,7 @@
       },
       "brandMatches": 3,
       "hardwareMatches": 13,
-      "score": 63.938112021604944
+      "score": 63.93520638117285
     },
     {
       "title": "Ricoh registered a new R10010 camera",
@@ -1771,7 +1775,7 @@
       },
       "brandMatches": 10,
       "hardwareMatches": 5,
-      "score": 74.90202791666667
+      "score": 74.89912227623456
     },
     {
       "title": "The latest photo editing software news",
@@ -1790,7 +1794,7 @@
       },
       "brandMatches": 2,
       "hardwareMatches": 8,
-      "score": 43.78321618827161
+      "score": 43.780310547839505
     },
     {
       "title": "What else is new?",
@@ -1810,7 +1814,7 @@
       },
       "brandMatches": 3,
       "hardwareMatches": 12,
-      "score": 60.78194304012346
+      "score": 60.77903739969136
     },
     {
       "title": "The Ricoh GR IV camera is finally in stock in the US",
@@ -1830,7 +1834,7 @@
       },
       "brandMatches": 11,
       "hardwareMatches": 4,
-      "score": 76.48482112654321
+      "score": 76.48191548225309
     },
     {
       "title": "OM System to announce two new lenses: 40-150mm f/4.5-5.6 R II and 45mm f/1.8 II",
@@ -1848,7 +1852,7 @@
       },
       "brandMatches": 4,
       "hardwareMatches": 4,
-      "score": 41.46643763888889
+      "score": 41.46353199459877
     },
     {
       "title": "Sigma announces compact 50-120mm f/2.8 APS-C lens, brings 16-300mm to Z mount",
@@ -1869,7 +1873,7 @@
       },
       "brandMatches": 8,
       "hardwareMatches": 11,
-      "score": 82.13493686728395
+      "score": 82.13203122299383
     },
     {
       "title": "The 2026 5DayDeal Photography Bundle is now available",
@@ -1884,7 +1888,7 @@
       "hardwareCounts": {},
       "brandMatches": 2,
       "hardwareMatches": 0,
-      "score": 18.881688406635803
+      "score": 18.878782766203702
     },
     {
       "title": "The new Sony FX5 camera is delayed, the shipping date is now November 16th",
@@ -1903,7 +1907,7 @@
       },
       "brandMatches": 8,
       "hardwareMatches": 6,
-      "score": 66.79443532021605
+      "score": 66.79152967978395
     },
     {
       "title": "Save $250 USD on Core SWX Fleet Q4 Mini Chargers",
@@ -1920,7 +1924,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 4,
-      "score": 27.988393653549384
+      "score": 27.985488013117283
     },
     {
       "title": "Getty Images files for Bankruptcy",
@@ -1935,7 +1939,7 @@
       "hardwareCounts": {},
       "brandMatches": 1,
       "hardwareMatches": 0,
-      "score": 15.919778684413581
+      "score": 15.916873043981482
     },
     {
       "title": "GoPro MISSION 1 Pro & MISSION 1 Pro ILS Firmware Updates– Continuous 50MP RAW Photos & Anamorphic Lens Support",
@@ -1956,7 +1960,7 @@
       },
       "brandMatches": 4,
       "hardwareMatches": 8,
-      "score": 54.91349010416667
+      "score": 54.91058446373457
     },
     {
       "title": "TTArtisan AF 24mm F3.8– a full-frame Sony E-mount AF lens for less than $100 USD",
@@ -1978,7 +1982,7 @@
       },
       "brandMatches": 4,
       "hardwareMatches": 13,
-      "score": 69.76025707947531
+      "score": 69.7573514390432
     },
     {
       "title": "Save $250 USD on the Blackmagic Design HyperDeck Shuttle HD",
@@ -1994,7 +1998,7 @@
       "hardwareCounts": {},
       "brandMatches": 4,
       "hardwareMatches": 0,
-      "score": 30.634500906635804
+      "score": 30.631595266203703
     },
     {
       "title": "Sausages, sandals and sex toys – step into the colourful and influential world of Martin Parr",
@@ -2009,7 +2013,7 @@
       "hardwareCounts": {},
       "brandMatches": 1,
       "hardwareMatches": 0,
-      "score": 15.97426556712963
+      "score": 15.97135992669753
     },
     {
       "title": "It’s easy to see why this camera is going viral with a price like this",
@@ -2027,7 +2031,7 @@
       },
       "brandMatches": 2,
       "hardwareMatches": 4,
-      "score": 32.96633732638889
+      "score": 32.96343168595679
     },
     {
       "title": "New Tamron 16-50mm f2.8 is compact, lightweight, affordable AND comes in all APS-C mounts!",
@@ -2052,7 +2056,7 @@
       },
       "brandMatches": 8,
       "hardwareMatches": 8,
-      "score": 74.94828177083333
+      "score": 74.94537613040123
     },
     {
       "title": "The best camera phones for photography – These are the top choices in 2026",
@@ -2071,7 +2075,7 @@
       },
       "brandMatches": 3,
       "hardwareMatches": 3,
-      "score": 34.948050289351855
+      "score": 34.94514464891975
     },
     {
       "title": "iPhone 18 Pro vs 18 Pro Max – are the cameras the same?",
@@ -2088,7 +2092,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 2,
-      "score": 21.939022511574073
+      "score": 21.936116871141977
     },
     {
       "title": "Our favourite photo taken by YOU! This week, a creative flower scene – plus more wildlife, street and landscape shots",
@@ -2103,7 +2107,7 @@
       "hardwareCounts": {},
       "brandMatches": 1,
       "hardwareMatches": 0,
-      "score": 15.933235474537037
+      "score": 15.930329834104938
     },
     {
       "title": "Kase Revolution Ring review – easily use one size filter on multiple lenses!",
@@ -2121,7 +2125,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 6,
-      "score": 33.923976215277776
+      "score": 33.92107057484568
     },
     {
       "title": "Fujifilm’s new Instax Square 2 camera has warm and cool filters built right in",
@@ -2140,7 +2144,7 @@
       },
       "brandMatches": 5,
       "hardwareMatches": 6,
-      "score": 53.920503993055554
+      "score": 53.91759835262346
     },
     {
       "title": "I’ve been using the brand new Oppo Find X10 Pro Max and the pictures are fantastic – it shoots photos like Kodak Gold!",
@@ -2159,7 +2163,7 @@
       },
       "brandMatches": 4,
       "hardwareMatches": 1,
-      "score": 33.91703177083333
+      "score": 33.914126130401236
     },
     {
       "title": "The world’s best wildlife photography has been revealed! You’ll love looking at these superb images of nature",
@@ -2174,7 +2178,7 @@
       "hardwareCounts": {},
       "brandMatches": 2,
       "hardwareMatches": 0,
-      "score": 20.78508732638889
+      "score": 20.78218168595679
     },
     {
       "title": "The best Sony lenses in 2026 for photography and video",
@@ -2193,7 +2197,7 @@
       },
       "brandMatches": 4,
       "hardwareMatches": 5,
-      "score": 45.692494733796295
+      "score": 45.6895890933642
     },
     {
       "title": "TTArtisan debuts an impossibly tiny new wide-angle pancake lens that weighs just 57g!",
@@ -2210,7 +2214,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 2,
-      "score": 21.682297974537036
+      "score": 21.67939233410494
     },
     {
       "title": "I’m a professional photographer, and I think we’re being fleeced by Alamy and other stock photo libraries",
@@ -2225,7 +2229,7 @@
       "hardwareCounts": {},
       "brandMatches": 1,
       "hardwareMatches": 0,
-      "score": 15.673617418981483
+      "score": 15.670711778549382
     },
     {
       "title": "These beautiful nature photographs are not what they seem",
@@ -2240,7 +2244,7 @@
       "hardwareCounts": {},
       "brandMatches": 1,
       "hardwareMatches": 0,
-      "score": 15.621892881944445
+      "score": 15.618987241512345
     },
     {
       "title": "iPhone 18 Pro Review – with added photography features, is this now the ultimate camera phone?",
@@ -2258,7 +2262,7 @@
       },
       "brandMatches": 2,
       "hardwareMatches": 2,
-      "score": 26.61031880787037
+      "score": 26.60741316743827
     },
     {
       "title": "Photography News: Sigma and Tamron’s New Lenses",
@@ -2281,7 +2285,7 @@
       },
       "brandMatches": 3,
       "hardwareMatches": 7,
-      "score": 46.49254874614198
+      "score": 46.48964310570988
     },
     {
       "title": "Photography Lessons from Australian Birds: Part Three",
@@ -2296,7 +2300,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 3,
-      "score": 18.591715412808643
+      "score": 18.588809772376543
     },
     {
       "title": "A Landscape Photographer Goes on Safari",
@@ -2313,7 +2317,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 1,
-      "score": 16.63409195601852
+      "score": 16.631186315586422
     },
     {
       "title": "Photography News: Two Firsts from Laowa, Landscape Photography Gear on Sale",
@@ -2326,7 +2330,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 8.1777609375
+      "score": 8.174855297067902
     },
     {
       "title": "Photography Lessons from Australian Birds: Part Two",
@@ -2341,7 +2345,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 1,
-      "score": 10.249311863425927
+      "score": 10.246406222993828
     },
     {
       "title": "Brightin Star 50mm f/1.05 Field Review",
@@ -2358,7 +2362,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 3,
-      "score": 20.22974782021605
+      "score": 20.22684217978395
     },
     {
       "title": "Photography News: Lens Sales, Sony a7S IV Rumor",
@@ -2378,7 +2382,7 @@
       },
       "brandMatches": 5,
       "hardwareMatches": 4,
-      "score": 42.88653022376543
+      "score": 42.883624587191356
     },
     {
       "title": "Photography Lessons from Australian Birds: Part One",
@@ -2391,7 +2395,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 5.300071890432099
+      "score": 5.297166253858023
     },
     {
       "title": "Nikon Z5 IIC Announced: Full Frame Stripped Down",
@@ -2409,7 +2413,7 @@
       },
       "brandMatches": 2,
       "hardwareMatches": 2,
-      "score": 20.311676828703707
+      "score": 20.30877119212963
     },
     {
       "title": "Photography News: Canon EOS R8 Mark II, Canon and Fujifilm Sales",
@@ -2431,20 +2435,35 @@
       },
       "brandMatches": 5,
       "hardwareMatches": 4,
-      "score": 40.42861741512346
+      "score": 40.425711778549385
+    },
+    {
+      "title": "‘I must continue until I die’: inside the fight to bring Iran’s thriving art scene to the world",
+      "link": "https://www.theguardian.com/artanddesign/2026/oct/14/iran-art-scene-continuum-dario-duran-interview",
+      "date": "Wed, 14 Oct 2026 14:00:05 GMT",
+      "description": "Amid economic sanctions and ongoing conflict, a new initiative is returning Iran’s artists to the international spotlight When the call came early one morning, Tehran resident Elham Issari knew it must be urgent. The voice on the line was offering something precious. “Miss Elham,” he said excitedly, “I have a single tube of white paint! It’s overpriced and I know it’s overpriced but, if you want it, you have to buy it right now because there’s this other guy in this other city who wants it and y",
+      "source": "The Guardian Photography",
+      "sourceWeight": 0.9,
+      "brandCounts": {},
+      "hardwareCounts": {
+        "light": 1
+      },
+      "brandMatches": 0,
+      "hardwareMatches": 1,
+      "score": 13.897478753858024
     },
     {
       "title": "A dominatrix and her tightly bound client: Giada Ripa’s best photograph",
       "link": "https://www.theguardian.com/artanddesign/2026/oct/14/japanese-dominatrix-tightly-bound-client-samurai-giada-ripa-best-photograph",
       "date": "Wed, 14 Oct 2026 13:39:13 GMT",
-      "description": "‘Karen is a Japanese dominatrix and “rope artist” who ties up her clients in a way that echoes how samurai would bind their prisoners. Her clients are mostly men with high pressure jobs’ Ten years ago, my dad called to say he had found these amazing images hidden under piles of maps and stuff in an attic in our family home in Piemonte, northern Italy. He had come across a leather-bound album of 53 black and white photographs: portraits of Japanese “native types”, reflecting the 19th-century colo",
+      "description": "‘Karen is a Japanese dominatrix and “rope artist” who ties up her clients in a way that echoes how samurai would bind their prisoners. Her clients are mostly men with high-pressure jobs’ Ten years ago, my dad called to say he had found these amazing images hidden under piles of maps and stuff in an attic in our family home in Piemonte, northern Italy. He had come across a leather-bound album of 53 black and white photographs: portraits of Japanese “native types”, reflecting the 19th-century colo",
       "source": "The Guardian Photography",
       "sourceWeight": 0.9,
       "brandCounts": {},
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 10.895554143518519
+      "score": 10.89264850308642
     },
     {
       "title": "Wildlife photographer of the year 2026 winners – in pictures",
@@ -2457,7 +2476,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 10.812841952160495
+      "score": 10.809936311728396
     },
     {
       "title": "‘At war with the obvious’: the everyday genius of William Eggleston – in pictures",
@@ -2470,7 +2489,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 10.789439174382716
+      "score": 10.786533533950617
     },
     {
       "title": "Our Bodies Have Been Bridges review – riveting portraits and the story of the first woman on Earth",
@@ -2483,7 +2502,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 10.528366643518519
+      "score": 10.525461003086422
     },
     {
       "title": "Fight the power! Protest and rebellion in America – in pictures",
@@ -2496,7 +2515,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 10.45598238425926
+      "score": 10.453076743827161
     },
     {
       "title": "Protests, storms and a pumpkin regatta: photos of the day – Monday",
@@ -2509,7 +2528,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 10.22041525462963
+      "score": 10.217509614197532
     },
     {
       "title": "‘We’re in a brotherhood now’: the Bill Pickett rodeo – photo essay",
@@ -2524,7 +2543,7 @@
       "hardwareCounts": {},
       "brandMatches": 1,
       "hardwareMatches": 0,
-      "score": 15.12276864969136
+      "score": 15.11986300925926
     },
     {
       "title": "Ian Berry obituary",
@@ -2539,7 +2558,7 @@
       "hardwareCounts": {},
       "brandMatches": 3,
       "hardwareMatches": 0,
-      "score": 24.930750902777774
+      "score": 24.927845262345677
     },
     {
       "title": "Dollywood down under: Dolly Parton fans and drag queens turn a tiny Australian town pink",
@@ -2554,7 +2573,7 @@
       "hardwareCounts": {},
       "brandMatches": 1,
       "hardwareMatches": 0,
-      "score": 14.900476983024692
+      "score": 14.897571342592594
     },
     {
       "title": "Gareth Malone looks back: ‘After the Christmas No 1, I was meeting Simon Cowell, having tea with Gary Barlow and dinner with Andrew Lloyd Webber’",
@@ -2569,7 +2588,7 @@
       "hardwareCounts": {},
       "brandMatches": 1,
       "hardwareMatches": 0,
-      "score": 14.886576520061729
+      "score": 14.883670879629632
     },
     {
       "title": "Animals and their people: country shows across the UK – in pictures",
@@ -2582,7 +2601,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 9.789323433641977
+      "score": 9.786417793209877
     },
     {
       "title": "Blooming beautiful! The Tesselaar tulip festival – in pictures",
@@ -2595,7 +2614,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 9.692070347222224
+      "score": 9.689164706790123
     },
     {
       "title": "Edge Control: the art exhibition using hidden camera images to explore race and beauty",
@@ -2610,7 +2629,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 1,
-      "score": 12.539473896604939
+      "score": 12.53656825617284
     },
     {
       "title": "‘They looked like two curtain-twitchers, though not very subtle ones’: Peter Crome’s best phone picture",
@@ -2625,22 +2644,7 @@
       "hardwareCounts": {},
       "brandMatches": 1,
       "hardwareMatches": 0,
-      "score": 14.511688402777777
-    },
-    {
-      "title": "Remember Me review – narrow view of two photographic centuries is like a history of food in three ham sarnies",
-      "link": "https://www.theguardian.com/artanddesign/2026/oct/10/remember-me-review-photography-bourse-de-commerce-paris",
-      "date": "Sat, 10 Oct 2026 04:00:46 GMT",
-      "description": "Bourse de Commerce, Paris There are 700 works from François Pinault’s collection on display – more than half of them by Irving Penn – but it’s a blinkered selection and annoyingly didactic ‘Beware … of assuming the sterile attitude of the spectator, for life is not a spectacle” scream the words of Aimé Césaire – writ large and bold by Barbara Kruger, in a giant installation, The History of Tears, that fills Bourse de Commerce’s spectacular Rotunda. Kruger’s angry, menacing, viscerally charged wo",
-      "source": "The Guardian Photography",
-      "sourceWeight": 0.9,
-      "brandCounts": {
-        "RED": 1
-      },
-      "hardwareCounts": {},
-      "brandMatches": 1,
-      "hardwareMatches": 0,
-      "score": 14.428320347222224
+      "score": 14.508782762345678
     },
     {
       "title": "Afro-Ecuadoreans Maintain Identity Through Spiritual Practices",
@@ -2864,7 +2868,7 @@
       "hardwareCounts": {},
       "brandMatches": 1,
       "hardwareMatches": 0,
-      "score": 15.178193032407407
+      "score": 15.175287391975308
     },
     {
       "title": "Last chance to see Kyotographie: Kawada Kikuji x Iwane Ai",
@@ -2879,7 +2883,7 @@
       "hardwareCounts": {},
       "brandMatches": 1,
       "hardwareMatches": 0,
-      "score": 14.246429915123455
+      "score": 14.243524274691358
     },
     {
       "title": "Frieze frame!",
@@ -2894,7 +2898,7 @@
       "hardwareCounts": {},
       "brandMatches": 1,
       "hardwareMatches": 0,
-      "score": 13.865685316358025
+      "score": 13.862779675925927
     },
     {
       "title": "Jip Schalkx on social media, self-branding and our hybrid social reality",
@@ -2909,7 +2913,7 @@
       "hardwareCounts": {},
       "brandMatches": 1,
       "hardwareMatches": 0,
-      "score": 13.855739328703704
+      "score": 13.852833688271605
     },
     {
       "title": "Among people with Jillian Edelstein",
@@ -2924,7 +2928,7 @@
       "hardwareCounts": {},
       "brandMatches": 1,
       "hardwareMatches": 0,
-      "score": 13.153015563271605
+      "score": 13.150109922839507
     },
     {
       "title": "Gathering Londoni Memoirs and a Bangladeshi generation’s experience of moving and settling in Britain",
@@ -2939,7 +2943,7 @@
       "hardwareCounts": {},
       "brandMatches": 1,
       "hardwareMatches": 0,
-      "score": 11.50714750771605
+      "score": 11.504241867283952
     },
     {
       "title": "Bristol Photo Festival 2026 enters the Time Machine",
@@ -2956,7 +2960,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 1,
-      "score": 13.608698433641974
+      "score": 13.605792793209877
     },
     {
       "title": "Restoring the fractured archive: SWANA collective memory at BredaPhoto Festival",
@@ -2971,7 +2975,7 @@
       "hardwareCounts": {},
       "brandMatches": 6,
       "hardwareMatches": 0,
-      "score": 35.55591679783951
+      "score": 35.553011157407404
     },
     {
       "title": "Thinking through technology",
@@ -2986,7 +2990,7 @@
       "hardwareCounts": {},
       "brandMatches": 1,
       "hardwareMatches": 0,
-      "score": 9.49237127314815
+      "score": 9.48946563271605
     },
     {
       "title": "Aperture opens a permanent headquarters in New York",
@@ -3001,7 +3005,7 @@
       "hardwareCounts": {},
       "brandMatches": 1,
       "hardwareMatches": 0,
-      "score": 8.16433500771605
+      "score": 8.16142936728395
     },
     {
       "title": "Lee Friedlander’s Seven-Decade Portrait of a Marriage",
@@ -3017,7 +3021,7 @@
       "hardwareCounts": {},
       "brandMatches": 2,
       "hardwareMatches": 0,
-      "score": 19.135542569444443
+      "score": 19.132636929012346
     },
     {
       "title": "Dayanita Singh Dreams of Archives",
@@ -3030,7 +3034,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 9.13401864969136
+      "score": 9.131113009259261
     },
     {
       "title": "Announcing the 2026 PhotoBook Awards Shortlist",
@@ -3043,7 +3047,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 8.802483155864198
+      "score": 8.799577515432098
     },
     {
       "title": "The Photographers Who Shaped Our Picture of New York",
@@ -3056,7 +3060,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 6.8130309953703705
+      "score": 6.810125354938273
     },
     {
       "title": "Stephen Shore on How to Sharpen Your Mind’s Eye",
@@ -3069,7 +3073,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 6.810689174382716
+      "score": 6.807783533950618
     },
     {
       "title": "Melissa Auf der Maur’s ’90s Grunge Diary",
@@ -3082,7 +3086,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 4.53044611882716
+      "score": 4.527540478395062
     },
     {
       "title": "Aperture Opens at 380 Columbus Avenue",
@@ -3095,7 +3099,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 2.2380734336419748
+      "score": 2.235167793209877
     },
     {
       "title": "Behind the Scenes with the Architects of Aperture’s New Home",
@@ -3108,7 +3112,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 2.131923738425926
+      "score": 2.129018101851852
     },
     {
       "title": "The Artist Who Spent Fifty Years Bringing Museum Dioramas Back to Life",
@@ -3121,7 +3125,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 2.1315958063271605
+      "score": 2.128690169753087
     },
     {
       "title": "14 Exhibitions to See This Fall",
@@ -3147,7 +3151,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 10.640669880401234
+      "score": 10.637764243827162
     },
     {
       "title": "Open Call – The 2026 Aftermath Project post-conflict grant",
@@ -3162,7 +3166,7 @@
       "hardwareCounts": {},
       "brandMatches": 1,
       "hardwareMatches": 0,
-      "score": 15.639705374228397
+      "score": 15.636799737654322
     },
     {
       "title": "Last-Minute – HIPA launches Global Photography Competition",
@@ -3177,7 +3181,7 @@
       "hardwareCounts": {},
       "brandMatches": 1,
       "hardwareMatches": 0,
-      "score": 15.638397503858027
+      "score": 15.63549186728395
     },
     {
       "title": "Podcast – Reza, Aina Boy, or the child who became a thought leader",
@@ -3190,7 +3194,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 10.637359695216052
+      "score": 10.634454058641975
     },
     {
       "title": "Graciela Iturbide is to receive the 2026 Leica Hall of Fame Award",
@@ -3207,7 +3211,7 @@
       },
       "brandMatches": 4,
       "hardwareMatches": 1,
-      "score": 33.63610583719135
+      "score": 33.63320020061728
     },
     {
       "title": "Fourth edition of the Booksellers’ Photography Book Prize",
@@ -3222,7 +3226,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 1,
-      "score": 13.634905991512348
+      "score": 13.632000354938272
     },
     {
       "title": "Chabe! – Number 5 is coming",
@@ -3235,7 +3239,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 10.633791022376544
+      "score": 10.63088538580247
     },
     {
       "title": "Flaran Abbey – The Bicentenary of Photography",
@@ -3248,7 +3252,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 10.632679911265434
+      "score": 10.629774274691359
     },
     {
       "title": "Swann Galleries : Fine Photographs",
@@ -3261,7 +3265,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 10.342058769290125
+      "score": 10.33915313271605
     },
     {
       "title": "Huis Marseille : Adolphe de Meyer : The Substance of a Venetian Dream",
@@ -3276,7 +3280,7 @@
       "hardwareCounts": {},
       "brandMatches": 2,
       "hardwareMatches": 0,
-      "score": 20.341703831018517
+      "score": 20.33879819058642
     }
   ]
 }
