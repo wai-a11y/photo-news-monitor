@@ -1,6 +1,8 @@
 name: Daily Photo News Monitor
 
 on:
+  schedule:
+    - cron: '0 6 * * *'
   workflow_dispatch:
 
 permissions:
@@ -26,12 +28,6 @@ jobs:
       - name: Run monitor script
         run: node monitor.js
 
-      - name: Show working directory and files
-        run: |
-          pwd
-          ls -la
-          find . -name "data.json" -not -path "./.git/*"
-
       - name: Commit and push data.json
         run: |
           set -e
@@ -39,8 +35,8 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data.json
           if git diff --staged --quiet; then
-            echo "❌ ERROR: No changes to commit — data.json may be missing"
-            exit 1
+            echo "No changes to commit — data.json is unchanged"
+            exit 0
           fi
           git commit -m "chore: update daily photo news data"
           git push origin HEAD:main
