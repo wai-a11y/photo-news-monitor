@@ -1,8 +1,6 @@
 name: Daily Photo News Monitor
 
 on:
-  schedule:
-    - cron: '0 6 * * *'
   workflow_dispatch:
 
 permissions:
@@ -13,15 +11,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
 
       - name: Install dependencies
         run: npm install
@@ -29,12 +26,21 @@ jobs:
       - name: Run monitor script
         run: node monitor.js
 
+      - name: Show working directory and files
+        run: |
+          pwd
+          ls -la
+          find . -name "data.json" -not -path "./.git/*"
+
       - name: Commit and push data.json
         run: |
-          set -x
+          set -e
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data.json
-          git status
-          git commit -m "chore: update daily photo news data" || echo "Nothing to commit"
+          if git diff --staged --quiet; then
+            echo "❌ ERROR: No changes to commit — data.json may be missing"
+            exit 1
+          fi
+          git commit -m "chore: update daily photo news data"
           git push origin HEAD:main
