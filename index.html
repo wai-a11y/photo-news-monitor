@@ -98,6 +98,7 @@ async function load() {
 }
 
 function render(data) {
+  allArticles = [...data.articles].sort((a, b) => b.score - a.score);
   document.getElementById('status').textContent =
     `Last updated: ${new Date(data.lastUpdated).toLocaleString()} · ${data.summary.totalArticles} articles` +
     (data.summary.failedSources?.length
@@ -135,23 +136,10 @@ function render(data) {
     </article>
   `).join('') || '<p>No articles found.</p>';
 
-  const sorted = [...data.articles].sort((a,b) => b.score - a.score);
-  document.getElementById('all').innerHTML = `
-    <h3>All Articles (${data.articles.length})</h3>
-    <table>
-      <thead><tr><th>Title</th><th>Source</th><th>Date</th><th>Score</th></tr></thead>
-      <tbody>
-        ${sorted.map(a => `
-          <tr>
-            <td><a href="${escapeHtml(a.link)}" target="_blank" rel="noopener">${escapeHtml(a.title)}</a></td>
-            <td>${escapeHtml(a.source)}</td>
-            <td>${new Date(a.date).toLocaleDateString()}</td>
-            <td>${a.score.toFixed(1)}</td>
-          </tr>
-        `).join('')}
-      </tbody>
-    </table>
-  `;
+  renderArticles();
+
+  const searchBox = document.getElementById('brandSearch');
+  if (searchBox) searchBox.oninput = renderArticles;
 }
 
 load();
