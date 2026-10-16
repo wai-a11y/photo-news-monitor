@@ -142,6 +142,39 @@ function render(data) {
   if (searchBox) searchBox.oninput = renderArticles;
 }
 
+function renderArticles() {
+  const query = (document.getElementById('brandSearch')?.value || '').trim().toLowerCase();
+
+  const filtered = query
+    ? allArticles.filter(a => {
+        const haystack = [
+          a.title, a.source,
+          ...Object.keys(a.brandCounts || {}),
+          ...Object.keys(a.hardwareCounts || {})
+        ].join(' ').toLowerCase();
+        return haystack.includes(query);
+      })
+    : allArticles;
+
+  document.getElementById('all').innerHTML = `
+    <h3>All Articles (${filtered.length}${query ? ` of ${allArticles.length}` : ''})</h3>
+    <table>
+      <thead><tr><th>Title</th><th>Source</th><th>Date</th><th>Score</th></tr></thead>
+      <tbody>
+        ${filtered.map(a => `
+          <tr>
+            <td><a href="${escapeHtml(a.link)}" target="_blank" rel="noopener">${escapeHtml(a.title)}</a></td>
+            <td>${escapeHtml(a.source)}</td>
+            <td>${new Date(a.date).toLocaleDateString()}</td>
+            <td>${a.score.toFixed(1)}</td>
+          </tr>
+        `).join('') || '<tr><td colspan="4">No matching articles.</td></tr>'}
+      </tbody>
+    </table>
+  `;
+}
+  
+
 load();
 </script>
 </body>
