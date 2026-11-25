@@ -1,72 +1,72 @@
 {
-  "lastUpdated": "2026-11-24T17:23:40.329Z",
+  "lastUpdated": "2026-11-25T17:00:26.201Z",
   "summary": {
     "topBrands": [
       [
-        "Nikon",
-        24
+        "Fujifilm",
+        25
       ],
       [
-        "Fujifilm",
-        24
+        "Sony",
+        23
+      ],
+      [
+        "Nikon",
+        22
       ],
       [
         "ARRI",
         17
       ],
       [
-        "Sony",
-        15
-      ],
-      [
-        "Panasonic",
+        "Insta360",
         13
       ],
       [
-        "Insta360",
-        10
-      ],
-      [
-        "Canon",
-        9
+        "Panasonic",
+        12
       ],
       [
         "Leica",
-        9
+        11
+      ],
+      [
+        "Kodak",
+        10
       ]
     ],
     "topHardware": [
       [
         "camera",
-        140
+        124
       ],
       [
         "lens",
-        69
+        78
       ],
       [
         "light",
-        47
+        44
       ],
       [
         "mount",
-        31
+        35
       ],
       [
-        "full-frame",
-        14
-      ],
-      [
-        "mirrorless",
+        "Photoshop",
         12
       ],
       [
-        "firmware",
-        9
+        "sensor",
+        11
       ],
       [
-        "tripod",
-        8
+        "full-frame",
+        10
+      ],
+      [
+        "autofocus",
+        9
       ]
     ],
     "totalArticles": 215,
@@ -91,7 +91,7 @@
       },
       "brandMatches": 9,
       "hardwareMatches": 7,
-      "score": 76.2896746720679
+      "score": 75.96171991512345
     },
     {
       "title": "New ZY Optics (Zhongyi) Mitakon Speedmaster 65mm f/1.4 II lens for Fuji GFX & Hasselblad X mount announced",
@@ -112,7 +112,7 @@
       },
       "brandMatches": 6,
       "hardwareMatches": 11,
-      "score": 72.3102958101852
+      "score": 71.98234105709876
     },
     {
       "title": "The latest Panasonic Lumix L10 compact fixed-lens camera is finally in stock",
@@ -130,7 +130,26 @@
       },
       "brandMatches": 7,
       "hardwareMatches": 9,
-      "score": 71.89693161651235
+      "score": 71.56897685956791
+    },
+    {
+      "title": "Save $6,490 USD on the ZEISS Nano Prime 6-Lens Set (Sony E, Feet)",
+      "link": "https://www.newsshooter.com/2026/11/24/save-6490-usd-on-the-zeiss-nano-prime-6-lens-set-sony-e-feet/",
+      "date": "Wed, 25 Nov 2026 02:09:21 +0000",
+      "description": "B&H has a god Black Friday deal where you can save $6,490 USD on the ZEISS Nano Prime 6-Lens Set (Sony E, Feet) and purchase it for $19,460 USD. Key features The ZEISS Nano Prime 6-Lens Set includes six commonly used focal lengths ranging from wide-angle to telephoto. Included in this Sony E full-frame compatible ... Read more The post Save $6,490 USD on the ZEISS Nano Prime 6-Lens Set (Sony E, Feet) appeared first on Newsshooter.",
+      "source": "Newsshooter",
+      "sourceWeight": 1.1,
+      "brandCounts": {
+        "Sony": 4,
+        "Zeiss": 4
+      },
+      "hardwareCounts": {
+        "lens": 4,
+        "full-frame": 1
+      },
+      "brandMatches": 8,
+      "hardwareMatches": 5,
+      "score": 65.89372994598764
     },
     {
       "title": "Thypoch Sculptor AF 23mm f/1.4 APS-C lens for Fujifilm X-mount officially announced",
@@ -150,261 +169,275 @@
       },
       "brandMatches": 4,
       "hardwareMatches": 12,
-      "score": 65.82838609182099
-    },
-    {
-      "title": "New TTartisan AF 12mm f/2.8 full-frame autofocus ultra-wide angle lens announced (E/Z/L)",
-      "link": "https://photorumors.com/2026/11/24/new-ttartisan-af-12mm-f-2-8-full-frame-autofocus-ultra-wide-angle-lens-announced-e-z-l/",
-      "date": "Tue, 24 Nov 2026 15:47:53 +0000",
-      "description": "TTartisan announced a new AF 12mm f/2.8 full-frame autofocus 122° ultra-wide-angle lens for Nikon Z-mount and Sony E-mount – the L-mount version will be released later (price: US$489). Pre-orders are now open at: US: B&H Photo Worldwide: TTartisan Additional information on the new lens can be found here: TTartisan announced a new AF 12mm f/2.8 full-frame […] The post New TTartisan AF 12mm f/2.8 full-frame autofocus ultra-wide angle lens announced (E/Z/L) appeared first on Photo Rumors. Brightin ",
-      "source": "Photo Rumors",
-      "sourceWeight": 1.2,
-      "brandCounts": {
-        "Sony": 1,
-        "Nikon": 1
-      },
-      "hardwareCounts": {
-        "lens": 4,
-        "mount": 3,
-        "autofocus": 3,
-        "full-frame": 4
-      },
-      "brandMatches": 2,
-      "hardwareMatches": 14,
-      "score": 63.17782667824074
+      "score": 65.50043133487655
     }
   ],
   "articles": [
     {
-      "title": "13 Winners From the The Royal Photographic Society Awards 2026",
-      "link": "https://petapixel.com/2026/11/24/13-winners-from-the-the-royal-photographic-society-awards-2026/",
-      "date": "Tue, 24 Nov 2026 16:35:09 +0000",
-      "description": "The Royal Photographic Society (RPS) has announced the recipients of its 2026 Awards, with cinematographer Sir Roger Deakins among this year's honorees. [Read More]",
+      "title": "Hollywood and Analog Photography Power Kodak’s Fifth Consecutive Quarter of Growth",
+      "link": "https://petapixel.com/2026/11/25/hollywood-and-analog-photography-power-kodaks-fifth-consecutive-quarter-of-growth/",
+      "date": "Wed, 25 Nov 2026 15:14:52 +0000",
+      "description": "It has now been five straight quarters of growth for the transformed, resurgent Eastman Kodak. [Read More]",
       "source": "PetaPixel",
       "sourceWeight": 1.3,
       "brandCounts": {
-        "Honor": 1
+        "Kodak": 2
       },
       "hardwareCounts": {},
-      "brandMatches": 1,
+      "brandMatches": 2,
       "hardwareMatches": 0,
-      "score": 16.288768047839504
+      "score": 21.275562519290123
     },
     {
-      "title": "Jimmy Chin’s Jaw-Dropping Photo Shot on iPhone Makes TIME’s Top 100 Photos of 2026",
-      "link": "https://petapixel.com/2026/11/24/jimmy-chins-jaw-dropping-photo-shot-on-iphone-makes-times-top-100-photos-of-2026/",
-      "date": "Tue, 24 Nov 2026 15:38:26 +0000",
-      "description": "TIME has released its annual Top 100 Photos of the Year feature, celebrating striking images that capture the biggest moments and events of 2026. One of the featured photos was shot by acclaimed photographer and filmmaker Jimmy Chin using the iPhone 18 Pro, marking a milestone for Apple's latest flagship smartphone and, of course, Chin himself. [Read More]",
+      "title": "Family Photographer Arrested for Allegedly Concealing Her Earnings",
+      "link": "https://petapixel.com/2026/11/25/family-photographer-arrested-for-allegedly-concealing-her-earnings/",
+      "date": "Wed, 25 Nov 2026 14:30:21 +0000",
+      "description": "A family photographer has been arrested for allegedly hiding income from her photography business to obtain more than $30,000 in food assistance benefits. [Read More]",
+      "source": "PetaPixel",
+      "sourceWeight": 1.3,
+      "brandCounts": {},
+      "hardwareCounts": {},
+      "brandMatches": 0,
+      "hardwareMatches": 0,
+      "score": 11.265257735339507
+    },
+    {
+      "title": "AI-Generated Characters Are Stealing Content Creators’ Viral Videos",
+      "link": "https://petapixel.com/2026/11/25/ai-generated-characters-are-stealing-content-creators-viral-videos/",
+      "date": "Wed, 25 Nov 2026 14:19:49 +0000",
+      "description": "Content creators are increasingly discovering AI-generated versions of their videos in which almost everything is identical, except that they have been replaced by AI-generated characters. [Read More]",
+      "source": "PetaPixel",
+      "sourceWeight": 1.3,
+      "brandCounts": {},
+      "hardwareCounts": {},
+      "brandMatches": 0,
+      "hardwareMatches": 0,
+      "score": 11.26281946373457
+    },
+    {
+      "title": "Brightin Star’s Gorgeous New 35mm f/1.7 APO Lens for Leica M Has Arrived",
+      "link": "https://petapixel.com/2026/11/25/brightin-stars-gorgeous-new-35mm-f-1-7-apo-lens-for-leica-m-has-arrived/",
+      "date": "Wed, 25 Nov 2026 13:58:46 +0000",
+      "description": "Brightin Star first unveiled its new APO 35mm f/1.7 ASPH. lens for Leica M-Mount cameras at CP+ in February and then launched it on Kickstarter in August. As of today, it's available to everyone, and it's still as handsome as ever. [Read More]",
+      "source": "PetaPixel",
+      "sourceWeight": 1.3,
+      "brandCounts": {
+        "Leica": 2,
+        "ARRI": 1
+      },
+      "hardwareCounts": {
+        "camera": 1,
+        "lens": 2,
+        "mount": 1
+      },
+      "brandMatches": 3,
+      "hardwareMatches": 4,
+      "score": 38.25794677854938
+    },
+    {
+      "title": "Photographers Protest Australia’s Plans to Weaken Copyright Laws for AI",
+      "link": "https://petapixel.com/2026/11/25/photographers-protest-australias-plans-to-weaken-copyright-laws-for-ai/",
+      "date": "Wed, 25 Nov 2026 13:51:10 +0000",
+      "description": "Photographers have signed a statement protesting the Australian government’s plans to weaken copyright law to benefit AI companies. [Read More]",
+      "source": "PetaPixel",
+      "sourceWeight": 1.3,
+      "brandCounts": {},
+      "hardwareCounts": {},
+      "brandMatches": 0,
+      "hardwareMatches": 0,
+      "score": 11.256187519290123
+    },
+    {
+      "title": "Germany Agrees to Hand Over Photo Archive Chronicling a Family’s Persecution by Nazis",
+      "link": "https://petapixel.com/2026/11/25/germany-agrees-to-hand-over-photo-archive-chronicling-a-familys-persecution-by-nazis/",
+      "date": "Wed, 25 Nov 2026 13:05:20 +0000",
+      "description": "The German government has agreed to hand over an extensive photo archive to the Jehovah’s Witnesses that documents the persecution of a pacifist Christian family under the Nazi regime. [Read More]",
+      "source": "PetaPixel",
+      "sourceWeight": 1.3,
+      "brandCounts": {},
+      "hardwareCounts": {},
+      "brandMatches": 0,
+      "hardwareMatches": 0,
+      "score": 11.245577951388888
+    },
+    {
+      "title": "Astronaut Captures Video of the Moon Melting Into Earth’s Atmosphere",
+      "link": "https://petapixel.com/2026/11/25/astronaut-captures-video-of-the-moon-melting-into-earths-atmosphere/",
+      "date": "Wed, 25 Nov 2026 12:20:10 +0000",
+      "description": "NASA astronaut Anil Menon captured a spectacular video of a moonset yesterday (Tuesday) from onboard the International Space Station. [Read More]",
+      "source": "PetaPixel",
+      "sourceWeight": 1.3,
+      "brandCounts": {},
+      "hardwareCounts": {},
+      "brandMatches": 0,
+      "hardwareMatches": 0,
+      "score": 11.235122704475309
+    },
+    {
+      "title": "Student Photographer Who Lost Right Eye While Covering LA Protest Sues Federal Government",
+      "link": "https://petapixel.com/2026/11/25/student-photographer-who-lost-right-eye-while-covering-la-protest-sues-federal-government/",
+      "date": "Wed, 25 Nov 2026 11:59:56 +0000",
+      "description": "A student photographer who lost his right eye after he was allegedly struck by a projectile fired by a Department of Homeland Security (DHS) agent while covering a “No Kings” protest is suing the federal government. [Read More]",
+      "source": "PetaPixel",
+      "sourceWeight": 1.3,
+      "brandCounts": {},
+      "hardwareCounts": {},
+      "brandMatches": 0,
+      "hardwareMatches": 0,
+      "score": 11.2304390625
+    },
+    {
+      "title": "The Hedonistic Days of Raving in Europe Revealed in New Photo Book",
+      "link": "https://petapixel.com/2026/11/25/the-hedonistic-days-of-raving-in-europe-revealed-in-new-photo-book/",
+      "date": "Wed, 25 Nov 2026 10:59:35 +0000",
+      "description": "A new photography book offers a glimpse into Europe's underground rave culture at the turn of the millennium, documenting the free-party movement through the eyes of two photographers who were part of the scene. [Read More]",
+      "source": "PetaPixel",
+      "sourceWeight": 1.3,
+      "brandCounts": {},
+      "hardwareCounts": {},
+      "brandMatches": 0,
+      "hardwareMatches": 0,
+      "score": 11.216469155092593
+    },
+    {
+      "title": "Adobe Lightroom’s New Native iPhone Duo Support Is Fantastic",
+      "link": "https://petapixel.com/2026/11/24/adobe-lightrooms-new-native-iphone-duo-support-is-fantastic/",
+      "date": "Tue, 24 Nov 2026 21:10:43 +0000",
+      "description": "Apple's first foldable phone, the iPhone Duo, has been out in the wild for a month now, and more apps are being updated to natively support the dual-screened device all the time. Adobe Lightroom just got a big iPhone Duo compatibility update this week, and it is a strong example of how good the Duo can be. [Read More]",
       "source": "PetaPixel",
       "sourceWeight": 1.3,
       "brandCounts": {
         "Apple": 1
       },
-      "hardwareCounts": {},
-      "brandMatches": 1,
-      "hardwareMatches": 0,
-      "score": 16.275639189814815
-    },
-    {
-      "title": "Pelican Protector 2.0 vs YETI Gobox: Photo Gear Hardcase Throwdown!",
-      "link": "https://petapixel.com/2026/11/24/pelican-protector-2-0-vs-yeti-gobox-photo-gear-hardcase-throwdown/",
-      "date": "Tue, 24 Nov 2026 15:30:14 +0000",
-      "description": "With the release of the new Pelican Protector 2.0 Series and the YETI GoBox system with the KOR Insert, I decided to pit them against each other to see which gear case can take a beating and come out on top. And what better way to do it than to stuff them full of glass and roll them down a hill? [Read More]",
-      "source": "PetaPixel",
-      "sourceWeight": 1.3,
-      "brandCounts": {},
-      "hardwareCounts": {},
-      "brandMatches": 0,
-      "hardwareMatches": 0,
-      "score": 11.273741041666668
-    },
-    {
-      "title": "Nirvana Fans Raise $94K for Photographer Who Shot ‘Bleach’ Album Cover as She Battles Cancer",
-      "link": "https://petapixel.com/2026/11/24/nirvana-fans-raise-94k-for-photographer-who-shot-bleach-album-cover-as-she-battles-cancer/",
-      "date": "Tue, 24 Nov 2026 15:00:26 +0000",
-      "description": "Nirvana fans have raised over $94,000 for the photographer who shot the cover of the band's debut album Bleach, to cover her medical expenses as she enters hospice care. [Read More]",
-      "source": "PetaPixel",
-      "sourceWeight": 1.3,
-      "brandCounts": {},
-      "hardwareCounts": {},
-      "brandMatches": 0,
-      "hardwareMatches": 0,
-      "score": 11.266842893518518
-    },
-    {
-      "title": "TTArtisan’s AF 12mm f/2.8 Is a $489 Ultra-Wide Prime for Full-Frame Cameras",
-      "link": "https://petapixel.com/2026/11/24/ttartisans-af-12mm-f-2-8-is-a-489-ultra-wide-prime-for-full-frame-cameras/",
-      "date": "Tue, 24 Nov 2026 14:10:16 +0000",
-      "description": "TTArtisan has unveiled the AF 12mm f/2.8 ASPH., a new ultra-wide-angle lens for full-frame Sony and Nikon mirrorless cameras. Better still, it's very affordable. [Read More]",
-      "source": "PetaPixel",
-      "sourceWeight": 1.3,
-      "brandCounts": {
-        "Sony": 1,
-        "Nikon": 1
-      },
       "hardwareCounts": {
-        "camera": 2,
-        "lens": 1,
-        "mirrorless": 1,
-        "full-frame": 2
+        "light": 2,
+        "Lightroom": 2
       },
-      "brandMatches": 2,
-      "hardwareMatches": 6,
-      "score": 39.25523023919753
+      "brandMatches": 1,
+      "hardwareMatches": 4,
+      "score": 28.02460187114198
     },
     {
-      "title": "Insta360’s X6 Winter Update Syncs 360° Video Capture with the Slopes App",
-      "link": "https://petapixel.com/2026/11/24/insta360s-x6-winter-update-syncs-360-video-capture-with-the-slopes-app/",
-      "date": "Tue, 24 Nov 2026 14:00:27 +0000",
-      "description": "Insta360 has announced a winter update for the X6 360-degree camera that ties footage to activity data in the popular ski and snowboard app Slopes, linking the footage to GPS data without needing a dedicated GPS accessory. [Read More]",
+      "title": "You Can Buy a Fujifilm GFX Eterna 55 for $6,500 Less Than Before",
+      "link": "https://petapixel.com/2026/11/24/you-can-buy-a-fujifilm-gfx-eterna-55-for-6500-less-than-before/",
+      "date": "Tue, 24 Nov 2026 19:27:35 +0000",
+      "description": "Filmmakers will soon be able to get their hands on the large-format Fujifilm GFX Eterna 55 cinema camera for considerably less money than before. [Read More]",
       "source": "PetaPixel",
       "sourceWeight": 1.3,
       "brandCounts": {
-        "Insta360": 2
+        "Fujifilm": 2
       },
       "hardwareCounts": {
         "camera": 1
       },
       "brandMatches": 2,
       "hardwareMatches": 1,
-      "score": 24.252957862654323
+      "score": 24.00072841435185
     },
     {
-      "title": "Getty Images Demands Release of Veteran Photographer Detained in Iran",
-      "link": "https://petapixel.com/2026/11/24/getty-images-demands-release-of-veteran-photographer-detained-in-iran/",
-      "date": "Tue, 24 Nov 2026 13:47:29 +0000",
-      "description": "Getty Images is demanding the release of veteran Iranian photojournalist Majid Saeedi, a regular contributor to the photo agency who has been detained in Iran for more than two months. [Read More]",
-      "source": "PetaPixel",
-      "sourceWeight": 1.3,
-      "brandCounts": {},
-      "hardwareCounts": {},
-      "brandMatches": 0,
-      "hardwareMatches": 0,
-      "score": 11.249956319444445
-    },
-    {
-      "title": "Melania Trump Is Selling $150 Digital Photos of Herself Taken by Ellen von Unwerth",
-      "link": "https://petapixel.com/2026/11/24/melania-trump-is-selling-150-digital-photos-of-herself-taken-by-ellen-von-unwerth/",
-      "date": "Tue, 24 Nov 2026 12:38:45 +0000",
-      "description": "U.S. first lady Melania Trump is selling digital photos of herself shot by influential fashion photographer Ellen von Unwerth for $150. [Read More]",
-      "source": "PetaPixel",
-      "sourceWeight": 1.3,
-      "brandCounts": {},
-      "hardwareCounts": {},
-      "brandMatches": 0,
-      "hardwareMatches": 0,
-      "score": 11.23404582175926
-    },
-    {
-      "title": "Photographer’s Camera Plunges 150 Feet Off a Cliff After Tripod Mishap",
-      "link": "https://petapixel.com/2026/11/24/photographers-camera-plunges-150-feet-off-a-cliff-after-tripod-mishap/",
-      "date": "Tue, 24 Nov 2026 12:17:44 +0000",
-      "description": "A photographer didn't expect to see her camera again after it plunged 150 feet off a cliff in Arkansas -- until a well-known photographer stepped in. [Read More]",
+      "title": "Black Friday Sale: Save 30% on Excire’s Award-Winning Photo-Management Software",
+      "link": "https://petapixel.com/2026/11/24/black-friday-sale-save-30-on-excires-award-winning-photo-management-software/",
+      "date": "Tue, 24 Nov 2026 18:45:25 +0000",
+      "description": "For most photographers, taking pictures is the fun part. But finding a particular image months later, organizing thousands of files, or selecting a handful of keepers from a long shoot can involve considerably more frustration, and a lot more time. Fortunately, Excire's specialized photo-management software is designed to make that easier and faster. [Read More]",
       "source": "PetaPixel",
       "sourceWeight": 1.3,
       "brandCounts": {},
       "hardwareCounts": {
-        "camera": 2,
-        "tripod": 1
+        "software": 2
       },
       "brandMatches": 0,
-      "hardwareMatches": 3,
-      "score": 20.229180852623458
+      "hardwareMatches": 2,
+      "score": 16.990967611882716
     },
     {
-      "title": "GTA VI Player Banned From PlayStation Network for Sharing Photo He Took in the Game",
-      "link": "https://petapixel.com/2026/11/24/gta-vi-player-banned-from-playstation-network-for-sharing-photo-he-took-in-the-game/",
-      "date": "Tue, 24 Nov 2026 11:04:03 +0000",
-      "description": "A Grand Theft Auto VI player says he received a 30-day suspension from PlayStation Network’s social features for sharing a photograph he took in the game. [Read More]",
+      "title": "NASA Spacecraft Snaps Moody Photo of Earth on Its Way to Mars",
+      "link": "https://petapixel.com/2026/11/24/nasa-spacecraft-snaps-moody-photo-of-earth-on-its-way-to-mars/",
+      "date": "Tue, 24 Nov 2026 17:45:35 +0000",
+      "description": "NASA’s ESCAPADE spacecraft has captured an incredible photo of the Earth as it slingshotted past the planet on its way to Mars. [Read More]",
       "source": "PetaPixel",
       "sourceWeight": 1.3,
       "brandCounts": {},
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 11.212124525462963
+      "score": 10.977117303240743
     },
     {
-      "title": "Free Mac Photo Editor Channels Aperture and Lightroom Classic",
-      "link": "https://petapixel.com/2026/11/23/free-mac-photo-editor-channels-aperture-and-lightroom-classic/",
-      "date": "Mon, 23 Nov 2026 21:20:10 +0000",
-      "description": "PixelLoupe is a free, open-source photography app built natively for macOS that promises many of Adobe Lightroom's photo editing and asset management tools. [Read More]",
+      "title": "New York Times Prohibits Photographers From Using Photoshop 2027",
+      "link": "https://petapixel.com/2026/11/24/new-york-times-prohibits-photographers-from-using-photoshop-2027/",
+      "date": "Tue, 24 Nov 2026 17:41:13 +0000",
+      "description": "The latest version of Adobe Photoshop, Photoshop 2027 (28.0.0), added many AI-powered photo-editing features. Not all photographers are thrilled about the increasingly heavy focus on generative AI inside Photoshop, and photojournalists are taking note, too. [Read More]",
       "source": "PetaPixel",
       "sourceWeight": 1.3,
       "brandCounts": {},
       "hardwareCounts": {
-        "light": 2,
-        "Lightroom": 2,
+        "Photoshop": 4,
         "editing": 1
       },
       "brandMatches": 0,
       "hardwareMatches": 5,
-      "score": 26.02141079089506
+      "score": 25.976106500771603
     },
     {
-      "title": "NASA Image of the Day Captures Cancer Cells in Microgravity Aboard the ISS",
-      "link": "https://petapixel.com/2026/11/23/nasa-image-of-the-day-captures-cancer-cells-in-microgravity-aboard-the-iss/",
-      "date": "Mon, 23 Nov 2026 20:14:09 +0000",
-      "description": "Last month, scientists and photographers all over the world competed in the 52nd annual Nikon Small World Photomicrography Competition, revealing an incredible, often unseen microscopic world. Photomicrography has gone to space thanks to a joint experiment by NASA and Encapsulate Inc. [Read More]",
-      "source": "PetaPixel",
-      "sourceWeight": 1.3,
-      "brandCounts": {
-        "Nikon": 1
-      },
-      "hardwareCounts": {},
-      "brandMatches": 1,
-      "hardwareMatches": 0,
-      "score": 16.00612915509259
-    },
-    {
-      "title": "Denoise, Sharpen, and Upscale Wildlife Photos With Aiarty: 49% Off for Black Friday",
-      "link": "https://petapixel.com/2026/11/23/denoise-sharpen-and-upscale-wildlife-photos-with-aiarty-49-off-for-black-friday/",
-      "date": "Mon, 23 Nov 2026 19:06:04 +0000",
-      "description": "Wildlife photography often involves compromise. A distant subject, high ISO (the camera's light-sensitivity setting, which adds grainy noise as it climbs), cropping, and less-than-ideal light can all leave a good photograph needing some careful refinement. A meerkat shot at ISO 3200 comes back speckled with grain. A bird's eye lands a touch soft. A deer too far away has to be cropped, then enlarged. The trick is cleaning all of that up without the animal looking fake. [Read More]",
-      "source": "PetaPixel",
-      "sourceWeight": 1.3,
-      "brandCounts": {},
-      "hardwareCounts": {
-        "camera": 1,
-        "light": 2
-      },
-      "brandMatches": 0,
-      "hardwareMatches": 3,
-      "score": 19.990369124228394
-    },
-    {
-      "title": "Coman’s T1 Mini ‘One-Click’ Carbon Fiber Tripod Racks Up Over $375,000 on Kickstarter",
-      "link": "https://petapixel.com/2026/11/23/comans-t1-mini-one-click-carbon-fiber-tripod-racks-up-over-375000-on-kickstarter/",
-      "date": "Mon, 23 Nov 2026 18:52:37 +0000",
-      "description": "Coman bills its new T1 Mini tripod as \"the world's first one-click travel tripod,\" and so far, photographers are keen to try it for themselves. Available first on Kickstarter, the tripod has racked up over $375,000 in funding with three days left in the campaign. [Read More]",
-      "source": "PetaPixel",
-      "sourceWeight": 1.3,
-      "brandCounts": {},
-      "hardwareCounts": {
-        "tripod": 4
-      },
-      "brandMatches": 0,
-      "hardwareMatches": 4,
-      "score": 22.98725569830247
-    },
-    {
-      "title": "Dutch Watchdog Says Smart Glasses That Record People Are ‘Unsafe’",
-      "link": "https://petapixel.com/2026/11/23/dutch-watchdog-says-smart-glasses-that-record-people-are-unsafe/",
-      "date": "Mon, 23 Nov 2026 17:58:10 +0000",
-      "description": "The Dutch Data Protection Authority has advised consumers against buying AI-powered smart glasses, warning that the devices pose risks to both users and bystanders. [Read More]",
+      "title": "Rare 1889 Photo of Historic New York Giants Baseball Team Is Up for Auction",
+      "link": "https://petapixel.com/2026/11/24/rare-1889-photo-of-historic-new-york-giants-baseball-team-is-up-for-auction/",
+      "date": "Tue, 24 Nov 2026 16:39:07 +0000",
+      "description": "A rare cabinet photograph of the New York Giants, one of early professional baseball’s most significant teams, taken by renowned baseball photographer Joseph Hall in 1889, is up for auction. [Read More]",
       "source": "PetaPixel",
       "sourceWeight": 1.3,
       "brandCounts": {},
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 10.974651531635804
+      "score": 10.961731500771606
+    },
+    {
+      "title": "The photos that inspired you most in 2026",
+      "link": "https://www.dpreview.com/articles/the-photos-that-inspired-you-most-in-2026/",
+      "date": "Wed, 25 Nov 2026 15:29:50 +0000",
+      "description": "From photos shot by strangers to a friend's favorite, here are the stories and photos that inspired the DPReview community in 2026.",
+      "source": "DPReview",
+      "sourceWeight": 1.5,
+      "brandCounts": {},
+      "hardwareCounts": {},
+      "brandMatches": 0,
+      "hardwareMatches": 0,
+      "score": 11.479027025462964
+    },
+    {
+      "title": "Photoshop’s latest AI features are generating some controversy",
+      "link": "https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/",
+      "date": "Wed, 25 Nov 2026 05:15:51 +0000",
+      "description": "The New York Times is requiring freelance photographers to stick to older versions of the software.",
+      "source": "DPReview",
+      "sourceWeight": 1.5,
+      "brandCounts": {},
+      "hardwareCounts": {
+        "software": 1,
+        "Photoshop": 1
+      },
+      "brandMatches": 0,
+      "hardwareMatches": 2,
+      "score": 17.336901253858024
+    },
+    {
+      "title": "Imagen challenges the fixed cull-then-edit workflow with its newest update",
+      "link": "https://www.dpreview.com/articles/imagens-intelligent-studio-announcement/",
+      "date": "Tue, 24 Nov 2026 17:51:44 +0000",
+      "description": "The update, rolling out from September 29, collapses three separate workflows into a single non-linear environment — a shift that could change how busy photographers structure their post-production day.",
+      "source": "DPReview",
+      "sourceWeight": 1.5,
+      "brandCounts": {},
+      "hardwareCounts": {},
+      "brandMatches": 0,
+      "hardwareMatches": 0,
+      "score": 11.178540914351853
     },
     {
       "title": "The Nikon ZR’s first big update is finally here",
       "link": "https://www.dpreview.com/news/nikon-zr-v2-update-release-announcement/",
       "date": "Tue, 24 Nov 2026 17:10:12 +0000",
-      "description": "Firmware V2 for the camera is still scheduled to release by the end of the year,",
+      "description": "Firmware V2 for the camera brings some important changes, but more is on the horizon.",
       "source": "DPReview",
       "sourceWeight": 1.5,
       "brandCounts": {
@@ -416,7 +449,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 2,
-      "score": 22.496881469907407
+      "score": 22.168926716820987
     },
     {
       "title": "TTArtisan goes ultra-wide with a $489 autofocus 12mm F2.8",
@@ -434,7 +467,7 @@
       },
       "brandMatches": 2,
       "hardwareMatches": 1,
-      "score": 24.485226377314817
+      "score": 24.15727162037037
     },
     {
       "title": "I revisited the DSLR after 7 years using mirrorless",
@@ -451,7 +484,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 3,
-      "score": 20.43896480324074
+      "score": 20.111010046296297
     },
     {
       "title": "Kodak’s new SlideTag is a keychain tracker with a built-in E Ink photo display",
@@ -466,7 +499,7 @@
       "hardwareCounts": {},
       "brandMatches": 2,
       "hardwareMatches": 0,
-      "score": 21.181399216820985
+      "score": 20.853444459876542
     },
     {
       "title": "One app for culling, editing, retouching and client galleries  —  now 20% off for Black Friday",
@@ -481,7 +514,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 1,
-      "score": 14.174416192129629
+      "score": 13.846461435185185
     },
     {
       "title": "Shoot while the sun shines: samples from the Nikon Z5IIC",
@@ -498,7 +531,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 1,
-      "score": 19.105631469907408
+      "score": 18.777676712962965
     },
     {
       "title": "Same light, same result: iPhone 18 Pro’s sensor isn’t outplaying larger ones",
@@ -517,7 +550,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 6,
-      "score": 33.786187025462965
+      "score": 33.458232268518515
     },
     {
       "title": "The vibe code revolution: AI hackers are rewriting what your camera can do",
@@ -532,7 +565,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 2,
-      "score": 16.545886099537036
+      "score": 16.217931342592593
     },
     {
       "title": "Apple’s iPhone camera chief, an opponent of AI-altered photos, has retired",
@@ -549,7 +582,7 @@
       },
       "brandMatches": 2,
       "hardwareMatches": 2,
-      "score": 26.298521130401234
+      "score": 25.97056637345679
     },
     {
       "title": "Thypoch is launching its latest line of AF lenses with a $349 F1.4 prime for X-mount",
@@ -565,7 +598,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 2,
-      "score": 16.09174258101852
+      "score": 15.763787824074075
     },
     {
       "title": "The disappointment factory: fear and loathing in the camera rumor mill",
@@ -580,7 +613,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 2,
-      "score": 15.883524988425926
+      "score": 15.555570231481482
     },
     {
       "title": "Why this Tokyo photographer sold everything and started over with manual-focus lenses",
@@ -598,53 +631,110 @@
       },
       "brandMatches": 2,
       "hardwareMatches": 1,
-      "score": 22.813065883487653
+      "score": 22.48511112654321
     },
     {
-      "title": "Capture One adds wired tethering for the Hasselblad X2D II 100C",
-      "link": "https://www.dpreview.com/news/capture-one-adds-wired-tethering-for-the-hasselblad-x2d-ii-100c/",
-      "date": "Thu, 19 Nov 2026 00:31:56 +0000",
-      "description": "The feature follows July’s native Raw support and requires X2D II 100C firmware 1.4.15.7 and Capture One 16.9.1.",
-      "source": "DPReview",
-      "sourceWeight": 1.5,
-      "brandCounts": {
-        "Hasselblad": 1
-      },
-      "hardwareCounts": {
-        "firmware": 1,
-        "Capture One": 2
-      },
-      "brandMatches": 1,
-      "hardwareMatches": 3,
-      "score": 23.599134556327158
-    },
-    {
-      "title": "Whose photo inspired you most in 2026?",
-      "link": "https://www.dpreview.com/articles/whose-photo-inspired-you-most-in-2026/",
-      "date": "Wed, 18 Nov 2026 16:20:45 +0000",
-      "description": "Some photos from others we remember for decades. Share one that inspired you this year, credit the photographer and tell us why it made an impression.",
-      "source": "DPReview",
-      "sourceWeight": 1.5,
-      "brandCounts": {},
-      "hardwareCounts": {},
-      "brandMatches": 0,
-      "hardwareMatches": 0,
-      "score": 9.485434710648146
-    },
-    {
-      "title": "National Geographic reveals its Pictures of the Year 2026, from spawning moray eels to a Greenland shark under the ice",
-      "link": "https://www.dpreview.com/photography/national-geographic-pictures-of-the-year-2026/",
-      "date": "Tue, 17 Nov 2026 19:34:07 +0000",
-      "description": "Chosen from more than a million images, this year’s 25 selections range from a six-month solarigraph over an ancient Peruvian observatory to a camera trap on a Kenyan riverbank.",
-      "source": "DPReview",
-      "sourceWeight": 1.5,
+      "title": "5 Things to Know Before You Shoot Your First Wedding, From a Veteran of 900",
+      "link": "https://fstoppers.com/education/5-things-know-shoot-your-first-wedding-veteran-900-905662?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+      "date": "Wed, 25 Nov 2026 09:03:01 -0500\n",
+      "description": "A first wedding, whether it's a paid booking or a favor for a friend, leaves you responsible for photographs nobody gets to retake. Most of what goes wrong happens away from the camera: a missed family group, a tradition nobody mentioned, a speech that started while you were in the hallway. [Read More]",
+      "source": "Fstoppers",
+      "sourceWeight": 1.2,
       "brandCounts": {},
       "hardwareCounts": {
         "camera": 1
       },
       "brandMatches": 0,
       "hardwareMatches": 1,
-      "score": 12.19686217978395
+      "score": 14.158930570987653
+    },
+    {
+      "title": "Sony 400-800mm vs. 200-600mm: A Wildlife Videographer's Verdict",
+      "link": "https://fstoppers.com/gear/sony-400-800mm-vs-200-600mm-wildlife-videographers-verdict-905661?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+      "date": "Wed, 25 Nov 2026 07:03:01 -0500\n",
+      "description": "Sony's 400-800mm zoom puts 800mm of reach on a full frame body for $2,698, but its f/8 maximum aperture at the long end and a 400mm starting point make it a narrower tool than the familiar 200-600mm. If you film birds and small animals that never let you get close, the question is whether that extra 200mm on the long end is worth the shake, the haze, and the extra kit that comes with it. [Read More]",
+      "source": "Fstoppers",
+      "sourceWeight": 1.2,
+      "brandCounts": {
+        "Sony": 2
+      },
+      "hardwareCounts": {},
+      "brandMatches": 2,
+      "hardwareMatches": 0,
+      "score": 21.131152793209875
+    },
+    {
+      "title": "The Luminar Fall Update Adds Intelligent Masking",
+      "link": "https://fstoppers.com/landscapes/luminar-fall-update-adds-intelligent-masking-905645?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+      "date": "Wed, 25 Nov 2026 07:03:01 -0500\n",
+      "description": "People have been asking for better and more intelligent masking in Luminar for a long time now, and Luminar has responded with cutting-edge features that will make editors happy. According to parent company Skylum, masks are now integrated into every tool, stay editable, combine for greater precision, and adapt to each new scene, so photographers can spend their time on the photograph rather than on the selection. [Read More]",
+      "source": "Fstoppers",
+      "sourceWeight": 1.2,
+      "brandCounts": {},
+      "hardwareCounts": {},
+      "brandMatches": 0,
+      "hardwareMatches": 0,
+      "score": 11.131152793209875
+    },
+    {
+      "title": "Why Your Landscape Photos Don't Match What You Saw",
+      "link": "https://fstoppers.com/education/why-your-landscape-photos-dont-match-what-saw-905660?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+      "date": "Wed, 25 Nov 2026 05:03:01 -0500\n",
+      "description": "You stand in front of a mountain at sunrise, the light is everything you hoped for, and the frame you bring home feels like a pale copy of the moment. Most of the time, that gap traces back to a handful of decisions made in seconds: which lens you grabbed, what crept into the edges, and whether the scene had enough tonal separation to read as three-dimensional. [Read More]",
+      "source": "Fstoppers",
+      "sourceWeight": 1.2,
+      "brandCounts": {},
+      "hardwareCounts": {
+        "lens": 1,
+        "light": 1,
+        "mount": 1
+      },
+      "brandMatches": 0,
+      "hardwareMatches": 3,
+      "score": 20.1033750154321
+    },
+    {
+      "title": "D.B. Cooper Left His Clip-On Tie on Seat 18E, and an Electron Microscope Found Two Pure Titanium Shards on It",
+      "link": "https://fstoppers.com/historical/db-cooper-left-his-clip-tie-seat-18e-and-electron-microscope-found-two-pure-905202?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+      "date": "Tue, 24 Nov 2026 17:03:01 -0500\n",
+      "description": "The FBI's photograph of the tie shows a narrow black clip-on laid diagonally across a pale blue cloth, with a gold-colored clip fastened partway down and a round white stone set in the clip. The bureau posted it on December 31, 2007, with a caption saying the hijacker wore the tie during the crime and took it off before he jumped, and that it later yielded a DNA sample. [Read More]",
+      "source": "Fstoppers",
+      "sourceWeight": 1.2,
+      "brandCounts": {},
+      "hardwareCounts": {},
+      "brandMatches": 0,
+      "hardwareMatches": 0,
+      "score": 10.936708348765432
+    },
+    {
+      "title": "We've Used These Products, Love Them, and They Have Black Friday Sales",
+      "link": "https://fstoppers.com/software/weve-used-these-products-love-them-and-they-have-black-friday-sales-905654?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+      "date": "Tue, 24 Nov 2026 13:03:01 -0500\n",
+      "description": "Discounts and sales are everywhere this time of year. Many aren’t worth your attention, but a select few can help you improve your photography and make your work easier. Now is a great time to get them at a good price. We’ve rounded up some of our favorite products and companies that we reviewed on our YouTube channel this year, along with their Black Friday deals. [Read More]",
+      "source": "Fstoppers",
+      "sourceWeight": 1.2,
+      "brandCounts": {},
+      "hardwareCounts": {},
+      "brandMatches": 0,
+      "hardwareMatches": 0,
+      "score": 10.881152793209875
+    },
+    {
+      "title": "Is the Legendary Nikon D700 Still Relevant at 19 Years Old?",
+      "link": "https://fstoppers.com/gear/legendary-nikon-d700-still-relevant-19-years-old-905497?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+      "date": "Tue, 24 Nov 2026 12:03:02 -0500\n",
+      "description": "When it comes to talking about legends, the internet has more mentions of the Nikon D700 than King Arthur and Excalibur. Does this camera really deserve such legendary status, or are the hyperbolic influencer YouTubers causing an unnecessary disturbance in the Force? [Read More]",
+      "source": "Fstoppers",
+      "sourceWeight": 1.2,
+      "brandCounts": {
+        "Nikon": 2
+      },
+      "hardwareCounts": {
+        "camera": 1
+      },
+      "brandMatches": 2,
+      "hardwareMatches": 1,
+      "score": 23.86726776234568
     },
     {
       "title": "How to Shoot Dramatic Sports Portraits in Full Sun With High-Speed Sync",
@@ -660,7 +750,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 2,
-      "score": 17.181329772376543
+      "score": 16.8533750154321
     },
     {
       "title": "Why Vintage Lenses Flare and What Lens Coatings Have to Do With It",
@@ -678,7 +768,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 7,
-      "score": 32.153555852623455
+      "score": 31.825601095679012
     },
     {
       "title": "Jimmy Chin's iPhone 18 Pro Panorama Made TIME's Top 100 Photos",
@@ -696,7 +786,7 @@
       },
       "brandMatches": 2,
       "hardwareMatches": 1,
-      "score": 24.125778074845677
+      "score": 23.797823317901234
     },
     {
       "title": "The Panasonic Lumix SHX1 Comes Closest Yet to the S1H Look, With a Few Catches",
@@ -716,7 +806,7 @@
       },
       "brandMatches": 4,
       "hardwareMatches": 5,
-      "score": 46.125778074845684
+      "score": 45.79782331790123
     },
     {
       "title": "7 Lightroom Classic 16 Features Worth Learning, Including a New Vectorscope",
@@ -734,7 +824,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 8,
-      "score": 35.097996439043214
+      "score": 34.770041682098764
     },
     {
       "title": "Nikola Tesla's Famous Lightning Photo Is a Multiple Exposure, and His Photographer Sat in the Chair First",
@@ -749,7 +839,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 2,
-      "score": 16.931329772376543
+      "score": 16.6033750154321
     },
     {
       "title": "Understanding Generative Restyle and Relight in Photoshop",
@@ -767,7 +857,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 9,
-      "score": 37.8618853279321
+      "score": 37.53393057098766
     },
     {
       "title": "How to Compete in Real Estate Photography Without Lowering Your Prices",
@@ -780,120 +870,136 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 10.847996439043209
+      "score": 10.520041682098766
     },
     {
-      "title": "How the Chiefs' Team Photographer Lights Portraits in Open Shade and Full Sun",
-      "link": "https://fstoppers.com/education/how-chiefs-team-photographer-lights-portraits-open-shade-and-full-sun-905634?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-      "date": "Mon, 23 Nov 2026 09:03:02 -0500\n",
-      "description": "Shooting portraits on location means you rarely get to pick your light, and a dim tunnel, an industrial corner in full sun, and a patch of open shade can all show up within the same hour. Bringing Westcott's FJ strobes in three sizes is one way to handle that range, and seeing which one gets pulled out for which problem tells you a lot about how much power you actually need. [Read More]",
-      "source": "Fstoppers",
-      "sourceWeight": 1.2,
-      "brandCounts": {},
-      "hardwareCounts": {
-        "light": 2
-      },
-      "brandMatches": 0,
-      "hardwareMatches": 2,
-      "score": 16.820222519290123
-    },
-    {
-      "title": "Why Photos From Sigma's 85mm f/1.2 Are Getting Mistaken for AI",
-      "link": "https://fstoppers.com/gear/why-photos-sigmas-85mm-f12-are-getting-mistaken-ai-905633?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-      "date": "Mon, 23 Nov 2026 07:03:02 -0500\n",
-      "description": "An 85mm f/1.2 is one of the most sought-after portrait lenses you can own, and for Sony E and L-mount, autofocus options at that focal length have mostly stopped at f/1.4. The extra brightness changes how a face separates from a background, and it changes what a client sees when they flip through a gallery. [Read More]",
-      "source": "Fstoppers",
-      "sourceWeight": 1.2,
-      "brandCounts": {
-        "Sony": 1,
-        "Sigma": 1
-      },
-      "hardwareCounts": {
-        "lens": 1,
-        "mount": 1,
-        "autofocus": 1
-      },
-      "brandMatches": 2,
-      "hardwareMatches": 3,
-      "score": 29.792444737654318
-    },
-    {
-      "title": "How to Bracket a Sunset and Merge It in Lightroom Classic",
-      "link": "https://fstoppers.com/education/how-bracket-sunset-and-merge-it-lightroom-classic-905632?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-      "date": "Mon, 23 Nov 2026 05:03:02 -0500\n",
-      "description": "A sunset scene often holds more range than your sensor can record in one frame, which leaves you choosing between a sky with detail and a foreground you can actually see. Bracketing a few exposures and merging them in Lightroom Classic solves that, and the process takes far less effort than its reputation suggests. [Read More]",
-      "source": "Fstoppers",
-      "sourceWeight": 1.2,
-      "brandCounts": {},
-      "hardwareCounts": {
-        "sensor": 1,
-        "light": 2,
-        "Lightroom": 2
-      },
-      "brandMatches": 0,
-      "hardwareMatches": 5,
-      "score": 25.764666959876543
-    },
-    {
-      "title": "Lee Harvey Oswald Called the Backyard Rifle Photos Fakes, but 11 Marks on the Negative Matched His Camera",
-      "link": "https://fstoppers.com/historical/lee-harvey-oswald-called-backyard-rifle-photos-fakes-11-marks-negative-matched-905189?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-      "date": "Sun, 22 Nov 2026 17:03:02 -0500\n",
-      "description": "In Warren Commission Exhibit 133-A, Lee Harvey Oswald stands beside a wooden stairway in a Dallas backyard with a pistol holstered at his right hip. He holds a rifle in his left hand and two left-wing newspapers against his chest in his right. His wife, Marina, took the picture with an inexpensive American box camera in the spring of 1963. The National Archives posts an enlargement of it, along with a second pose, in its online JFK photo gallery. [Read More]",
-      "source": "Fstoppers",
-      "sourceWeight": 1.2,
-      "brandCounts": {},
-      "hardwareCounts": {
-        "camera": 2
-      },
-      "brandMatches": 0,
-      "hardwareMatches": 2,
-      "score": 16.59800029320988
-    },
-    {
-      "title": "Testing DJIs Newest Action Cameras",
-      "link": "https://fstoppers.com/gear/testing-djis-newest-action-cameras-905614?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-      "date": "Sun, 22 Nov 2026 12:03:01 -0500\n",
-      "description": "If you've ever stood in front of a wall of action cameras trying to work out which one you actually need, you're not alone. I just spent a week jumping between national parks in the Canadian Rockies with three of DJI's newest cameras, the Osmo Action 6, the Osmo Nano, and the Osmo 360 II, plus my drone. They overlap more than you'd think, and each one turned out to be best at a different job. [Read More]",
-      "source": "Fstoppers",
-      "sourceWeight": 1.2,
-      "brandCounts": {
-        "DJI": 2
-      },
-      "hardwareCounts": {
-        "camera": 3,
-        "drone": 1
-      },
-      "brandMatches": 2,
-      "hardwareMatches": 4,
-      "score": 32.528551990740745
-    },
-    {
-      "title": "Copyright Trolls Pushed Me to AI Music, And It's Incredible",
-      "link": "https://fstoppers.com/artificial-intelligence/copyright-trolls-pushed-me-ai-music-and-its-incredible-905613?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-      "date": "Sun, 22 Nov 2026 12:03:01 -0500\n",
-      "description": "AI is reshaping one creative industry after another, and I think music is next. I just used AI-generated music in a YouTube video for the very first time. I'm completely conflicted about it, but I feel like I was pushed into it by the copyright claims happening behind the scenes on YouTube, where people claim to own music you have every legal right to use, or that you literally paid for, and then collect your ad revenue anyway. [Read More]",
-      "source": "Fstoppers",
-      "sourceWeight": 1.2,
-      "brandCounts": {},
-      "hardwareCounts": {},
-      "brandMatches": 0,
-      "hardwareMatches": 0,
-      "score": 10.528551990740741
-    },
-    {
-      "title": "Traveling With the VIVO X500 Pro Max Photographer’s Kit: Is It Ready to Replace a Full Camera Setup?",
-      "link": "https://fstoppers.com/gear/traveling-vivo-x500-pro-max-photographers-kit-it-ready-replace-full-camera-setup-905462?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-      "date": "Sun, 22 Nov 2026 12:03:01 -0500\n",
-      "description": "As smartphones continue to pack increasingly advanced optical and digital technologies, the line between a phone and a dedicated camera grows blurrier by the day. It begs the question: is carrying a separate camera setup still necessary, or can a single pocketable device take over your entire imaging workflow? Honestly, the idea of having a single device covering an extraordinary equivalent range of 15mm to 400mm is undeniably tempting. [Read More]",
-      "source": "Fstoppers",
-      "sourceWeight": 1.2,
+      "title": "The Best Cameras of 2026",
+      "link": "https://www.thephoblographer.com/2026/11/25/the-best-cameras-of-2026/",
+      "date": "Wed, 25 Nov 2026 14:00:00 +0000",
+      "description": "2026 has been an insanely weird year for cameras. It's almost like between the AI, chip shortages, and the global economy that the brands have started to realize that they need to shape up more. But beyond that, lots of folks have been getting really annoyed with the manufacturers and have been hacking their cameras to get more features. If you'd rather get something brand new, then consider our list.",
+      "source": "The Phoblographer",
+      "sourceWeight": 1.1,
       "brandCounts": {},
       "hardwareCounts": {
         "camera": 3
       },
       "brandMatches": 0,
       "hardwareMatches": 3,
-      "score": 19.52855199074074
+      "score": 20.05823226851852
+    },
+    {
+      "title": "Exclusive: The Sony a7 Gets Hacked to Shoot The Best CineStill 800T Render I’ve Seen",
+      "link": "https://www.thephoblographer.com/2026/11/25/sony-a7-cinestill-800t-hack-film-drawer/",
+      "date": "Wed, 25 Nov 2026 14:00:00 +0000",
+      "description": "The look of CineStill 800T wasn't really possible in digital cameras until Software Engineer Adrian McShane really took things into his own hands. To do this, he built an app for older Sony cameras with PlayMemories Capabilities; and it's called Film Drawer. Film Drawer offers the look of various film stocks right in the camera as a JPEG file and without the need for excessive Photoshopping -- which is the only way that the CineStill 800T look with its token red halation is possible. Adrian join",
+      "source": "The Phoblographer",
+      "sourceWeight": 1.1,
+      "brandCounts": {
+        "Sony": 2
+      },
+      "hardwareCounts": {
+        "camera": 3,
+        "software": 1,
+        "Photoshop": 1
+      },
+      "brandMatches": 2,
+      "hardwareMatches": 5,
+      "score": 36.058232268518516
+    },
+    {
+      "title": "Fujifilm X-T6 Sensor Will Reportedly Add White Pixels to Its Color Array",
+      "link": "https://www.thephoblographer.com/2026/11/25/fujifilm-x-t6-sensor-will-reportedly-add-white-pixels-to-its-color-array/",
+      "date": "Wed, 25 Nov 2026 11:56:55 +0000",
+      "description": "Reports of the upcoming Fujifilm X-T6 have been revealing some interesting details about the camera. In addition to better design, the new camera is said to use a 40MP sensor, with white pixels alongside the RGB (red, green, and blue) ones. With the launch stated to be on December 2, the new report has excited and divided users. Here are some details.",
+      "source": "The Phoblographer",
+      "sourceWeight": 1.1,
+      "brandCounts": {
+        "Fujifilm": 2
+      },
+      "hardwareCounts": {
+        "camera": 2,
+        "sensor": 2
+      },
+      "brandMatches": 2,
+      "hardwareMatches": 4,
+      "score": 33.02974075617284
+    },
+    {
+      "title": "The Cameras Likely to Launch Before 2027 Ends",
+      "link": "https://www.thephoblographer.com/2026/11/25/the-cameras-likely-to-launch-before-2027-ends/",
+      "date": "Wed, 25 Nov 2026 11:56:21 +0000",
+      "description": "The camera industry often launches some wonderful cameras every winter season. We've seen models such as the Canon R7, Leica M11, OM-1 Mark II, and Lumix S1R II being introduced over the years. In 2026 and beginning of 2027, there are hopes of some newer, more interesting options that photographers are waiting for. Here is a look at a few that you may see on the market very soon.",
+      "source": "The Phoblographer",
+      "sourceWeight": 1.1,
+      "brandCounts": {
+        "Canon": 1,
+        "Leica": 1
+      },
+      "hardwareCounts": {
+        "camera": 3
+      },
+      "brandMatches": 2,
+      "hardwareMatches": 3,
+      "score": 30.029609583333333
+    },
+    {
+      "title": "The Real Cost of Running a Photography Website (And How You Can Help)",
+      "link": "https://www.thephoblographer.com/2026/11/25/the-real-cost-of-running-a-photography-website-and-how-you-can-help/",
+      "date": "Wed, 25 Nov 2026 10:00:00 +0000",
+      "description": "Readers don't always think about what it actually costs to keep a photography website like this one running. Between server bills, staff pay, and the sheer amount of gear that needs to be tested for reviews, the expenses add up quickly. Subscriptions are one of the most direct ways readers can suppo",
+      "source": "The Phoblographer",
+      "sourceWeight": 1.1,
+      "brandCounts": {},
+      "hardwareCounts": {
+        "mount": 1
+      },
+      "brandMatches": 0,
+      "hardwareMatches": 1,
+      "score": 14.002676712962963
+    },
+    {
+      "title": "The Guide to Street Photography with the LUMIX S9",
+      "link": "https://www.thephoblographer.com/2026/11/24/the-guide-to-street-photography-with-the-lumix-s9/",
+      "date": "Tue, 24 Nov 2026 18:47:16 +0000",
+      "description": "Street photography is built around spontaneous moments that disappear quickly, and the LUMIX S9 has everything you need to capture them while staying out of the way and letting you concentrate on timing, composition, and the story unfolding in front of you. The LUMIX S9 combines a full frame sensor and a compact portable design with Phase Hybrid Autofocus, image stabilization, creative color tools, and more. Here’s how you can shoot better street photography with the LUMIX S9.",
+      "source": "The Phoblographer",
+      "sourceWeight": 1.1,
+      "brandCounts": {},
+      "hardwareCounts": {
+        "sensor": 1,
+        "autofocus": 1
+      },
+      "brandMatches": 0,
+      "hardwareMatches": 2,
+      "score": 16.791395848765433
+    },
+    {
+      "title": "Why Our Analog Film Presets Are Perfect for Shorter Winter Days",
+      "link": "https://www.thephoblographer.com/2026/11/24/why-our-analog-film-presets-are-perfect-for-shorter-winter-days/",
+      "date": "Tue, 24 Nov 2026 18:00:00 +0000",
+      "description": "The days are getting shorter, the light is getting dimmer earlier, and if you've been shooting more indoors or under available light lately, you've probably noticed your photos are starting to pick up more grain and noise than they did over the summer. Our Analog Film Presets Pack was actually built with exactly that kind of light in mind.",
+      "source": "The Phoblographer",
+      "sourceWeight": 1.1,
+      "brandCounts": {},
+      "hardwareCounts": {
+        "light": 3
+      },
+      "brandMatches": 0,
+      "hardwareMatches": 3,
+      "score": 19.780454490740745
+    },
+    {
+      "title": "What to Say When a Client Asks to Look Thinner in Photos",
+      "link": "https://www.thephoblographer.com/2026/11/24/useful-photography-tip-6-making-your-subjects-look-better-copy/",
+      "date": "Tue, 24 Nov 2026 18:00:00 +0000",
+      "description": "Almost every photographer who shoots people eventually gets asked some version of the same question: can you make me look thinner in photos? How you answer that in the moment matters more than people think.",
+      "source": "The Phoblographer",
+      "sourceWeight": 1.1,
+      "brandCounts": {},
+      "hardwareCounts": {},
+      "brandMatches": 0,
+      "hardwareMatches": 0,
+      "score": 10.780454486882716
     },
     {
       "title": "The Original Sony 24-70mm f2.8 GM Turns 10. Is It Still Worth Buying Used?",
@@ -910,7 +1016,7 @@
       },
       "brandMatches": 3,
       "hardwareMatches": 3,
-      "score": 35.052853688271604
+      "score": 34.72489893132716
     },
     {
       "title": "Fujifilm GA645 Review: A Camera That Really Deserves More Awareness",
@@ -928,7 +1034,7 @@
       },
       "brandMatches": 2,
       "hardwareMatches": 7,
-      "score": 41.99729813271605
+      "score": 41.66934337577161
     },
     {
       "title": "DigiFilm 2 Review: Your Next Great Party Camera",
@@ -945,7 +1051,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 3,
-      "score": 24.830631466049383
+      "score": 24.50267670910494
     },
     {
       "title": "Why Direct Flash Usually Makes Your Photos Worse",
@@ -960,7 +1066,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 2,
-      "score": 16.77507591049383
+      "score": 16.447121153549386
     },
     {
       "title": "Prime vs Zoom Lenses: What’s the Real Sharpness Difference?",
@@ -975,7 +1081,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 5,
-      "score": 25.719520354938272
+      "score": 25.39156559799383
     },
     {
       "title": "Leica Q2: Is It worth Your Money in 2026?",
@@ -993,7 +1099,7 @@
       },
       "brandMatches": 5,
       "hardwareMatches": 3,
-      "score": 44.66396479938272
+      "score": 44.33601004243827
     },
     {
       "title": "What Is Hyperfocal Distance, and How Do You Actually Use It?",
@@ -1006,62 +1112,14 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 10.497298132716049
+      "score": 10.169343375771604
     },
     {
-      "title": "The 5 Best Tiny Cameras of 2026",
-      "link": "https://www.thephoblographer.com/2026/11/22/the-5-best-tiny-cameras-of-2026/",
-      "date": "Sun, 22 Nov 2026 18:00:00 +0000",
-      "description": "Gen Z photographers, and millennials, are bringing back novelty cameras again. In recent years, we have seen the launch of analog models, panorama cameras, and compact models. Amidst this, we have also seen the rise of tiny cameras, the ones that offer fantastic pocketable designs and come with impressive image quality. If you are someone who wants an inexpensive, expensive but fun camera, have a look at five offerings below.",
-      "source": "The Phoblographer",
-      "sourceWeight": 1.1,
-      "brandCounts": {},
-      "hardwareCounts": {
-        "camera": 5
-      },
-      "brandMatches": 0,
-      "hardwareMatches": 5,
-      "score": 25.441742577160497
-    },
-    {
-      "title": "What Happens When Photographers Go Pro Too Fast",
-      "link": "https://www.thephoblographer.com/2026/11/22/useful-photography-tip-30-dont-rush-into-business-copy/",
-      "date": "Sun, 22 Nov 2026 18:00:00 +0000",
-      "description": "Turning a photography hobby into a paying job feels like the dream the moment someone offers to pay you. Photographers who go pro too fast often end up hurting the business they were trying to build.",
-      "source": "The Phoblographer",
-      "sourceWeight": 1.1,
-      "brandCounts": {},
-      "hardwareCounts": {},
-      "brandMatches": 0,
-      "hardwareMatches": 0,
-      "score": 10.441742577160495
-    },
-    {
-      "title": "The 4 Best Cameras for Parents in 2026",
-      "link": "https://www.thephoblographer.com/2026/11/21/the-4-best-cameras-for-parents-in-2026/",
-      "date": "Sat, 21 Nov 2026 22:00:00 +0000",
-      "description": "Our favorite cameras for parents looking for something affordable but good are the Canon EOS R, Fujifilm XT5, Nikon D500, and the Panasonic LX100. That's right, you don't need the newest cameras these days. Most millennials and some Gen Zs are now parents or are on their way to becoming one. For new parents, it becomes imperative that they photograph their kids at every stage of life. While millennials were growing up, their childhood was captured on film cameras and showcased in family albums. ",
-      "source": "The Phoblographer",
-      "sourceWeight": 1.1,
-      "brandCounts": {
-        "Canon": 1,
-        "Nikon": 1,
-        "Fujifilm": 1,
-        "Panasonic": 1
-      },
-      "hardwareCounts": {
-        "camera": 4
-      },
-      "brandMatches": 4,
-      "hardwareMatches": 4,
-      "score": 42.16396479938272
-    },
-    {
-      "title": "The Best Exposure Setting for Wildlife and Bird Photography",
-      "link": "https://www.thephoblographer.com/2026/11/21/the-best-exposure-setting-for-wildlife-and-bird-photography/",
-      "date": "Sat, 21 Nov 2026 18:00:00 +0000",
-      "description": "If you're into both wildlife and bird photography, then you'll know that there is no real easy fix for exposures except for manual mode with an auto ISO setting. Of course, you could also shoot in aperture priority with a high ISO and let the camera figure it out. Wildlife and bird photographers have to continuously make decisions. From choosing the right lens, to figuring out the best time of the day, to what setting can help them in challenging situations. To help with the latter, we bring to ",
-      "source": "The Phoblographer",
+      "title": "Want to Buy a Photographer a Gift? Here’s What to Check First",
+      "link": "https://www.diyphotography.net/photography-gifts-buying-guide/",
+      "date": "Wed, 25 Nov 2026 16:30:00 +0000",
+      "description": "Planning an early holiday gift during Black Friday? Here are important things to check before buying camera gear, lenses, and accessories for a photographer. The post Want to Buy a Photographer a Gift? Here’s What to Check First appeared first on DIY Photography.",
+      "source": "DIYPhotography",
       "sourceWeight": 1.1,
       "brandCounts": {},
       "hardwareCounts": {
@@ -1070,65 +1128,40 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 2,
-      "score": 16.10840924382716
+      "score": 17.092954486882718
     },
     {
-      "title": "Your Gear Insurance Probably Doesn’t Cover What You Think",
-      "link": "https://www.thephoblographer.com/2026/11/21/your-gear-insurance-probably-doesnt-cover-what-you-think/",
-      "date": "Sat, 21 Nov 2026 14:00:00 +0000",
-      "description": "Camera gear insurance exists for exactly this gap. A lot of photographers assume their homeowner's policy, credit card protection, or manufacturer's warranty has them covered if something goes wrong. In our experience testing gear for years, that assumption rarely holds up once you actually read the fine print. Warranties cover defects, not drops, theft, or on-set accidents, and that gap is exactly where photographers get burned.",
-      "source": "The Phoblographer",
+      "title": "Hubble Captures NGC 4394: A Barred Spiral Galaxy That Looks Like Home",
+      "link": "https://www.diyphotography.net/hubble-captures-ngc-4394-a-barred-spiral-galaxy-that-looks-like-home/",
+      "date": "Wed, 25 Nov 2026 00:53:05 +0000",
+      "description": "The Hubble Space Telescope has captured a detailed view of NGC 4394, a barred spiral galaxy about 55 million light-years from Earth. Its central bar,... The post Hubble Captures NGC 4394: A Barred Spiral Galaxy That Looks Like Home appeared first on DIY Photography.",
+      "source": "DIYPhotography",
       "sourceWeight": 1.1,
       "brandCounts": {},
       "hardwareCounts": {
-        "camera": 1
+        "light": 1
       },
       "brandMatches": 0,
       "hardwareMatches": 1,
-      "score": 13.052853688271604
+      "score": 13.876075628858025
     },
     {
-      "title": "The Japanese Idea They Won’t Sell to Western Photographers",
-      "link": "https://www.thephoblographer.com/2026/11/20/the-japanese-idea-they-wont-sell-to-western-photographers/",
-      "date": "Fri, 20 Nov 2026 22:00:00 +0000",
-      "description": "When I founded Phoblographer 16 years ago, I didn't do pixel-peeping tests. Instead, I was taking camera gear out into the world and photographing exactly what people would use the camera gear for. In fact, I was one of the first to do this. It was a slap in the face that everything had to be perfect, pixel-peeped, and had to be done in some sort of lab. Real life doesn't happen in a lab. And there's a beauty in imperfection -- something that the Japanese camera manufacturers won't sell to weste",
-      "source": "The Phoblographer",
-      "sourceWeight": 1.1,
-      "brandCounts": {},
-      "hardwareCounts": {
-        "camera": 3
-      },
-      "brandMatches": 0,
-      "hardwareMatches": 3,
-      "score": 18.830631466049383
-    },
-    {
-      "title": "Why You Should Specialize in Photography, Not Shoot Everything",
-      "link": "https://www.thephoblographer.com/2026/11/20/useful-photography-tip-27-specialize-to-succeed-copy/",
-      "date": "Fri, 20 Nov 2026 18:00:00 +0000",
-      "description": "Photography has almost no barrier to entry, which is exactly why so many photographers struggle to stand out. The ones who do well tend to specialize in photography instead of trying to shoot everything.",
-      "source": "The Phoblographer",
+      "title": "Polaroid Mod Instant Camera Review: Polaroid’s New Instant Camera is Built Around Creativity",
+      "link": "https://www.diyphotography.net/polaroid-mod-instant-camera-review/",
+      "date": "Tue, 24 Nov 2026 17:40:12 +0000",
+      "description": "The Polaroid Mod Instant Film Camera strikes a compelling balance between nostalgic aesthetics and thoughtful modern engineering. Wrapped in a classic metallic finish and weighing just 1.1 pounds, this fully analog camera immediately evokes vintage instant photography while offering four contemporary shooting settings. Alongside standard automatic shooting, a dedicated brightness dial, and a built-in self-timer, the Mod features four creative modes—Double Exposure, Motion Freeze, Light Painting,",
+      "source": "DIYPhotography",
       "sourceWeight": 1.1,
       "brandCounts": {
-        "ARRI": 1
+        "Polaroid": 3
       },
-      "hardwareCounts": {},
-      "brandMatches": 1,
-      "hardwareMatches": 0,
-      "score": 14.775075910493827
-    },
-    {
-      "title": "Creative Nude Photography: A Refreshing Perspective",
-      "link": "https://www.thephoblographer.com/2026/11/20/creative-nude-photography-a-refreshing-perspective/",
-      "date": "Fri, 20 Nov 2026 14:33:35 +0000",
-      "description": "One of our favorite things to feature on the Phoblographer are photographers who are working to actually make something original and that doesn't necessarily look like something someone can do with their phone. We're particularly impressed when they do this with creative nudity as well. Go on Reddit, and you'll typically see creative nude photography that isn't really all that expressive and isn't adding another layer beyond taking a photo. But the best creative photographers have ideas and conc",
-      "source": "The Phoblographer",
-      "sourceWeight": 1.1,
-      "brandCounts": {},
-      "hardwareCounts": {},
-      "brandMatches": 0,
-      "hardwareMatches": 0,
-      "score": 9.727294274691358
+      "hardwareCounts": {
+        "camera": 4,
+        "light": 1
+      },
+      "brandMatches": 3,
+      "hardwareMatches": 5,
+      "score": 40.77587115354938
     },
     {
       "title": "How to Get Your Family to Smile for a Thanksgiving Photo",
@@ -1144,7 +1177,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 2,
-      "score": 17.094520354938272
+      "score": 16.76656559799383
     },
     {
       "title": "ALMA Captures a Giant Magnetic Eruption on a Dying Star",
@@ -1160,7 +1193,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 2,
-      "score": 17.052853688271604
+      "score": 16.72489893132716
     },
     {
       "title": "James Webb Finds Evidence of a Star’s Final Hours Before It Exploded",
@@ -1173,7 +1206,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 10.859339027777777
+      "score": 10.531384270833332
     },
     {
       "title": "Luminar’s Masking Now Works Inside Every Tool and Stays Editable",
@@ -1188,7 +1221,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 1,
-      "score": 13.802518040123456
+      "score": 13.474563283179013
     },
     {
       "title": "Black Friday 2026 Photography Deals: Best Discounts on Cameras, Lenses, and More",
@@ -1204,7 +1237,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 4,
-      "score": 22.783675447530864
+      "score": 22.45572069058642
     },
     {
       "title": "DJI Just Leaked Its Own Neo 3 Drone in a DJI Fly App Update",
@@ -1221,7 +1254,7 @@
       },
       "brandMatches": 5,
       "hardwareMatches": 4,
-      "score": 47.775712484567904
+      "score": 47.44775772762346
     },
     {
       "title": "How to Take Mouthwatering Photos of Your Thanksgiving Turkey",
@@ -1237,186 +1270,30 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 3,
-      "score": 19.754242577160497
+      "score": 19.42628782021605
     },
     {
-      "title": "Best Gifts for Astrophotographers in 2026: Ideas for Every Budget",
-      "link": "https://www.diyphotography.net/best-gifts-for-astrophotographers-in-2026-ideas-for-every-budget/",
-      "date": "Mon, 23 Nov 2026 10:13:01 +0000",
-      "description": "Getting started with astrophotography involves a little more than buying a camera and pointing it at the night sky. A beginner soon discovers that focusing... The post Best Gifts for Astrophotographers in 2026: Ideas for Every Budget appeared first on DIY Photography.",
-      "source": "DIYPhotography",
-      "sourceWeight": 1.1,
-      "brandCounts": {},
-      "hardwareCounts": {
-        "camera": 1
-      },
-      "brandMatches": 0,
-      "hardwareMatches": 1,
-      "score": 13.666977912808642
-    },
-    {
-      "title": "NASA Satellites Capture the Atacama Desert Turning Purple After Heavy Rains",
-      "link": "https://www.diyphotography.net/nasa-satellites-capture-the-atacama-desert-turning-purple-after-heavy-rains/",
-      "date": "Sun, 22 Nov 2026 04:32:21 +0000",
-      "description": "The Atacama Desert in northern Chile received an unusual amount of rain during the winter of 2026. By September, plants had begun growing across sections... The post NASA Satellites Capture the Atacama Desert Turning Purple After Heavy Rains appeared first on DIY Photography.",
-      "source": "DIYPhotography",
-      "sourceWeight": 1.1,
-      "brandCounts": {},
-      "hardwareCounts": {
-        "mount": 1
-      },
-      "brandMatches": 0,
-      "hardwareMatches": 1,
-      "score": 13.254786554783951
-    },
-    {
-      "title": "William Optics Introduces Cat A-51 WIFD: The Gen-IV Cat 51 Telescope",
-      "link": "https://www.diyphotography.net/william-optics-introduces-cat-a-51-wifd-the-gen-iv-cat-51-telescope/",
-      "date": "Sat, 21 Nov 2026 14:00:00 +0000",
-      "description": "William Optics has introduced the Cat A-51 WIFD, the fourth generation of its popular 51mm Cat telescope. The new model retains the four-element Petzval optical... The post William Optics Introduces Cat A-51 WIFD: The Gen-IV Cat 51 Telescope appeared first on DIY Photography.",
-      "source": "DIYPhotography",
-      "sourceWeight": 1.1,
-      "brandCounts": {},
-      "hardwareCounts": {},
-      "brandMatches": 0,
-      "hardwareMatches": 0,
-      "score": 10.05285368441358
-    },
-    {
-      "title": " Blink Mini 2K+ review: a cheap and cheerful security camera which punches above its weight ",
-      "link": "https://www.digitalcameraworld.com/cameras/security-cameras/blink-mini-2k-review-a-cheap-and-cheerful-security-camera-which-punches-above-its-weight",
-      "date": "Tue, 24 Nov 2026 12:13:29 +0000",
-      "description": "If you’re in the market for your first security camera, this one goes easy on the bank balance while blowing its predecessor out of the water",
-      "source": "Digital Camera World",
-      "sourceWeight": 1.2,
-      "brandCounts": {},
-      "hardwareCounts": {
-        "camera": 2
-      },
-      "brandMatches": 0,
-      "hardwareMatches": 2,
-      "score": 17.12819704861111
-    },
-    {
-      "title": " The drone I'd buy for Christmas again and again – and I'm the expert! ",
-      "link": "https://www.digitalcameraworld.com/drones/the-drone-id-buy-for-christmas-again-and-again-and-im-the-expert",
-      "date": "Tue, 24 Nov 2026 12:11:39 +0000",
-      "description": "The DJI Neo is probably still the best drone for most people this Christmas, balancing safety, power, and flexibility. Here's why...",
+      "title": " The Fujifilm X100VI can't swap lenses, but it can now swap a lot of accessories with this new modular bracket ",
+      "link": "https://www.digitalcameraworld.com/cameras/camera-accessories/the-fujifilm-x100vi-cant-swap-lenses-but-it-can-now-swap-a-lot-of-accessories-with-this-new-modular-bracket",
+      "date": "Wed, 25 Nov 2026 16:45:00 +0000",
+      "description": "The 3 Legged Thing Fred QD is a new modular L-bracket designed specifically for the X100VI",
       "source": "Digital Camera World",
       "sourceWeight": 1.2,
       "brandCounts": {
-        "DJI": 1
+        "Fujifilm": 1
       },
       "hardwareCounts": {
-        "drone": 2
-      },
-      "brandMatches": 1,
-      "hardwareMatches": 2,
-      "score": 22.127772665895062
-    },
-    {
-      "title": " The Kodak SlideTag is the new viral keychain, and I think it's the perfect gift to pick up this black friday ",
-      "link": "https://www.digitalcameraworld.com/tech/digital-photo-frames/the-kodak-slidetag-is-the-new-viral-keychain-and-i-think-its-the-perfect-photographic-gift-to-pick-up-this-black-friday",
-      "date": "Tue, 24 Nov 2026 12:04:16 +0000",
-      "description": "The next viral Kodak accessory has arrived – and I wouldn't wait until Black Friday to buy one!",
-      "source": "Digital Camera World",
-      "sourceWeight": 1.2,
-      "brandCounts": {
-        "Kodak": 2,
-        "ARRI": 1
-      },
-      "hardwareCounts": {},
-      "brandMatches": 3,
-      "hardwareMatches": 0,
-      "score": 26.12606356095679
-    },
-    {
-      "title": " Nikon ZR firmware 2.00 is out now – bringing RED color science to this compact video camera ",
-      "link": "https://www.digitalcameraworld.com/tech/firmware/nikon-zr-firmware-2-00-is-out-now-bringing-red-color-science-to-this-compact-video-camera",
-      "date": "Tue, 24 Nov 2026 11:58:31 +0000",
-      "description": "Firmware 2.00 for the Nikon ZR increases RED color science options, improves operability and more",
-      "source": "Digital Camera World",
-      "sourceWeight": 1.2,
-      "brandCounts": {
-        "Nikon": 2
-      },
-      "hardwareCounts": {
-        "camera": 1,
-        "firmware": 2
-      },
-      "brandMatches": 2,
-      "hardwareMatches": 3,
-      "score": 30.12473254243827
-    },
-    {
-      "title": " Top-quality primes are not cheap – but \"one of the finest Nikon Z lenses we've ever seen\" just dropped by 29% ",
-      "link": "https://www.digitalcameraworld.com/cameras/lenses/top-quality-primes-are-not-cheap-but-one-of-the-finest-nikon-z-lenses-weve-ever-seen-just-dropped-by-29-percent",
-      "date": "Tue, 24 Nov 2026 11:57:49 +0000",
-      "description": "The Nikon Z MC 105mm f/2.8 VR S is a versatile lens that's perfect for capturing wildlife, portraits, landscapes, and macro photography",
-      "source": "Digital Camera World",
-      "sourceWeight": 1.2,
-      "brandCounts": {
-        "Nikon": 2
-      },
-      "hardwareCounts": {
-        "lens": 2
-      },
-      "brandMatches": 2,
-      "hardwareMatches": 2,
-      "score": 27.124570505401234
-    },
-    {
-      "title": " You don't need a new camera or lens to improve your photography – this filter made a difference to mine, and it's now even cheaper ",
-      "link": "https://www.digitalcameraworld.com/cameras/lens-filters/you-dont-need-a-new-camera-or-lens-to-improve-your-photography-this-filter-made-a-difference-to-mine-and-its-now-even-cheaper",
-      "date": "Tue, 24 Nov 2026 11:46:06 +0000",
-      "description": "Boost color, cut glare – this is an essential filter for landscape and seascape shooters, and now you can save up to 20%",
-      "source": "Digital Camera World",
-      "sourceWeight": 1.2,
-      "brandCounts": {},
-      "hardwareCounts": {
-        "camera": 1,
-        "lens": 1,
-        "filter": 2
-      },
-      "brandMatches": 0,
-      "hardwareMatches": 4,
-      "score": 23.12185831404321
-    },
-    {
-      "title": " NASA brought back 800GB of photos from Artemis II. An astrophotographer combined 62 of them for a detailed shot of the far side of the Moon ",
-      "link": "https://www.digitalcameraworld.com/photography/astrophotography/nasa-brought-back-800gb-of-photos-from-artemis-ii-an-astrophotographer-combined-62-of-them-for-a-detailed-shot-of-the-far-side-of-the-moon",
-      "date": "Tue, 24 Nov 2026 07:55:00 +0000",
-      "description": "An astrophotographer and researcher in Japan assembled a highly detailed photo of the far side of the moon using 62 Artemis II images",
-      "source": "Digital Camera World",
-      "sourceWeight": 1.2,
-      "brandCounts": {},
-      "hardwareCounts": {},
-      "brandMatches": 0,
-      "hardwareMatches": 0,
-      "score": 11.06836294367284
-    },
-    {
-      "title": " Want to record in ProRes RAW with the Sigma FP2? You'll need one of these approved SSDs ",
-      "link": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/want-to-record-in-prores-raw-with-the-sigma-fp2-youll-need-one-of-these-approved-ssds",
-      "date": "Mon, 23 Nov 2026 23:30:42 +0000",
-      "description": "And they don't come cheap",
-      "source": "Digital Camera World",
-      "sourceWeight": 1.2,
-      "brandCounts": {
-        "Sigma": 1
-      },
-      "hardwareCounts": {
-        "SSD": 1
+        "lens": 1
       },
       "brandMatches": 1,
       "hardwareMatches": 1,
-      "score": 18.951626832561725
+      "score": 19.196426709104937
     },
     {
-      "title": " Vote for your favorite Damiani photography book and get 10% off your first order ",
-      "link": "https://www.digitalcameraworld.com/photography/awards-and-competitions/vote-for-your-favorite-damiani-photography-book-and-get-10-percent-off-your-first-order",
-      "date": "Mon, 23 Nov 2026 20:00:00 +0000",
-      "description": "The Andrea Albertini Award has been established to honor the legacy of the Italian photo book publisher",
+      "title": " For nearly 150 years, these awards have honored the best in photography – discover 5 of the latest winners ",
+      "link": "https://www.digitalcameraworld.com/photography/awards-and-competitions/for-nearly-150-years-these-awards-have-honored-the-best-in-photography-discover-5-of-the-latest-winners",
+      "date": "Wed, 25 Nov 2026 16:41:40 +0000",
+      "description": "The world’s longest-running photography awards announce the winners and they might inspire your own work",
       "source": "Digital Camera World",
       "sourceWeight": 1.2,
       "brandCounts": {
@@ -1425,114 +1302,258 @@
       "hardwareCounts": {},
       "brandMatches": 1,
       "hardwareMatches": 0,
-      "score": 15.90285368441358
+      "score": 16.195655104166665
     },
     {
-      "title": " This award-winning compact mirrorless camera is the smallest and lightest of its kind – and Panasonic is listening to calls to add a viewfinder ",
-      "link": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/this-award-winning-compact-mirrorless-camera-is-the-smallest-and-lightest-of-its-kind-and-panasonic-is-listening-to-calls-to-add-a-viewfinder",
-      "date": "Mon, 23 Nov 2026 17:12:56 +0000",
-      "description": "\"We have heard that voice strongly\" – will a Panasonic Lumix S9 II come with a built-in electronic viewfinder?",
+      "title": " I don’t want to spend the holidays glued to my phone. This $79 / £62 compact camera is my favorite way to still shoot photos without a screen ",
+      "link": "https://www.digitalcameraworld.com/cameras/compact-cameras/i-dont-want-to-spend-the-holidays-glued-to-my-phone-this-usd79-gbp62-compact-camera-is-my-favorite-way-to-still-shoot-photos-without-a-screen",
+      "date": "Wed, 25 Nov 2026 15:48:14 +0000",
+      "description": "The Camp Snap CS-Pro is my favorite cheap screen-free camera, and right now it's even more affordable ahead of the holidays",
+      "source": "Digital Camera World",
+      "sourceWeight": 1.2,
+      "brandCounts": {},
+      "hardwareCounts": {
+        "camera": 2
+      },
+      "brandMatches": 0,
+      "hardwareMatches": 2,
+      "score": 17.18328627700617
+    },
+    {
+      "title": " Samyang discontinued my favorite lens 😢So I'm buying one while it's cheap for Black Friday ",
+      "link": "https://www.digitalcameraworld.com/cameras/lenses/samyang-discontinued-my-favorite-lens-so-im-buying-one-while-its-cheap-for-black-friday",
+      "date": "Wed, 25 Nov 2026 14:16:52 +0000",
+      "description": "This is the coolest lens I've ever used –and they've stopped making it. So I'm buying it cheap while I still can!",
+      "source": "Digital Camera World",
+      "sourceWeight": 1.2,
+      "brandCounts": {},
+      "hardwareCounts": {
+        "lens": 2
+      },
+      "brandMatches": 0,
+      "hardwareMatches": 2,
+      "score": 17.16213658564815
+    },
+    {
+      "title": " Keep your eye on the road with these brilliant Black Friday dashcam deals ",
+      "link": "https://www.digitalcameraworld.com/cameras/dash-cams/black-friday-dash-cam-deals",
+      "date": "Wed, 25 Nov 2026 13:42:59 +0000",
+      "description": "Our pick of the best dash cam discounts for Black Friday",
+      "source": "Digital Camera World",
+      "sourceWeight": 1.2,
+      "brandCounts": {},
+      "hardwareCounts": {},
+      "brandMatches": 0,
+      "hardwareMatches": 0,
+      "score": 11.154293221450617
+    },
+    {
+      "title": " Nikon's next camera will produce 288-megapixel images –but it's designed for use by robots, not photographers ",
+      "link": "https://www.digitalcameraworld.com/tech/nikons-next-camera-will-produce-288-megapixel-images-but-its-designed-for-use-by-robots-not-photographers",
+      "date": "Wed, 25 Nov 2026 13:01:17 +0000",
+      "description": "By capturing wide-angle and zoomed-in views simultaneously, the Nikon Dual Vision Camera spots microscopic flaws at assembly-line speeds.",
+      "source": "Digital Camera World",
+      "sourceWeight": 1.2,
+      "brandCounts": {
+        "Nikon": 2
+      },
+      "hardwareCounts": {
+        "camera": 2,
+        "megapixel": 1
+      },
+      "brandMatches": 2,
+      "hardwareMatches": 3,
+      "score": 30.144640443672838
+    },
+    {
+      "title": " Your phone is your camera –now you can turn it into a classic Kodak! ",
+      "link": "https://www.digitalcameraworld.com/tech/phone-cases/your-phone-is-your-camera-now-you-can-turn-it-into-a-classic-kodak",
+      "date": "Wed, 25 Nov 2026 12:26:44 +0000",
+      "description": "Kodak x Mous collab brings retro Kodak yellow and vintage film designs to the iPhone 18 and Galaxy S26 Ultra",
+      "source": "Digital Camera World",
+      "sourceWeight": 1.2,
+      "brandCounts": {
+        "Kodak": 3
+      },
+      "hardwareCounts": {
+        "camera": 1
+      },
+      "brandMatches": 3,
+      "hardwareMatches": 1,
+      "score": 29.136642758487653
+    },
+    {
+      "title": " My \"secret weapon\" lens is on sale right now –and for this price, you should definitely grab one! ",
+      "link": "https://www.digitalcameraworld.com/cameras/lenses/my-secret-weapon-lens-is-on-sale-right-now-and-for-this-price-you-should-definitely-grab-one",
+      "date": "Wed, 25 Nov 2026 12:25:04 +0000",
+      "description": "When I want to get creative, I pop this \"secret weapon\" lens on my camera –and right now it's just $149 / £149",
+      "source": "Digital Camera World",
+      "sourceWeight": 1.2,
+      "brandCounts": {},
+      "hardwareCounts": {
+        "camera": 1,
+        "lens": 2
+      },
+      "brandMatches": 0,
+      "hardwareMatches": 3,
+      "score": 20.136256956018517
+    },
+    {
+      "title": " This award-winning compact camera boasts a 2.36 million-dot viewfinder, is the \"best premium point-and-shoot\" and excels at street photography ",
+      "link": "https://www.digitalcameraworld.com/cameras/compact-cameras/this-award-winning-compact-camera-boasts-a-2-36-million-dot-viewfinder-is-the-best-premium-point-and-shoot-and-excels-at-street-photography",
+      "date": "Wed, 25 Nov 2026 11:05:45 +0000",
+      "description": "The Sony RX100 VII launched over 7 years ago – yet it remains one of the best choices thanks to its versatile 24-200mm (equivalent) f/2.8-4.5 lens and more",
+      "source": "Digital Camera World",
+      "sourceWeight": 1.2,
+      "brandCounts": {
+        "Sony": 1
+      },
+      "hardwareCounts": {
+        "camera": 1,
+        "lens": 1
+      },
+      "brandMatches": 1,
+      "hardwareMatches": 2,
+      "score": 22.117896616512343
+    },
+    {
+      "title": " Honor Magic 9 Pro Max review: a little bit of Hollywood in your pocket ",
+      "link": "https://www.digitalcameraworld.com/tech/android-phones/honor-magic-9-pro-max-review",
+      "date": "Wed, 25 Nov 2026 11:00:00 +0000",
+      "description": "Honor’s partnership with ARRI has produced some of the best video I’ve seen from a smartphone; I wish a little more of that magic had rubbed off on its photography",
+      "source": "Digital Camera World",
+      "sourceWeight": 1.2,
+      "brandCounts": {
+        "Honor": 2,
+        "ARRI": 1
+      },
+      "hardwareCounts": {},
+      "brandMatches": 3,
+      "hardwareMatches": 0,
+      "score": 26.116565597993826
+    },
+    {
+      "title": " “For too long, masking has been hidden behind a high learning barrier,” popular AI-infused photo editor gets new masking features ",
+      "link": "https://www.digitalcameraworld.com/photography/photo-editing/for-too-long-masking-has-been-hidden-behind-a-high-learning-barrier-popular-ai-infused-photo-editor-gets-new-masking-features",
+      "date": "Wed, 25 Nov 2026 10:52:57 +0000",
+      "description": "Skylum has unveiled imminent Intelligent Masking for its flagship photo-editing software, Luminar",
+      "source": "Digital Camera World",
+      "sourceWeight": 1.2,
+      "brandCounts": {
+        "ARRI": 1
+      },
+      "hardwareCounts": {
+        "software": 1,
+        "editing": 1
+      },
+      "brandMatches": 1,
+      "hardwareMatches": 2,
+      "score": 22.114933653549382
+    },
+    {
+      "title": " Meet the daddy of the Panasonic Lumix G system –and the de facto daddy of mirrorless cameras! ",
+      "link": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/the-worlds-first-mirrorless-camera-launched-17-years-ago-today-here-it-is-but-is-it-still-any-good",
+      "date": "Wed, 25 Nov 2026 10:36:33 +0000",
+      "description": "The first Panasonic Lumix G camera was also the world's first mirrorless camera –and even today, it's still a lot of fun",
       "source": "Digital Camera World",
       "sourceWeight": 1.2,
       "brandCounts": {
         "Panasonic": 2
       },
       "hardwareCounts": {
-        "camera": 1,
-        "mirrorless": 1,
-        "light": 1
+        "camera": 3,
+        "mirrorless": 2
       },
       "brandMatches": 2,
-      "hardwareMatches": 3,
-      "score": 29.864180844907406
+      "hardwareMatches": 5,
+      "score": 36.111137357253085
     },
     {
-      "title": " Watch GTA VI ‘running’ on a $7,800 Hasselblad medium format camera ",
-      "link": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/watch-gta-vi-running-on-a-usd7-800-hasselblad-medium-format-camera",
-      "date": "Mon, 23 Nov 2026 16:25:02 +0000",
-      "description": "Forget carjacking – this resourceful YouTuber has hotwired a $7,800 camera to play the biggest videogame release of the decade",
+      "title": " The Nikon Z30 is a cheap camera that doesn’t feel cheap – and this twin-lens kit lets you keep every angle covered, and is now at its lowest-ever price ",
+      "link": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/nikon-z30-dual-lens-black-friday-deal",
+      "date": "Wed, 25 Nov 2026 08:25:45 +0000",
+      "description": "The Nikon Z30 is a compact budget mirrorless camera that still packs a punch – and this twin-lens deal gives you an impressive 15x zoom range",
       "source": "Digital Camera World",
       "sourceWeight": 1.2,
       "brandCounts": {
-        "Hasselblad": 1
+        "Nikon": 2
       },
       "hardwareCounts": {
         "camera": 2,
-        "medium format": 1
-      },
-      "brandMatches": 1,
-      "hardwareMatches": 3,
-      "score": 24.853092881944445
-    },
-    {
-      "title": " Is your phone quality holding your content back? I think Canon's compact creator camera is the upgrade you need ",
-      "link": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/is-your-phone-quality-holding-your-content-back-i-think-canons-compact-creator-camera-is-the-upgrade-you-need",
-      "date": "Mon, 23 Nov 2026 15:49:23 +0000",
-      "description": "If you want to step up your content, you need to step up the gear you create it with –and Canon has a camera that's perfect for the job",
-      "source": "Digital Camera World",
-      "sourceWeight": 1.2,
-      "brandCounts": {
-        "Canon": 2
-      },
-      "hardwareCounts": {
-        "camera": 2
+        "lens": 2,
+        "mirrorless": 1
       },
       "brandMatches": 2,
-      "hardwareMatches": 2,
-      "score": 26.84484056712963
+      "hardwareMatches": 5,
+      "score": 36.08085957947531
     },
     {
-      "title": " These full-frame mirrorless cameras are now up to 46% off – and we've tested them all ",
-      "link": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/these-full-frame-mirrorless-cameras-are-now-up-to-46-percent-off-and-weve-tested-them-all",
-      "date": "Mon, 23 Nov 2026 14:48:48 +0000",
-      "description": "These full-frame mirrorless cameras make it easier to switch systems without overspending",
+      "title": " In the southwest of England, a photographer documents a local company harvesting spaghetti, but it's not the pasta you expect – and snorkels are needed ",
+      "link": "https://www.digitalcameraworld.com/photography/awards-and-competitions/in-the-southwest-of-england-a-photographer-documents-a-local-company-harvesting-spaghetti-but-its-not-the-pasta-you-expect-and-snorkels-are-needed",
+      "date": "Wed, 25 Nov 2026 08:25:00 +0000",
+      "description": "Photographer Brad Wakefield captured the scene of a diver harvesting buttonweed, otherwise known as sea spaghetti – off the Cornish coast, the frame recently winning the “Documentary” category at the British Photography Awards 2026",
       "source": "Digital Camera World",
       "sourceWeight": 1.2,
       "brandCounts": {},
-      "hardwareCounts": {
-        "camera": 2,
-        "mirrorless": 2,
-        "full-frame": 2
-      },
+      "hardwareCounts": {},
       "brandMatches": 0,
-      "hardwareMatches": 6,
-      "score": 28.83081664737654
+      "hardwareMatches": 0,
+      "score": 11.080685968364197
     },
     {
-      "title": " Popular full-frame cameras now up to 30% cheaper – here are my top picks ",
-      "link": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/popular-full-frame-cameras-now-up-to-30-percent-cheaper-here-are-my-top-picks",
-      "date": "Mon, 23 Nov 2026 14:27:54 +0000",
-      "description": "Three full-frame mirrorless cameras that make upgrading easy – save up to $603 on Canon, Nikon & Sony powerhouses",
+      "title": " The best APS-C mirrorless camera in 2026: fast, high-quality and affordable cameras from Canon, Nikon, Sony and Fujifilm ",
+      "link": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/best-aps-c-mirrorless-camera",
+      "date": "Wed, 25 Nov 2026 07:30:00 +0000",
+      "description": "How to choose the best APS-C mirrorless camera to fit your budget, whether for travel, wildlife, vlogging, landscapes or whatever else.",
       "source": "Digital Camera World",
       "sourceWeight": 1.2,
       "brandCounts": {
         "Canon": 1,
         "Sony": 1,
-        "Nikon": 1
+        "Nikon": 1,
+        "Fujifilm": 1
       },
       "hardwareCounts": {
-        "camera": 2,
-        "mirrorless": 1,
-        "full-frame": 2
+        "camera": 3,
+        "mirrorless": 2,
+        "APS-C": 2
       },
-      "brandMatches": 3,
-      "hardwareMatches": 5,
-      "score": 40.825978684413585
+      "brandMatches": 4,
+      "hardwareMatches": 7,
+      "score": 52.06795448688272
     },
     {
-      "title": " 70% of the Top 10 compact cameras in Japan come from just 2 camera brands – ranging from $89 to $549 ",
-      "link": "https://www.digitalcameraworld.com/cameras/compact-cameras/70-percent-of-the-top-10-compact-cameras-in-japan-come-from-just-2-camera-brands-ranging-from-usd89-to-usd549",
-      "date": "Mon, 23 Nov 2026 13:11:41 +0000",
-      "description": "The 10 best-selling compact cameras chart from Japan is only made up of 7 models – here's why these point-and-shoots dominate the ranking",
-      "source": "Digital Camera World",
+      "title": "Insta360 Ace Pro 3 camera rumored to be announced on December 1st",
+      "link": "https://photorumors.com/2026/11/24/insta360-ace-pro-3-camera-rumored-to-be-announced-on-december-1st/",
+      "date": "Wed, 25 Nov 2026 01:59:51 +0000",
+      "description": "The previously reported Insta360 Ace Pro 3 camera is rumored to be announced on December 1st – here is the leaked teaser: 👉Well, hello, @insta360 Ace Pro 3. Long time no see 🫣 https://t.co/am7X3Q8Jrn — Igor Bogdanov (@Quadro_News) November 24, 2026 The next Insta360 Ace Pro 3 camera lands at the FCC You can find […] The post Insta360 Ace Pro 3 camera rumored to be announced on December 1st appeared first on Photo Rumors. 2025 Black Friday photography deals: the BIG list Early Black Friday phot",
+      "source": "Photo Rumors",
+      "sourceWeight": 1.2,
+      "brandCounts": {
+        "Insta360": 5
+      },
+      "hardwareCounts": {
+        "camera": 4
+      },
+      "brandMatches": 5,
+      "hardwareMatches": 4,
+      "score": 47.99153087577161
+    },
+    {
+      "title": "Meike Black Friday sale",
+      "link": "https://photorumors.com/2026/11/24/meike-black-friday-sale/",
+      "date": "Tue, 24 Nov 2026 21:16:49 +0000",
+      "description": "Meike is running a Black Friday sale from November 19th to 30th, 2026, with 20% off autofocus lenses and 40% off select other products: Meike online store Amazon US Amazon DE B&H Photo The post Meike Black Friday sale appeared first on Photo Rumors. 2025 Black Friday photography deals: the BIG list Early Black Friday photography deals and promo codes DxO Black Friday savings",
+      "source": "Photo Rumors",
       "sourceWeight": 1.2,
       "brandCounts": {},
       "hardwareCounts": {
-        "camera": 3
+        "lens": 1,
+        "autofocus": 1
       },
       "brandMatches": 0,
-      "hardwareMatches": 3,
-      "score": 19.8083359375
+      "hardwareMatches": 2,
+      "score": 16.92601389660494
     },
     {
       "title": "New TTartisan AF 12mm f/2.8 full-frame autofocus ultra-wide angle lens announced (E/Z/L)",
@@ -1553,7 +1574,7 @@
       },
       "brandMatches": 2,
       "hardwareMatches": 14,
-      "score": 63.17782667824074
+      "score": 62.8498719212963
     },
     {
       "title": "Insta360 Black Friday Sales",
@@ -1571,7 +1592,7 @@
       },
       "brandMatches": 8,
       "hardwareMatches": 4,
-      "score": 62.87920785108025
+      "score": 62.5512530941358
     },
     {
       "title": "Artra × Rolleiflex Camera Dual watch coming on November 28th",
@@ -1589,7 +1610,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 4,
-      "score": 27.876954764660493
+      "score": 27.54900000771605
     },
     {
       "title": "Denoise, Upscale & Enhance Wildlife Photos with Aiarty Image Enhancer (49% OFF Lifetime License for Black Friday)",
@@ -1604,7 +1625,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 1,
-      "score": 13.548490258487654
+      "score": 13.220535501543209
     },
     {
       "title": "Sony and Fujifilm registered new cameras",
@@ -1624,7 +1645,7 @@
       },
       "brandMatches": 9,
       "hardwareMatches": 7,
-      "score": 76.2896746720679
+      "score": 75.96171991512345
     },
     {
       "title": "What else is new?",
@@ -1644,7 +1665,7 @@
       },
       "brandMatches": 3,
       "hardwareMatches": 6,
-      "score": 43.280805073302474
+      "score": 42.952850316358024
     },
     {
       "title": "The latest Panasonic Lumix L10 compact fixed-lens camera is finally in stock",
@@ -1662,7 +1683,7 @@
       },
       "brandMatches": 7,
       "hardwareMatches": 9,
-      "score": 71.89693161651235
+      "score": 71.56897685956791
     },
     {
       "title": "Thypoch Sculptor AF 23mm f/1.4 APS-C lens for Fujifilm X-mount officially announced",
@@ -1682,7 +1703,7 @@
       },
       "brandMatches": 4,
       "hardwareMatches": 12,
-      "score": 65.82838609182099
+      "score": 65.50043133487655
     },
     {
       "title": "2026 Nextorage Black Friday sale",
@@ -1697,7 +1718,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 1,
-      "score": 12.64902266589506
+      "score": 12.321067908950615
     },
     {
       "title": "Black Friday Sale: up to 20% off Brightin Star lenses",
@@ -1712,7 +1733,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 6,
-      "score": 27.59501032021605
+      "score": 27.267055563271605
     },
     {
       "title": "2026 SmallRig Black Friday starts now",
@@ -1727,7 +1748,7 @@
       "hardwareCounts": {},
       "brandMatches": 4,
       "hardwareMatches": 0,
-      "score": 29.501580536265433
+      "score": 29.173625779320986
     },
     {
       "title": "Viltrox announces exclusive deals and rewards for Black Friday 2026",
@@ -1745,7 +1766,7 @@
       },
       "brandMatches": 6,
       "hardwareMatches": 4,
-      "score": 51.34865229166667
+      "score": 51.02069753858025
     },
     {
       "title": "New ZY Optics (Zhongyi) Mitakon Speedmaster 65mm f/1.4 II lens for Fuji GFX & Hasselblad X mount announced",
@@ -1766,46 +1787,81 @@
       },
       "brandMatches": 6,
       "hardwareMatches": 11,
-      "score": 72.3102958101852
+      "score": 71.98234105709876
     },
     {
-      "title": "What’s new on Kickstarter: HEIPI 2-in-1 hybrid head, Fotorgear Campix camera, Maven Talon lights",
-      "link": "https://photorumors.com/2026/11/18/whats-new-on-kickstarter-heipi-2-in-1-hybrid-head-fotorgear-campix-camera-maven-talon-lights/",
-      "date": "Thu, 19 Nov 2026 00:16:04 +0000",
-      "description": "New: HEIPI 2-in-1 hybrid head for photo & video – one compact head combining the core capabilities of a ball head, gimbal head, and fluid head for versatile photo and video shooting ($42,026 raised by 135 backers). Ending soon: Fotorgear Campix camera – Waist-Level Viewfinder | Interchangeable Lenses | 6 Customizable Filter Slots | Tactile […] The post What’s new on Kickstarter: HEIPI 2-in-1 hybrid head, Fotorgear Campix camera, Maven Talon lights appeared first on Photo Rumors. What’s new on Ki",
-      "source": "Photo Rumors",
-      "sourceWeight": 1.2,
+      "title": "Save $11,359.80 USD on the DZOFilm PAVO 2x Anamorphic 6-Lens Set (PL/EF Mount, Feet",
+      "link": "https://www.newsshooter.com/2026/11/24/save-11359-80-usd-on-the-dzofilm-pavo-2x-anamorphic-6-lens-set-pl-ef-mount-feet/",
+      "date": "Wed, 25 Nov 2026 02:23:57 +0000",
+      "description": "You can save $11,359.80 USD on the DZOFilm PAVO 2x Anamorphic 6-Lens Set (PL/EF Mount, Feet) and purchase it for $10,739.11 USD. Key features The PAVO 2x Anamorphic 6-Lens Set from DZOFilm was designed to cover the Super35 sensor of cine-style cameras, this set of neutral-coated lenses includes six focal lengths (28mm, 32mm, 40mm, 55mm, ... Read more The post Save $11,359.80 USD on the DZOFilm PAVO 2x Anamorphic 6-Lens Set (PL/EF Mount, Feet appeared first on Newsshooter.",
+      "source": "Newsshooter",
+      "sourceWeight": 1.1,
       "brandCounts": {},
       "hardwareCounts": {
-        "camera": 3,
-        "lens": 1,
-        "gimbal": 1,
-        "filter": 1,
-        "light": 2
+        "camera": 1,
+        "lens": 5,
+        "sensor": 1,
+        "mount": 3
       },
       "brandMatches": 0,
-      "hardwareMatches": 8,
-      "score": 33.29546170524692
+      "hardwareMatches": 10,
+      "score": 40.897109575617286
     },
     {
-      "title": "New lenses from Thypoch, Blazar, and DZOFilm",
-      "link": "https://photorumors.com/2026/11/18/new-lenses-from-thypoch-blazar-and-dzofilm/",
-      "date": "Thu, 19 Nov 2026 00:06:37 +0000",
-      "description": "A new Thypoch Sculptor 23mm f/1.4 lens will be announed on November 20th. Blazar Talon lenses for L-mount are now available. Coming soon: DZOFilm Arcana anamorphic lens. The post New lenses from Thypoch, Blazar, and DZOFilm appeared first on Photo Rumors. New Cooke, Thypoch, Blazar, and Zeiss cinema lenses New Thypoch Eureka 28mm f/2.8 lens for Leica M and Fujifilm X mount officially announced inspired by the Dallmeyer 35mm f/3.5 Anastigmat Thypoch is teasing three new lenses",
-      "source": "Photo Rumors",
-      "sourceWeight": 1.2,
+      "title": "Save $6,490 USD on the ZEISS Nano Prime 6-Lens Set (Sony E, Feet)",
+      "link": "https://www.newsshooter.com/2026/11/24/save-6490-usd-on-the-zeiss-nano-prime-6-lens-set-sony-e-feet/",
+      "date": "Wed, 25 Nov 2026 02:09:21 +0000",
+      "description": "B&H has a god Black Friday deal where you can save $6,490 USD on the ZEISS Nano Prime 6-Lens Set (Sony E, Feet) and purchase it for $19,460 USD. Key features The ZEISS Nano Prime 6-Lens Set includes six commonly used focal lengths ranging from wide-angle to telephoto. Included in this Sony E full-frame compatible ... Read more The post Save $6,490 USD on the ZEISS Nano Prime 6-Lens Set (Sony E, Feet) appeared first on Newsshooter.",
+      "source": "Newsshooter",
+      "sourceWeight": 1.1,
       "brandCounts": {
-        "Fujifilm": 1,
-        "Leica": 1,
-        "Zeiss": 1
+        "Sony": 4,
+        "Zeiss": 4
       },
       "hardwareCounts": {
-        "lens": 8,
-        "mount": 2
+        "lens": 4,
+        "full-frame": 1
+      },
+      "brandMatches": 8,
+      "hardwareMatches": 5,
+      "score": 65.89372994598764
+    },
+    {
+      "title": "Profoto SnapGrid L, SnapGrid S, & Truss Mount Kit for ProPanel 3×2",
+      "link": "https://www.newsshooter.com/2026/11/24/profoto-snapgrid-l-snapgrid-s-truss-mount-kit-for-propanel-3x2/",
+      "date": "Wed, 25 Nov 2026 01:56:49 +0000",
+      "description": "Profoto has Introduced the SnapGrid L, SnapGrid S, and Truss Mount Kit for their ProPanel 3×2. I reviewed the ProPanel 3×2 on the site earlier in the year, and you can see that review here. When you require control, even the best lights require some help. When creating soft, flattering light you also want to ... Read more The post Profoto SnapGrid L, SnapGrid S, & Truss Mount Kit for ProPanel 3×2 appeared first on Newsshooter.",
+      "source": "Newsshooter",
+      "sourceWeight": 1.1,
+      "brandCounts": {
+        "Profoto": 3
+      },
+      "hardwareCounts": {
+        "light": 2,
+        "mount": 3
       },
       "brandMatches": 3,
-      "hardwareMatches": 10,
-      "score": 54.29327420524692
+      "hardwareMatches": 5,
+      "score": 40.89082871141975
+    },
+    {
+      "title": "SIRUI Aurora 24mm F1.4 Review",
+      "link": "https://www.newsshooter.com/2026/11/24/sirui-aurora-24mm-f1-4-review/",
+      "date": "Wed, 25 Nov 2026 01:14:33 +0000",
+      "description": "SIRUI recently announced its new Aurora 15mm F1.6 and 24mm F1.4, the latest additions to its full-frame autofocus lens series. These new focal lengths join the existing 35mm F1.4 and 85mm F1.4. Both lenses feature STM autofocus with eye-tracking support, alongside protection against moisture, rain, and dust. Both lenses will initially be available in Sony ... Read more The post SIRUI Aurora 24mm F1.4 Review appeared first on Newsshooter.",
+      "source": "Newsshooter",
+      "sourceWeight": 1.1,
+      "brandCounts": {
+        "Sony": 1
+      },
+      "hardwareCounts": {
+        "lens": 3,
+        "autofocus": 2,
+        "full-frame": 1
+      },
+      "brandMatches": 1,
+      "hardwareMatches": 6,
+      "score": 33.881044760802475
     },
     {
       "title": "CineTwin 1.0– a visualizer and digital twin for film & still photo productions",
@@ -1818,7 +1874,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 11.044535779320988
+      "score": 10.716581026234566
     },
     {
       "title": "ARRI 2026 Clearance Sale",
@@ -1835,7 +1891,7 @@
       },
       "brandMatches": 5,
       "hardwareMatches": 1,
-      "score": 39.04246016203704
+      "score": 38.71450540895062
     },
     {
       "title": "CinemaLAB 1.0– a film laboratory simulator for Resolve, Final Cut Pro, After Effects & Premiere Pro",
@@ -1850,7 +1906,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 1,
-      "score": 13.964223279320986
+      "score": 13.636268526234566
     },
     {
       "title": "Canon EOS C300 Mark III Digital Cinema Camera Body (EF Lens Mount) on sale for $2,999 USD",
@@ -1869,7 +1925,7 @@
       },
       "brandMatches": 3,
       "hardwareMatches": 10,
-      "score": 55.96055043981482
+      "score": 55.63259568672839
     },
     {
       "title": "ARRI Reference Tool Viewer Version 0.10.0",
@@ -1884,7 +1940,7 @@
       "hardwareCounts": {},
       "brandMatches": 4,
       "hardwareMatches": 0,
-      "score": 30.955484853395063
+      "score": 30.627530100308643
     },
     {
       "title": "Pelican Vault V525 Rolling Case with Padded Dividers (Gray, 25L) on sale for $99.95 USD",
@@ -1897,7 +1953,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 10.93344010030864
+      "score": 10.605485347222222
     },
     {
       "title": "Save $4,950 USD on the Blackmagic Design 8TB Cloud Store Mini (4 x 2TB)",
@@ -1914,7 +1970,7 @@
       },
       "brandMatches": 3,
       "hardwareMatches": 1,
-      "score": 28.93186602623457
+      "score": 28.60391127314815
     },
     {
       "title": "Nikon ZR firmware Version 2.00 Now Available to Download",
@@ -1931,7 +1987,7 @@
       },
       "brandMatches": 5,
       "hardwareMatches": 5,
-      "score": 50.91839766203704
+      "score": 50.590442905092594
     },
     {
       "title": "FUJIFILM GFX ETERNA 55 Cinema Camera (Body Only Version) now available for $9,999 USD",
@@ -1949,7 +2005,7 @@
       },
       "brandMatches": 5,
       "hardwareMatches": 4,
-      "score": 47.84274951388889
+      "score": 47.51479475694445
     },
     {
       "title": "Tamron HEAD Link & SLIDER Link at Inter BEE 2026",
@@ -1966,7 +2022,7 @@
       },
       "brandMatches": 4,
       "hardwareMatches": 1,
-      "score": 33.637637631172844
+      "score": 33.30968287422839
     },
     {
       "title": "Nextorage 1920GB NX-A1SE CFexpress Type A Memory Card on sale for $449.99 USD",
@@ -1983,66 +2039,139 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 4,
-      "score": 27.63067003858025
+      "score": 27.302715281635805
     },
     {
-      "title": "LIT Systems LIT DUO 1 Digital Light Meter on sale for $599 USD",
-      "link": "https://www.newsshooter.com/2026/11/22/lit-systems-lit-duo-1-digital-light-meter-on-sale-for-599-usd/",
-      "date": "Mon, 23 Nov 2026 07:29:48 +0000",
-      "description": "The LIT Systems LIT DUO 1 Digital Light Meter is on sale for $599 USD, which is a discount of $200 USD. Key features The LIT DUO 1 Digital Light Meter measures light with accuracy and enables precise adjustments. Featuring seven metering modes to optimize your lighting setups, you can toggle between wide and narrow measuring ... Read more The post LIT Systems LIT DUO 1 Digital Light Meter on sale for $599 USD appeared first on Newsshooter.",
-      "source": "Newsshooter",
-      "sourceWeight": 1.1,
+      "title": "These astonishing photographs explore the sexual fantasies we keep secret",
+      "link": "https://amateurphotographer.com/latest/exhibitions/these-astonishing-photographs-explore-the-sexual-fantasies-we-keep-secret/",
+      "date": "Wed, 25 Nov 2026 16:46:00 +0000",
+      "description": "Lebanese photographer Myriam Boulos explores sexuality, desire and vulnerability in A Collective Diary: Sexual Fantasies. The post These astonishing photographs explore the sexual fantasies we keep secret appeared first on Amateur Photographer.",
+      "source": "Amateur Photographer",
+      "sourceWeight": 1,
+      "brandCounts": {},
+      "hardwareCounts": {},
+      "brandMatches": 0,
+      "hardwareMatches": 0,
+      "score": 10.99665818287037
+    },
+    {
+      "title": "With a Black Friday price so good, this excellent action camera can help make you a YouTube star!",
+      "link": "https://amateurphotographer.com/latest/deals/with-a-black-friday-price-so-good-this-excellent-action-camera-can-help-make-you-a-youtube-star/",
+      "date": "Wed, 25 Nov 2026 16:05:42 +0000",
+      "description": "Tough action camera with decent battery life might not pack the latest tech, but the DJI Osmo Action 4 is a great buy at this price The post With a Black Friday price so good, this excellent action camera can help make you a YouTube star! appeared first on Amateur Photographer.",
+      "source": "Amateur Photographer",
+      "sourceWeight": 1,
+      "brandCounts": {
+        "DJI": 1
+      },
+      "hardwareCounts": {
+        "camera": 3,
+        "battery": 1
+      },
+      "brandMatches": 1,
+      "hardwareMatches": 4,
+      "score": 27.987329479166668
+    },
+    {
+      "title": "Best smartphones for landscape photography: these are the phones I’d take to stunning locations",
+      "link": "https://amateurphotographer.com/buying-advice/best-smartphones-for-landscape-photography/",
+      "date": "Wed, 25 Nov 2026 15:07:00 +0000",
+      "description": "High-resolution sensors and wideangle lenses make smartphones a great choice for landscapes. Amy Davies recommends her top picks. The post Best smartphones for landscape photography: these are the phones I’d take to stunning locations appeared first on Amateur Photographer.",
+      "source": "Amateur Photographer",
+      "sourceWeight": 1,
       "brandCounts": {},
       "hardwareCounts": {
-        "light": 6
+        "lens": 1,
+        "sensor": 1
+      },
+      "brandMatches": 0,
+      "hardwareMatches": 2,
+      "score": 16.973741516203702
+    },
+    {
+      "title": "Rare and racy celebrity photos from Vogue’s 100-year archive – shot by the world’s best photographers!",
+      "link": "https://amateurphotographer.com/latest/incredible-and-rare-celebrity-photos-from-vogues-100-year-archive-a-visual-treat-that-must-be-seen/",
+      "date": "Wed, 25 Nov 2026 14:21:00 +0000",
+      "description": "With an archive spanning a century and filled with the biggest names in photography, this is a truly stunning collection The post Rare and racy celebrity photos from Vogue’s 100-year archive – shot by the world’s best photographers! appeared first on Amateur Photographer.",
+      "source": "Amateur Photographer",
+      "sourceWeight": 1,
+      "brandCounts": {},
+      "hardwareCounts": {},
+      "brandMatches": 0,
+      "hardwareMatches": 0,
+      "score": 10.963093368055556
+    },
+    {
+      "title": "Conflict, Covid and climate crisis – the first quarter of the 21st century explored in photos",
+      "link": "https://amateurphotographer.com/latest/conflict-climate-crisis-and-covid-the-first-quarter-of-the-21st-century-explored-in-photos/",
+      "date": "Wed, 25 Nov 2026 12:30:17 +0000",
+      "description": "Act One takes the viewer through a visual journey of the biggest shared experiences that catapulted us through the first quarter of the 21st century. The post Conflict, Covid and climate crisis – the first quarter of the 21st century explored in photos appeared first on Amateur Photographer.",
+      "source": "Amateur Photographer",
+      "sourceWeight": 1,
+      "brandCounts": {},
+      "hardwareCounts": {},
+      "brandMatches": 0,
+      "hardwareMatches": 0,
+      "score": 10.937464510030864
+    },
+    {
+      "title": "Win a gorgeous Billingham TEN-16 camera bag worth £130 for Christmas",
+      "link": "https://amateurphotographer.com/latest/photo-news/win-a-gorgeous-billingham-ten-16-camera-bag-worth-130-for-christmas/",
+      "date": "Wed, 25 Nov 2026 11:46:22 +0000",
+      "description": "Win one of two handmade Billingham TEN-16 camera bags in our latest competition. Enter for your chance to win before 23 December 2026. The post Win a gorgeous Billingham TEN-16 camera bag worth £130 for Christmas appeared first on Amateur Photographer.",
+      "source": "Amateur Photographer",
+      "sourceWeight": 1,
+      "brandCounts": {},
+      "hardwareCounts": {
+        "camera": 3,
+        "bag": 3
       },
       "brandMatches": 0,
       "hardwareMatches": 6,
-      "score": 28.62919627314815
+      "score": 28.927298614969136
     },
     {
-      "title": "Save $411 USD on the Easyrig Minimax",
-      "link": "https://www.newsshooter.com/2026/11/21/save-411-usd-on-the-easyrig-minimax/",
-      "date": "Sun, 22 Nov 2026 07:01:50 +0000",
-      "description": "You can save $411 USD on the Easyrig Minimax and purchase it for $999 USD. Key features The Easyrig Minimax is designed for productions requiring extensive handheld camera work with cameras weighing 4.4 to 15.4 lb. Rather than uncomfortably handholding your camera and supporting the weight with your arms, the Minimax redistributes the weight of ... Read more The post Save $411 USD on the Easyrig Minimax appeared first on Newsshooter.",
-      "source": "Newsshooter",
-      "sourceWeight": 1.1,
+      "title": "Is the new wave of film cameras indicative of the fact we’ve reached peak digital fatigue?",
+      "link": "https://amateurphotographer.com/latest/opinion/is-the-new-wave-of-film-cameras-indicative-of-the-fact-weve-reached-peak-digital-fatigue/",
+      "date": "Wed, 25 Nov 2026 10:35:00 +0000",
+      "description": "Gen Alpha and Z are discovering film for the first time while Gen X is getting back into it, with a raft of new film cameras satiating creative appetite. So are we done with digital? The post Is the new wave of film cameras indicative of the fact we’ve reached peak digital fatigue? appeared first on Amateur Photographer.",
+      "source": "Amateur Photographer",
+      "sourceWeight": 1,
       "brandCounts": {},
       "hardwareCounts": {
         "camera": 3
       },
       "brandMatches": 0,
       "hardwareMatches": 3,
-      "score": 19.28938917438272
+      "score": 19.91077855324074
     },
     {
-      "title": "Save $380 USD on the OConnor Camera Assistant Bag",
-      "link": "https://www.newsshooter.com/2026/11/21/save-380-usd-on-the-oconnor-camera-assistant-bag/",
-      "date": "Sun, 22 Nov 2026 06:53:32 +0000",
-      "description": "You can save $380 USD on the OConnor Camera Assistant Bag, and purchase it for $219.95 USD. I have owned this bag for many, many years, and it is very robustly made. Key features The OConnor Camera Assistant Bag is designed to securely hold your fluid head and other gear and to be comfortably worn ... Read more The post Save $380 USD on the OConnor Camera Assistant Bag appeared first on Newsshooter.",
-      "source": "Newsshooter",
-      "sourceWeight": 1.1,
+      "title": "Our favourite photo taken by YOU! This week, a spectacular Northern Lights landscape – plus more wildlife, street and landscape shots",
+      "link": "https://amateurphotographer.com/latest/articles/ap-picture-of-the-week-your-best-photos-shared/",
+      "date": "Wed, 25 Nov 2026 09:40:00 +0000",
+      "description": "We share the latest photo selected as AP's Picture of the Week winner, taken by you - the community! The post Our favourite photo taken by YOU! This week, a spectacular Northern Lights landscape – plus more wildlife, street and landscape shots appeared first on Amateur Photographer.",
+      "source": "Amateur Photographer",
+      "sourceWeight": 1,
       "brandCounts": {},
       "hardwareCounts": {
-        "camera": 4,
-        "bag": 5
+        "light": 2
       },
       "brandMatches": 0,
-      "hardwareMatches": 9,
-      "score": 37.287467878086424
+      "hardwareMatches": 2,
+      "score": 16.898047071759258
     },
     {
-      "title": "Save $450 USD on the Toshiba 16TB N300 7200 rpm SATA III 3.5″ Internal NAS HDD",
-      "link": "https://www.newsshooter.com/2026/11/21/save-450-usd-on-the-toshiba-16tb-n300-7200-rpm-sata-iii-3-5-internal-nas-hdd/",
-      "date": "Sun, 22 Nov 2026 06:46:37 +0000",
-      "description": "You can save $450 USD on the Toshiba 16TB N300 7200 rpm SATA III 3.5″ Internal NAS HDD and purchase it for $549 USD. Key features The 16TB N300 7200 rpm SATA III 3.5″ Internal NAS HDD meets the reliability, performance, endurance, and scalability requirements of 24/7 NAS applications for personal, home office, and small ... Read more The post Save $450 USD on the Toshiba 16TB N300 7200 rpm SATA III 3.5″ Internal NAS HDD appeared first on Newsshooter.",
-      "source": "Newsshooter",
-      "sourceWeight": 1.1,
+      "title": "Powerful wartime photographs, an infamous fatberg and Tom Daley’s speedos – London’s story laid bare",
+      "link": "https://amateurphotographer.com/latest/photo-news/powerful-wartime-photographs-an-infamous-fatberg-and-tom-daleys-speedos-londons-story-laid-bare/",
+      "date": "Tue, 24 Nov 2026 19:00:00 +0000",
+      "description": "London Museum opens its doors at the historic General Market, with plenty of treasures presenting a portrait of the capital, past and present The post Powerful wartime photographs, an infamous fatberg and Tom Daley’s speedos – London’s story laid bare appeared first on Amateur Photographer.",
+      "source": "Amateur Photographer",
+      "sourceWeight": 1,
       "brandCounts": {},
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 10.285866797839507
+      "score": 10.694343368055556
     },
     {
       "title": "The best bridge camera in 2026 – maximum zoom in one camera",
@@ -2057,7 +2186,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 5,
-      "score": 25.988733310185186
+      "score": 25.66077855324074
     },
     {
       "title": "From orphanage to high fashion – the extraordinary life of Coco Chanel revealed in rarely seen photos",
@@ -2070,7 +2199,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 10.973687013888888
+      "score": 10.645732256944443
     },
     {
       "title": "Honor Magic 9 Pro Max drops with seriously good video features – your movies just got a huge upgrade",
@@ -2088,7 +2217,7 @@
       },
       "brandMatches": 4,
       "hardwareMatches": 2,
-      "score": 36.96506047067901
+      "score": 36.63710571373457
     },
     {
       "title": "iPhone x Kodak Gold? It’s a match made in heaven with this new tough phone case",
@@ -2106,7 +2235,7 @@
       },
       "brandMatches": 4,
       "hardwareMatches": 1,
-      "score": 33.95478269290123
+      "score": 33.62682793595679
     },
     {
       "title": "Fujifilm Instax Mini Evo II review: this updated hybrid instant camera is heaps of fun",
@@ -2123,7 +2252,7 @@
       },
       "brandMatches": 3,
       "hardwareMatches": 3,
-      "score": 34.952853680555556
+      "score": 34.62489892361111
     },
     {
       "title": "We really rate this light and versatile full-frame camera, and it’s now much cheaper for Black Friday week",
@@ -2143,151 +2272,37 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 8,
-      "score": 39.94750260030864
+      "score": 39.6195478433642
     },
     {
-      "title": "See fashion goddess Kate Moss as you’ve never seen her before – behind the scenes Polaroids reveal all",
-      "link": "https://amateurphotographer.com/latest/see-fashion-goddess-kate-moss-as-youve-never-seen-her-before-behind-the-scenes-polaroids-reveal-all/",
-      "date": "Tue, 24 Nov 2026 12:45:00 +0000",
-      "description": "Bigger than lifesize sculptures of the famous model were created by artist Marc Quinn The post See fashion goddess Kate Moss as you’ve never seen her before – behind the scenes Polaroids reveal all appeared first on Amateur Photographer.",
-      "source": "Amateur Photographer",
-      "sourceWeight": 1,
-      "brandCounts": {
-        "Polaroid": 2
-      },
-      "hardwareCounts": {},
-      "brandMatches": 2,
-      "hardwareMatches": 0,
-      "score": 20.935492569444442
-    },
-    {
-      "title": "I’ll always have Paris – thanks to Bob Books",
-      "link": "https://amateurphotographer.com/latest/photo-news/ill-always-have-paris-thanks-to-bob-books/",
-      "date": "Tue, 24 Nov 2026 11:55:00 +0000",
-      "description": "Photographer Fliss van Steenbergen walked 50 miles around the French capital’s streets on her recent trip, but, thanks to Bob Books, making a book of her images required a lot less effort The post I’ll always have Paris – thanks to Bob Books appeared first on Amateur Photographer.",
-      "source": "Amateur Photographer",
-      "sourceWeight": 1,
-      "brandCounts": {},
-      "hardwareCounts": {},
-      "brandMatches": 0,
-      "hardwareMatches": 0,
-      "score": 10.923918495370371
-    },
-    {
-      "title": "These 12 photographers loved trying Ricoh GR series compacts in London!",
-      "link": "https://amateurphotographer.com/latest/photo-news/these-12-photographers-loved-trying-ricoh-gr-series-compacts-in-london/",
-      "date": "Tue, 24 Nov 2026 11:10:36 +0000",
-      "description": "We recently held our second photo walk in London with Ricoh Imaging – it was a glorious late autumn afternoon, so how did everyone get on? The post These 12 photographers loved trying Ricoh GR series compacts in London! appeared first on Amateur Photographer.",
-      "source": "Amateur Photographer",
-      "sourceWeight": 1,
-      "brandCounts": {
-        "Ricoh": 3
-      },
-      "hardwareCounts": {},
-      "brandMatches": 3,
-      "hardwareMatches": 0,
-      "score": 25.913640717592592
-    },
-    {
-      "title": "The best mirrorless cameras in 2026: these are my top choices for photography and video",
-      "link": "https://amateurphotographer.com/buying-advice/the-best-mirrorless-cameras-you-can-buy/",
-      "date": "Mon, 23 Nov 2026 20:30:00 +0000",
-      "description": "Looking for the best mirrorless cameras? Geoff Harris and the AP team take you through the top options for all budgets and skill levels. The post The best mirrorless cameras in 2026: these are my top choices for photography and video appeared first on Amateur Photographer.",
-      "source": "Amateur Photographer",
-      "sourceWeight": 1,
-      "brandCounts": {
-        "ARRI": 1
-      },
-      "hardwareCounts": {
-        "camera": 3,
-        "mirrorless": 3
-      },
-      "brandMatches": 1,
-      "hardwareMatches": 6,
-      "score": 33.70979812114197
-    },
-    {
-      "title": "Stop fighting about whether cameras or iPhones are best. Here’s what really matters",
-      "link": "https://amateurphotographer.com/latest/opinion/stop-fighting-about-whether-cameras-or-iphones-are-best-heres-what-really-matters/",
-      "date": "Mon, 23 Nov 2026 16:45:00 +0000",
-      "description": "Everybody’s got an opinion over whether iPhones are either more, or less, legitimate tools for photography than an actual dedicated camera. But is the debate missing a wider issue? The post Stop fighting about whether cameras or iPhones are best. Here’s what really matters appeared first on Amateur Photographer.",
-      "source": "Amateur Photographer",
-      "sourceWeight": 1,
-      "brandCounts": {},
-      "hardwareCounts": {
-        "camera": 3
-      },
-      "brandMatches": 0,
-      "hardwareMatches": 3,
-      "score": 19.657714787808644
-    },
-    {
-      "title": "This Black Friday deal on one of the best weather-sealed cameras ever made – with classic mini-DSLR styling – is too good to miss!",
-      "link": "https://amateurphotographer.com/latest/deals/this-black-friday-deal-on-one-of-the-best-weather-sealed-cameras-ever-made-with-classic-mini-dslr-styling-is-too-good-to-miss/",
-      "date": "Mon, 23 Nov 2026 16:05:09 +0000",
-      "description": "The OM-5 Mark II has excellent image stabilisation and useful computational photography features - plus it takes lots of cheap, quality lenses! The post This Black Friday deal on one of the best weather-sealed cameras ever made – with classic mini-DSLR styling – is too good to miss! appeared first on Amateur Photographer.",
-      "source": "Amateur Photographer",
-      "sourceWeight": 1,
+      "title": "The Best Black Friday Deals for Photographers (Updated Daily)",
+      "link": "https://photographylife.com/news/black-friday-2026",
+      "date": "Wed, 25 Nov 2026 05:41:01 +0000",
+      "description": "Now that it's the week of Black Friday, you can find sales on almost every type of camera equipment that you can imagine. From cameras to software, I've gathered the best deals for you here today and highlighted any all-time low prices. I'll continue to update this article with new deals throughout the week.",
+      "source": "Photography Life",
+      "sourceWeight": 1.1,
       "brandCounts": {},
       "hardwareCounts": {
         "camera": 2,
-        "lens": 1,
-        "DSLR": 2
+        "light": 1,
+        "software": 1
       },
       "brandMatches": 0,
-      "hardwareMatches": 5,
-      "score": 25.648490250771605
+      "hardwareMatches": 4,
+      "score": 22.94272685570988
     },
     {
-      "title": "Best smartphones for video and content creators – cinematic reels made easy",
-      "link": "https://amateurphotographer.com/buying-advice/best-smartphones-for-video/",
-      "date": "Mon, 23 Nov 2026 16:05:00 +0000",
-      "description": "We round up the best smartphones for video, helping you create the best-looking content for YouTube, TikTok, Instagram and more. The post Best smartphones for video and content creators – cinematic reels made easy appeared first on Amateur Photographer.",
-      "source": "Amateur Photographer",
-      "sourceWeight": 1,
+      "title": "35 Of The Best Photography Gifts, By Budget (2026)",
+      "link": "https://photographylife.com/gifts-for-photographers",
+      "date": "Wed, 25 Nov 2026 00:20:15 +0000",
+      "description": "I've updated my holiday gift guide with new items and up-to-date prices. If you want some ideas to add to your Christmas list, or if you're shopping for any fellow photographers during the holiday season, this list has got you covered!",
+      "source": "Photography Life",
+      "sourceWeight": 1.1,
       "brandCounts": {},
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 10.648455528549384
-    },
-    {
-      "title": "Samsung’s best affordable phone is now £200 off in this Black Friday deal ",
-      "link": "https://amateurphotographer.com/latest/deals/samsungs-best-affordable-phone-is-now-200-off-in-this-black-friday-deal/",
-      "date": "Mon, 23 Nov 2026 15:38:00 +0000",
-      "description": "Samsung's Galaxy A57 is £200 off ahead of Black Friday. With a 50MP main camera, 4K video and useful AI editing tools, it's a budget-friendly buy. The post Samsung’s best affordable phone is now £200 off in this Black Friday deal appeared first on Amateur Photographer.",
-      "source": "Amateur Photographer",
-      "sourceWeight": 1,
-      "brandCounts": {
-        "Samsung": 3
-      },
-      "hardwareCounts": {
-        "camera": 1,
-        "editing": 1
-      },
-      "brandMatches": 3,
-      "hardwareMatches": 2,
-      "score": 31.642205528549383
-    },
-    {
-      "title": "First Thypoch Sculptor series lens promises Fujifilm X camera owners ‘finely crafted’ 3D-like results",
-      "link": "https://amateurphotographer.com/latest/photo-news/first-thypoch-sculptor-series-lens-promises-fujifilm-x-camera-owners-finely-crafted-3d-like-results/",
-      "date": "Mon, 23 Nov 2026 13:51:03 +0000",
-      "description": "Photography is all about sculpting light. Now, thanks to Thypoch, Fujifilm mirrorless shooters have a new fast aperture wide angle prime with which to potentially do it The post First Thypoch Sculptor series lens promises Fujifilm X camera owners ‘finely crafted’ 3D-like results appeared first on Amateur Photographer.",
-      "source": "Amateur Photographer",
-      "sourceWeight": 1,
-      "brandCounts": {
-        "Fujifilm": 3
-      },
-      "hardwareCounts": {
-        "camera": 2,
-        "lens": 2,
-        "mirrorless": 1,
-        "light": 1
-      },
-      "brandMatches": 3,
-      "hardwareMatches": 6,
-      "score": 43.617448584104935
+      "score": 10.8684753125
     },
     {
       "title": "Photography News: Panasonic SHX1 Announced, Fuji X Summit on Dec. 2",
@@ -2306,7 +2321,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 5,
-      "score": 30.951403059413582
+      "score": 30.623448306327163
     },
     {
       "title": "NYA-EVO Fjord 6 Toploader ECONYL Camera Pouch Review",
@@ -2322,7 +2337,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 5,
-      "score": 25.60156509645062
+      "score": 25.273610343364197
     },
     {
       "title": "Nikon Z 70-200mm f/2.8 VR S II Review",
@@ -2339,7 +2354,7 @@
       },
       "brandMatches": 4,
       "hardwareMatches": 2,
-      "score": 35.303636855709875
+      "score": 34.97568210262346
     },
     {
       "title": "Photography News: Canon Supertelephoto Rumor, Big Nikon Z5 Sale",
@@ -2355,7 +2370,7 @@
       "hardwareCounts": {},
       "brandMatches": 2,
       "hardwareMatches": 0,
-      "score": 18.145619880401235
+      "score": 17.817665127314818
     },
     {
       "title": "New Online Workshop: Dragonfly Photography with Dan Bárta",
@@ -2368,7 +2383,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 6.849520343364198
+      "score": 6.521565590277778
     },
     {
       "title": "K&F Concept LK07 60cm Octabox Review",
@@ -2385,7 +2400,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 5,
-      "score": 21.58542697916667
+      "score": 21.25747222608025
     },
     {
       "title": "Photography News: Laowa 24mm f/2 Tilt-Shift Announced, Rumored Nikon Z70 Specs",
@@ -2400,7 +2415,7 @@
       "hardwareCounts": {},
       "brandMatches": 1,
       "hardwareMatches": 0,
-      "score": 10.647267256944444
+      "score": 10.319312503858024
     },
     {
       "title": "Photography Lessons from Australian Birds: Part Five",
@@ -2415,50 +2430,80 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 1,
-      "score": 7.886179293981481
+      "score": 7.558224540895063
     },
     {
-      "title": "New Print Run for One Week – Up to 30% Off",
-      "link": "https://photographylife.com/news/new-print-run-one-week",
-      "date": "Tue, 03 Nov 2026 20:39:45 +0000",
-      "description": "The second print run at the Photography Life Print Lab begins today! And with it, I'm happy to introduce our new Lie-Flat Portfolio Books, along with a 30% sale on 12x18\" prints on 13x19\" paper. Today's print run closes in one week and will be our last of 2026.",
-      "source": "Photography Life",
-      "sourceWeight": 1.1,
+      "title": "‘As much joy as I could find’: a splash of colour – in pictures",
+      "link": "https://www.theguardian.com/artanddesign/gallery/2026/nov/25/as-much-joy-as-i-could-find-a-splash-of-colour-in-pictures",
+      "date": "Wed, 25 Nov 2026 07:00:09 GMT",
+      "description": "From bright green kebab shops to a flash of red stocking, photographer Niall McDiarmid is constantly on the hunt for antidotes to our muted beige and monochrome world Continue reading...",
+      "source": "The Guardian Photography",
+      "sourceWeight": 0.9,
       "brandCounts": {},
-      "hardwareCounts": {},
-      "brandMatches": 0,
-      "hardwareMatches": 0,
-      "score": 4.145388398919753
-    },
-    {
-      "title": "Photography News: Touchscreen MacBook Pros Announced, Nikon Z70 Rumor",
-      "link": "https://photographylife.com/news/photo-news-2026-11-01",
-      "date": "Mon, 02 Nov 2026 00:18:41 +0000",
-      "description": "Before we get our feet back on solid ground and take a look at the latest photography news, let’s keep our heads in the clouds for a little while longer. It was only quite recently that I discovered that the tallest tree in the Czech Republic grows less than 10 kilometers from my mountain cottage. Curiously, it’s not a native European species but a Douglas fir from North America. And since the world is a small place, especially here in the Czech Republic, it turned out that one of the scientists",
-      "source": "Photography Life",
-      "sourceWeight": 1.1,
-      "brandCounts": {
-        "Nikon": 1
-      },
       "hardwareCounts": {
-        "mount": 1
+        "flash": 1
       },
-      "brandMatches": 1,
+      "brandMatches": 0,
       "hardwareMatches": 1,
-      "score": 11.529400744598766
+      "score": 13.761044756944445
     },
     {
-      "title": "Need for speed: Joe Kennedy’s The Revivalists – in pictures",
-      "link": "https://www.theguardian.com/artanddesign/gallery/2026/nov/25/need-for-speed-joe-kennedys-the-revivalists-in-pictures",
-      "date": "Tue, 24 Nov 2026 14:00:49 GMT",
-      "description": "The Revivalists by Joe Kennedy explores the Red Dust Revival, a niche motorsport event held every three years in outback Western Australia. The event brings together vintage motorsport enthusiasts and their 100-year-old machines to relive the early years of motorsport The Revivalists is at the Head On photo festival at the Bondi Beach promenade from 6-29 November Continue reading...",
+      "title": "Pakistan’s first astronaut and golden light: photos of the day – Wednesday",
+      "link": "https://www.theguardian.com/news/gallery/2026/nov/25/pakistan-astronaut-golden-light-photos-of-the-day-wednesday",
+      "date": "Wed, 25 Nov 2026 15:45:04 GMT",
+      "description": "The Guardian’s picture editors select photographs from around the world Continue reading...",
+      "source": "The Guardian Photography",
+      "sourceWeight": 0.9,
+      "brandCounts": {},
+      "hardwareCounts": {
+        "light": 1
+      },
+      "brandMatches": 0,
+      "hardwareMatches": 1,
+      "score": 13.882553244598766
+    },
+    {
+      "title": "Fishing in Goa before tourism made taxi-drivers of everyone: Karan Kapoor’s best photograph",
+      "link": "https://www.theguardian.com/artanddesign/2026/nov/25/karan-kapoor-best-photograph-goa-fishing-mackerel",
+      "date": "Wed, 25 Nov 2026 14:59:09 GMT",
+      "description": "‘They drank, sang and screamed as the men launched a boat held together with rope and tar. If they missed the mackerel, the next village down got the catch. You can’t recognise these places now’ I was born in India in 1962, the year after Goa was liberated from Portuguese rule. My mother was English and my father was Indian. My maternal grandparents worked in a theatre company and toured the east doing Shakespeare plays. My father, Shashi Kapoor, was an actor who worked for my grandparents’ thea",
       "source": "The Guardian Photography",
       "sourceWeight": 0.9,
       "brandCounts": {},
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 10.853042719907407
+      "score": 10.871924386574074
+    },
+    {
+      "title": "The beaver supermoon glows across the globe – in pictures",
+      "link": "https://www.theguardian.com/science/gallery/2026/nov/25/2026-beaver-supermoon-delights-skywatchers-around-the-world-photographs",
+      "date": "Wed, 25 Nov 2026 00:45:52 GMT",
+      "description": "The largest supermoon of the year, known as the beaver moon, illuminated the night sky on 24 November to the delight of skywatchers around the world. From Salzburg to Srinagar, here is a selection of some of the best views Continue reading...",
+      "source": "The Guardian Photography",
+      "sourceWeight": 0.9,
+      "brandCounts": {},
+      "hardwareCounts": {
+        "light": 1
+      },
+      "brandMatches": 0,
+      "hardwareMatches": 1,
+      "score": 13.674405096450617
+    },
+    {
+      "title": "Why are people captivated by this photo of Australia’s climate change minister scowling at Cop31?",
+      "link": "https://www.theguardian.com/culture/2026/nov/25/chris-bowen-cop31-deal-failure-photograph",
+      "date": "Wed, 25 Nov 2026 00:40:13 GMT",
+      "description": "Chris Bowen was president of negotiations at Cop31 in Turkey when it all went a bit sideways Blake, I was at the back of the huge plenary hall in Antalya on Sunday at the end of the UN climate summit that overran by two days. For about 20 minutes, you could see from the panic on the stage that it wasn’t going well. I only had an old iPhone, was a long way back, and remember thinking: “I’d love a long lens to see the expression on their faces.” Then came this incredible picture of Chris Bowen loo",
+      "source": "The Guardian Photography",
+      "sourceWeight": 0.9,
+      "brandCounts": {},
+      "hardwareCounts": {
+        "lens": 1
+      },
+      "brandMatches": 0,
+      "hardwareMatches": 1,
+      "score": 13.673097222222223
     },
     {
       "title": "Fire breathers and a stranded cargo ship: photos of the day – Tuesday",
@@ -2471,7 +2516,20 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 10.893494108796297
+      "score": 10.565539351851852
+    },
+    {
+      "title": "Need for speed: Joe Kennedy’s The Revivalists – in pictures",
+      "link": "https://www.theguardian.com/artanddesign/gallery/2026/nov/25/need-for-speed-joe-kennedys-the-revivalists-in-pictures",
+      "date": "Tue, 24 Nov 2026 14:00:49 GMT",
+      "description": "The Revivalists by Joe Kennedy explores the Red Dust Revival, a niche motorsport event held every three years in outback Western Australia. The event brings together vintage motorsport enthusiasts and their 100-year-old machines to relive the early years of motorsport The Revivalists is at the Head On photo festival at the Bondi Beach promenade from 6-29 November Vegemite, VB and Hills hoists: Drew Hopper’s scenes from outback Australia – in pictures Continue reading...",
+      "source": "The Guardian Photography",
+      "sourceWeight": 0.9,
+      "brandCounts": {},
+      "hardwareCounts": {},
+      "brandMatches": 0,
+      "hardwareMatches": 0,
+      "score": 10.525087962962964
     },
     {
       "title": "What happened when the man who took a million photographs embraced colour?",
@@ -2484,7 +2542,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 10.852105219907408
+      "score": 10.524150462962965
     },
     {
       "title": "Conflict without end: grief, fear and resilience in Kashmir – in pictures",
@@ -2499,7 +2557,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 1,
-      "score": 13.755666176697533
+      "score": 13.427711419753086
     },
     {
       "title": "Ronaldo statue unveiled and an elephant on a truck: photos of the day – Monday",
@@ -2512,7 +2570,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 10.574628368055556
+      "score": 10.246673611111111
     },
     {
       "title": "Cathedrals of sound: the secret universe inside musical instruments – in pictures",
@@ -2527,7 +2585,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 1,
-      "score": 13.519713244598766
+      "score": 13.191758487654322
     },
     {
       "title": "The journal of a punk photographer from Wollongong to London and back – in pictures",
@@ -2540,7 +2598,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 10.519709386574073
+      "score": 10.19175462962963
     },
     {
       "title": "Dapper Liam and Noel, experimental Björk, and Bowie ‘cuddling himself’: Rankin reveals his never-before-seen shots of the stars",
@@ -2553,7 +2611,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 10.436379911265433
+      "score": 10.108425154320988
     },
     {
       "title": "Cat’s whiskers: Nan Goldin proves that she’s the greatest US artist since Warhol – review",
@@ -2566,7 +2624,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 10.325465559413582
+      "score": 9.997510802469135
     },
     {
       "title": "Tyson Fury looks back: ‘Once the Anthony Joshua fight is over, what will I do next? Walking the dog ain’t gonna cut it’",
@@ -2579,76 +2637,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 10.186298892746914
-    },
-    {
-      "title": "‘Napping together on the reeds, the swans appeared luminous’: Noah Forster’s best phone picture",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/nov/21/noah-forster-photographer-best-phone-picture-swans",
-      "date": "Sat, 21 Nov 2026 11:00:57 GMT",
-      "description": "The photographer hopes his intimate photograph of two sleeping birds will remind others of their special person Twenty-one-year-old Noah Forster had always thought swans were beautiful, but it was his girlfriend Cecilia is the one who made him really notice them. The pair began dating two years ago, but now live 70 miles apart; he is a welder in Newark-on-Trent, she is studying law in Leeds. “The distance can be difficult, but we try to talk as much as possible,” Forster says. “It’s taken me a w",
-      "source": "The Guardian Photography",
-      "sourceWeight": 0.9,
-      "brandCounts": {},
-      "hardwareCounts": {},
-      "brandMatches": 0,
-      "hardwareMatches": 0,
-      "score": 9.811406917438271
-    },
-    {
-      "title": "‘Trust was hard won’: Bell Pond, summer 1983, Worcester, Massachusetts – in pictures",
-      "link": "https://www.theguardian.com/artanddesign/gallery/2026/nov/21/bell-pond-monograph-stephen-dirado-photographer",
-      "date": "Sat, 21 Nov 2026 08:00:53 GMT",
-      "description": "Arriving one afternoon on a whim at a public swimming pond during a heatwave, photographer Stephen DiRado introduced himself to anyone willing to pay attention – and kept coming back. Bell Pond, available from TBW Books, captures intimate portraits of a working-class community Continue reading...",
-      "source": "The Guardian Photography",
-      "sourceWeight": 0.9,
-      "brandCounts": {
-        "ARRI": 1
-      },
-      "hardwareCounts": {},
-      "brandMatches": 1,
-      "hardwareMatches": 0,
-      "score": 14.76972481867284
-    },
-    {
-      "title": "Robert Pattinson’s weird James Bond and has GTA 6 gone woke? | The Close Up",
-      "link": "https://www.theguardian.com/news/audio/2026/nov/21/robert-pattinson-weird-james-bond-has-gta-6-gone-woke-the-close-up",
-      "date": "Sat, 21 Nov 2026 03:00:46 GMT",
-      "description": "Pulling a sickie to play Grand Theft Auto VI? Why is there so much hype over Nathan Fielder’s latest documentary, You Can See Everything? And have you noticed that all magazine covers look the same right now? Join Lanre Bakare and Carys Afoko as they discuss their favourite culture stories of the week Pulling a sickie to play Grand Theft Auto VI? Why is there so much hype over Nathan Fielder’s latest documentary You Can See Everything? And have you noticed that all magazine covers look the same ",
-      "source": "The Guardian Photography",
-      "sourceWeight": 0.9,
-      "brandCounts": {},
-      "hardwareCounts": {},
-      "brandMatches": 0,
-      "hardwareMatches": 0,
-      "score": 9.700253368055556
-    },
-    {
-      "title": "Dmitri Kasterine obituary",
-      "link": "https://www.theguardian.com/artanddesign/2026/nov/20/dmitri-kasterine-obituary",
-      "date": "Fri, 20 Nov 2026 20:26:49 GMT",
-      "description": "Photographer who captured the humanity of subjects including Queen Elizabeth II, Dirk Bogarde, Jean-Michel Basquiat and Tom Stoppard In 1963, the photographer Dmitri Kasterine heard that Stanley Kubrick was in London filming Dr Strangelove. Kasterine was a fan, so he approached the editor of Queen magazine and successfully pitched a feature on the director at work. Kubrick noticed him on set and said: “Would you like to come and work for me? You stand in the right place.” Kasterine worked for Ku",
-      "source": "The Guardian Photography",
-      "sourceWeight": 0.9,
-      "brandCounts": {},
-      "hardwareCounts": {},
-      "brandMatches": 0,
-      "hardwareMatches": 0,
-      "score": 9.609061238425927
-    },
-    {
-      "title": "We’ve tried everything to get off our phones. These 11 things work (and make great gifts)",
-      "link": "https://www.theguardian.com/thefilter-us/2026/nov/20/best-analog-holiday-gift-ideas",
-      "date": "Fri, 20 Nov 2026 20:15:38 GMT",
-      "description": "Our favorite screen alternatives, including guided watercolor books, jigsaw puzzles and a Mexican cookbook The best holiday gifts – obsessively tested Logging off is en vogue. From touting analog bags to playing vinyl records, many of us are tired of living life behind a screen. So 2026 may be the ideal year to gift some low-tech entertainment instead of the newest iPhone. These days, we’re all trying to connect with the “real world” more, and the latest string of tech outages has been a good nu",
-      "source": "The Guardian Photography",
-      "sourceWeight": 0.9,
-      "brandCounts": {},
-      "hardwareCounts": {
-        "bag": 1
-      },
-      "brandMatches": 0,
-      "hardwareMatches": 1,
-      "score": 12.606472503858026
+      "score": 9.858344135802469
     },
     {
       "title": "Afro-Ecuadoreans Maintain Identity Through Spiritual Practices",
@@ -2850,6 +2839,19 @@
       "score": 0.9
     },
     {
+      "title": "Platform 2020: Laura El-Tantawy on making photography accessible across Africa and the SWANA region",
+      "link": "https://www.1854.photography/2026/11/platform-2020-laura-el-tantawy-on-making-photography-accessible-across-africa-and-the-swana-region/",
+      "date": "Wed, 25 Nov 2026 16:00:17 +0000",
+      "description": "Founded in 2025 by Egyptian photographer Laura El-Tantawy, Platform 2020 is an online educational initiative creating new opportunities for documentary photographers across Africa and the SWANA region The post Platform 2020: Laura El-Tantawy on making photography accessible across Africa and the SWANA region appeared first on 1854 Photography.",
+      "source": "British Journal of Photography",
+      "sourceWeight": 0.9,
+      "brandCounts": {},
+      "hardwareCounts": {},
+      "brandMatches": 0,
+      "hardwareMatches": 0,
+      "score": 10.88607561728395
+    },
+    {
       "title": "Keisha Scarville reworks her father’s passport photo to meditate on family, belonging and home",
       "link": "https://www.1854.photography/2026/11/keisha-scarville-reworks-her-fathers-passport-photo-to-meditate-on-family-belonging-and-home/",
       "date": "Mon, 23 Nov 2026 16:00:30 +0000",
@@ -2860,7 +2862,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 10.547413858024692
+      "score": 10.219459104938272
     },
     {
       "title": "Miti Ruangkritya takes an evolving multimedia approach to Thai Politics",
@@ -2875,7 +2877,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 1,
-      "score": 12.825284228395063
+      "score": 12.497329475308641
     },
     {
       "title": "Spotlight: Visible Justice brings people together to consider justice, images and the legal system",
@@ -2890,7 +2892,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 2,
-      "score": 14.241792716049384
+      "score": 13.913837962962964
     },
     {
       "title": "Maria Quigley explores what shapes Russian nostalgia and ideology via her babushka’s TV screen",
@@ -2903,7 +2905,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 7.575264938271606
+      "score": 7.247310185185186
     },
     {
       "title": "Photography at 200 through the Prix Pictet",
@@ -2916,7 +2918,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 6.547849814814815
+      "score": 6.219895061728395
     },
     {
       "title": "Trading places: how the Print Swap app is helping photographers fill their walls with art",
@@ -2929,7 +2931,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 6.505812777777779
+      "score": 6.177858024691358
     },
     {
       "title": "Room share: new agency The Other Room gives female artists their own creative space",
@@ -2942,7 +2944,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 6.241931604938272
+      "score": 5.913976851851853
     },
     {
       "title": "The violence of immediacy: Katerina Angelopoulou advocates for justice after a deadly wildfire in a Greek town",
@@ -2955,7 +2957,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 5.908424660493828
+      "score": 5.580469907407407
     },
     {
       "title": "Valérie Belin and the objects that outlive us",
@@ -2968,20 +2970,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 5.856051975308642
-    },
-    {
-      "title": "David J Shaw challenges the myths about Jaywick, Britain’s “most deprived” place",
-      "link": "https://www.1854.photography/2026/11/david-j-shaw-challenges-the-myths-about-jaywick-britains-most-deprived-place/",
-      "date": "Sat, 07 Nov 2026 18:00:29 +0000",
-      "description": "David J Shaw visits the Essex village of Jaywick and and becomes enraptured by a spirited community at odds with its reputation as the UK's 'most deprived' place The post David J Shaw challenges the myths about Jaywick, Britain’s “most deprived” place appeared first on 1854 Photography.",
-      "source": "British Journal of Photography",
-      "sourceWeight": 0.9,
-      "brandCounts": {},
-      "hardwareCounts": {},
-      "brandMatches": 0,
-      "hardwareMatches": 0,
-      "score": 5.241854444444445
+      "score": 5.528097222222223
     },
     {
       "title": "32 Inspiring Photobooks to Give this Holiday Season",
@@ -2994,7 +2983,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 10.778671574074075
+      "score": 10.450716820987655
     },
     {
       "title": "How Can Photographs Inspire Social Change?",
@@ -3007,7 +2996,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 10.499798117283952
+      "score": 10.171843364197532
     },
     {
       "title": "The Camera Obscura Turns Photography’s History Upside Down",
@@ -3022,7 +3011,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 1,
-      "score": 12.488787314814816
+      "score": 12.160832561728396
     },
     {
       "title": "Announcing the Winners of the 2026 PhotoBook Awards",
@@ -3035,7 +3024,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 7.089693950617284
+      "score": 6.761739197530864
     },
     {
       "title": "Aperture Celebrates 2026 Gala",
@@ -3050,7 +3039,7 @@
       "hardwareCounts": {},
       "brandMatches": 1,
       "hardwareMatches": 0,
-      "score": 9.852051203703704
+      "score": 9.524096450617286
     },
     {
       "title": "A Look Inside the 2026 PhotoBook Awards Shortlist",
@@ -3065,7 +3054,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 1,
-      "score": 7.851993333333333
+      "score": 7.524038580246914
     },
     {
       "title": "A Luminous Portrait of a Los Angeles Community",
@@ -3078,7 +3067,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 2.1783397839506176
+      "score": 1.8503850308641976
     },
     {
       "title": "Josef Koudelka’s Defining Moment in Prague",
@@ -3091,7 +3080,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 1.4375797530864194
+      "score": 1.1096250000000005
     },
     {
       "title": "A Tokyo Drifter’s Catalog of Crude Coincidences",
@@ -3120,6 +3109,101 @@
       "score": 0.8
     },
     {
+      "title": "Jonathas de Andrade wins the 2026 Eye Art & Film Prize",
+      "link": "https://loeildelaphotographie.com/en/jonathas-de-andrade-wins-the-2026-eye-art-film-prize/",
+      "date": "Wed, 25 Nov 2026 03:30:36 +0000",
+      "description": "The Brazilian artist and filmmaker Jonathas de Andrade is the twelfth winner of the Eye Art & Film Prize. De Andrade receives the prize […] Cet article Jonathas de Andrade wins the 2026 Eye Art & Film Prize est apparu en premier sur The Eye of Photography Magazine.",
+      "source": "The Eye of Photography",
+      "sourceWeight": 0.8,
+      "brandCounts": {},
+      "hardwareCounts": {},
+      "brandMatches": 0,
+      "hardwareMatches": 0,
+      "score": 10.612537808641974
+    },
+    {
+      "title": "Call for Applications / 2027 Curatorial Research Fellowship",
+      "link": "https://loeildelaphotographie.com/en/call-for-applications-2027-curatorial-research-fellowship/",
+      "date": "Wed, 25 Nov 2026 03:25:13 +0000",
+      "description": "The Rencontres d’Arles curatorial research grant, worth 20,000 euros, is open to all exhibition curators. The selected project will be carried out in two […] Cet article Call for Applications / 2027 Curatorial Research Fellowship est apparu en premier sur The Eye of Photography Magazine.",
+      "source": "The Eye of Photography",
+      "sourceWeight": 0.8,
+      "brandCounts": {
+        "ARRI": 1
+      },
+      "hardwareCounts": {},
+      "brandMatches": 1,
+      "hardwareMatches": 0,
+      "score": 15.611291666666668
+    },
+    {
+      "title": "Open calls / Présence(s) Photographie",
+      "link": "https://loeildelaphotographie.com/en/open-calls-presences-photographie/",
+      "date": "Wed, 25 Nov 2026 03:20:38 +0000",
+      "description": "PRÉSENCE(S) PHOTOGRAPHIE aims to bring vibrant, high-quality artistic photography to everyone. It organises a festival in the middle Rhône valley, on both banks of […] Cet article Open calls / Présence(s) Photographie est apparu en premier sur The Eye of Photography Magazine.",
+      "source": "The Eye of Photography",
+      "sourceWeight": 0.8,
+      "brandCounts": {},
+      "hardwareCounts": {},
+      "brandMatches": 0,
+      "hardwareMatches": 0,
+      "score": 10.61023070601852
+    },
+    {
+      "title": "Open Calls / Kanavu Aerial Workshop for women photographers in Tamil Nadu",
+      "link": "https://loeildelaphotographie.com/en/open-calls-kanavu-aerial-workshop-for-women-photographers-in-tamil-nadu/",
+      "date": "Wed, 25 Nov 2026 03:15:44 +0000",
+      "description": "Chennai Photo Biennale Foundation’s Kanavu Fellowship and Kala Collective, in partnership with Chennai Drone Academy, invite applications for the Kanavu Aerial Workshop. The 10-day […] Cet article Open Calls / Kanavu Aerial Workshop for women photographers in Tamil Nadu est apparu en premier sur The Eye of Photography Magazine.",
+      "source": "The Eye of Photography",
+      "sourceWeight": 0.8,
+      "brandCounts": {},
+      "hardwareCounts": {
+        "drone": 1
+      },
+      "brandMatches": 0,
+      "hardwareMatches": 1,
+      "score": 13.60909644675926
+    },
+    {
+      "title": "Inland Workshop 2026 Grant winner – Maryna Brodovska",
+      "link": "https://loeildelaphotographie.com/en/inland-workshop-2026-grant-winner-marina-brodovska/",
+      "date": "Wed, 25 Nov 2026 03:10:51 +0000",
+      "description": "From June to November 2026, Inland, with the support of JournalismFund Europe, ran a 6-month hybrid workshop “Environmental Storytelling in Times of Conflict” for […] Cet article Inland Workshop 2026 Grant winner – Maryna Brodovska est apparu en premier sur The Eye of Photography Magazine.",
+      "source": "The Eye of Photography",
+      "sourceWeight": 0.8,
+      "brandCounts": {},
+      "hardwareCounts": {},
+      "brandMatches": 0,
+      "hardwareMatches": 0,
+      "score": 10.607966045524691
+    },
+    {
+      "title": "The LUX Network is organising its big Christmas sale",
+      "link": "https://loeildelaphotographie.com/en/the-lux-network-is-organising-its-big-christmas-sale/",
+      "date": "Wed, 25 Nov 2026 03:05:58 +0000",
+      "description": "As the festive season approaches, the LUX Network invites photography enthusiasts, art lovers and anyone with a curiosity about the art form to a […] Cet article The LUX Network is organising its big Christmas sale est apparu en premier sur The Eye of Photography Magazine.",
+      "source": "The Eye of Photography",
+      "sourceWeight": 0.8,
+      "brandCounts": {},
+      "hardwareCounts": {},
+      "brandMatches": 0,
+      "hardwareMatches": 0,
+      "score": 10.606835644290125
+    },
+    {
+      "title": "Paris – Là où le sol pousse",
+      "link": "https://loeildelaphotographie.com/en/paris-la-ou-le-sol-pousse/",
+      "date": "Wed, 25 Nov 2026 03:00:29 +0000",
+      "description": "From November 25th to December 23rd, 2026, “Where the Soil Grows” brings together artists, scientists, photographers, writers, and researchers in Paris 261 Boulevard Raspail […] Cet article Paris – Là où le sol pousse est apparu en premier sur The Eye of Photography Magazine.",
+      "source": "The Eye of Photography",
+      "sourceWeight": 0.8,
+      "brandCounts": {},
+      "hardwareCounts": {},
+      "brandMatches": 0,
+      "hardwareMatches": 0,
+      "score": 10.605566354166667
+    },
+    {
       "title": "Gros & Delettrez : Bert Stern Collection",
       "link": "https://loeildelaphotographie.com/en/gros-delettrez-bert-stern-collection/",
       "date": "Tue, 24 Nov 2026 06:00:41 +0000",
@@ -3130,7 +3214,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 10.641900740740741
+      "score": 10.313945983796296
     },
     {
       "title": "Deyrolle : Enzo Lucia : Memoria Entomologica",
@@ -3143,7 +3227,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 10.641426203703704
+      "score": 10.31347144675926
     },
     {
       "title": "La Chambre : Alice Bommer. A Photographer Revealed",
@@ -3156,98 +3240,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 10.640997962962963
-    },
-    {
-      "title": "Courthézon 2026 : An Inter-Club Photography Contest",
-      "link": "https://loeildelaphotographie.com/en/courthezon-2026-an-inter-club-photography-contest/",
-      "date": "Tue, 24 Nov 2026 05:54:33 +0000",
-      "description": "We forget all too quickly that, only half a century ago, clubs devoted to photography were the cream of the crop when it came […] Cet article Courthézon 2026 : An Inter-Club Photography Contest est apparu en premier sur The Eye of Photography Magazine.",
-      "source": "The Eye of Photography",
-      "sourceWeight": 0.8,
-      "brandCounts": {},
-      "hardwareCounts": {},
-      "brandMatches": 0,
-      "hardwareMatches": 0,
-      "score": 10.640480987654321
-    },
-    {
-      "title": "Fédération Compagnonnique : Grégoire Dupuis : Résurgence",
-      "link": "https://loeildelaphotographie.com/en/federation-compagnonnique-gregoire-dupuis-resurgence/",
-      "date": "Tue, 24 Nov 2026 05:52:48 +0000",
-      "description": "“Resurgence” — Grégoire Dupuis Photographs the Forms of the Ocean, and More… Extended until Wednesday, December 15, 2026, the Fédération Compagnonnique in Anglet – […] Cet article Fédération Compagnonnique : Grégoire Dupuis : Résurgence est apparu en premier sur The Eye of Photography Magazine.",
-      "source": "The Eye of Photography",
-      "sourceWeight": 0.8,
-      "brandCounts": {},
-      "hardwareCounts": {},
-      "brandMatches": 0,
-      "hardwareMatches": 0,
-      "score": 10.640075895061727
-    },
-    {
-      "title": "Chennai Photo Biennale & WWF-India : In Dialogue with Nature",
-      "link": "https://loeildelaphotographie.com/en/chennai-photo-biennale-wwf-india-in-dialogue-with-nature/",
-      "date": "Tue, 24 Nov 2026 05:50:12 +0000",
-      "description": "Chennai Photo Biennale & WWF-India present In Dialogue with Nature. A delicate interplay between wildlife, landscapes, topographies, the human position and connection reveals a […] Cet article Chennai Photo Biennale & WWF-India : In Dialogue with Nature est apparu en premier sur The Eye of Photography Magazine.",
-      "source": "The Eye of Photography",
-      "sourceWeight": 0.8,
-      "brandCounts": {},
-      "hardwareCounts": {},
-      "brandMatches": 0,
-      "hardwareMatches": 0,
-      "score": 10.639474043209878
-    },
-    {
-      "title": "Éditions Odyssée : Giovanni Del Brenna & Simone Perolari : Le Tir sportif (Sport Shooting)",
-      "link": "https://loeildelaphotographie.com/en/editions-odyssee-giovanni-del-brenna-simone-perolari-le-tir-sportif-sport-shooting/",
-      "date": "Tue, 24 Nov 2026 05:48:34 +0000",
-      "description": "Published by Éditions Odyssée, conceived and developed by photographers Giovanni Del Brenna and Simone Perolari, “Le Tir sportif” is the first publication in France […] Cet article Éditions Odyssée : Giovanni Del Brenna & Simone Perolari : Le Tir sportif (Sport Shooting) est apparu en premier sur The Eye of Photography Magazine.",
-      "source": "The Eye of Photography",
-      "sourceWeight": 0.8,
-      "brandCounts": {},
-      "hardwareCounts": {},
-      "brandMatches": 0,
-      "hardwareMatches": 0,
-      "score": 10.639095956790124
-    },
-    {
-      "title": "Archives : Ralph Gibson, L’Histoire de France",
-      "link": "https://loeildelaphotographie.com/en/archives-ralph-gibson-lhistoire-de-france/",
-      "date": "Tue, 24 Nov 2026 05:46:41 +0000",
-      "description": "The work in this exhibition at the Hotel Scribe, in Paris, are Dye Transfer photographs selected by Jean-Luc Monterosso from the collection of the Maison Européenne de la Photographie from Ralph Gibson’s 1991 book and exhibition entitled L’Histoire de France. Cet article Archives : Ralph Gibson, L’Histoire de France est apparu en premier sur The Eye of Photography Magazine.",
-      "source": "The Eye of Photography",
-      "sourceWeight": 0.8,
-      "brandCounts": {},
-      "hardwareCounts": {},
-      "brandMatches": 0,
-      "hardwareMatches": 0,
-      "score": 10.638660000000002
-    },
-    {
-      "title": "Archives : In Memoriam : Léon Herschtritt (1936-2020)",
-      "link": "https://loeildelaphotographie.com/en/archives-in-memoriam-leon-herschtritt-1936-2020/",
-      "date": "Tue, 24 Nov 2026 05:44:49 +0000",
-      "description": "With a passion for photography from an early age, Léon Herschtritt studied at the Ecole Nationale de la Photographie. Sent to Algeria to teach photography, Leon Herschtritt spent his days in idleness, but met Nicole, who became his wife, and photographed children in the streets of Algiers. Cet article Archives : In Memoriam : Léon Herschtritt (1936-2020) est apparu en premier sur The Eye of Photography Magazine.",
-      "source": "The Eye of Photography",
-      "sourceWeight": 0.8,
-      "brandCounts": {},
-      "hardwareCounts": {},
-      "brandMatches": 0,
-      "hardwareMatches": 0,
-      "score": 10.638227901234568
-    },
-    {
-      "title": "The Questionnaire : Mariana Cook by Carole Schmitz",
-      "link": "https://loeildelaphotographie.com/en/the-questionnaire-mariana-cook-by-carole-schmitz/",
-      "date": "Mon, 23 Nov 2026 06:00:47 +0000",
-      "description": "Mariana Cook – Photographing time, inhabiting elsewhere There are photographers whose gaze does more than simply capture the world; it seeks to reveal its […] Cet article The Questionnaire : Mariana Cook by Carole Schmitz est apparu en premier sur The Eye of Photography Magazine.",
-      "source": "The Eye of Photography",
-      "sourceWeight": 0.8,
-      "brandCounts": {},
-      "hardwareCounts": {},
-      "brandMatches": 0,
-      "hardwareMatches": 0,
-      "score": 10.308590555555558
+      "score": 10.313043206018518
     },
     {
       "title": "LensCulture’s Big List: Favorite Photobooks of 2026",
@@ -3262,7 +3255,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 1,
-      "score": 11.22507589506173
+      "score": 10.897121138117283
     },
     {
       "title": "Mountain Black Heart",
@@ -3277,7 +3270,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 1,
-      "score": 8.891742561728396
+      "score": 8.563787804783951
     },
     {
       "title": "Frozen Features",
@@ -3290,7 +3283,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 5.891742561728395
+      "score": 5.56378780478395
     },
     {
       "title": "Looking for Unexpected Delights: Paris Photo 2026 Preview",
@@ -3305,7 +3298,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 1,
-      "score": 6.558409228395061
+      "score": 6.230454471450618
     },
     {
       "title": "A Visual Education: What We See, What We Remember",
@@ -3320,7 +3313,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 1,
-      "score": 6.558409228395061
+      "score": 6.230454471450618
     },
     {
       "title": "The Burning of Autumn",
@@ -3333,7 +3326,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 1.2250758950617286
+      "score": 0.8971211381172843
     },
     {
       "title": "Muted Ember: Youth and Uncertainty in Industrial China",
